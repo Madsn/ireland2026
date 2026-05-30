@@ -1,0 +1,55 @@
+site_name: Ireland Trip 2026
+site_description: July 13–23 · Madsen + Wilhelmsen
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+
+nav:
+  - Overview: index.md
+  - Itinerary:
+    - 'Leg 1 — Dublin (Jul 13–16)': itinerary/leg-1-dublin.md
+    - 'Leg 2 — Drogheda (Jul 16–17)': itinerary/leg-2-drogheda.md
+    - 'Leg 3 — Northern Ireland (Jul 17–18)': itinerary/leg-3-northern-ireland.md
+    - 'Leg 4 — Belfast (Jul 18–20)': itinerary/leg-4-belfast.md
+    - 'Leg 5 — Leixlip / Emerald Park (Jul 20–21)': itinerary/leg-5-leixlip.md
+    - 'Leg 6 — Wicklow (Jul 21–22)': itinerary/leg-6-wicklow.md
+    - 'Leg 7 — Departure (Jul 22–23)': itinerary/leg-7-departure.md
+  - Logistics:
+    - Flights: logistics/flights.md
+    - Accommodation: logistics/accommodation.md
+    - 'Hendrick Smithfield': logistics/hendrick-smithfield.md
+    - 'Scholars Townhouse Hotel': logistics/scholars-townhouse-hotel.md
+    - 'Gelilah House': logistics/gelilah-house.md
+    - 'Ormeau Park Residence': logistics/ormeau-park-residence.md
+    - 'Court Yard Hotel, Leixlip': logistics/courtyard-leixlip.md
+    - '⚠️ Highlands Hotel (CANCEL)': logistics/highlands-hotel-glenties.md
+    - 'Druids Glen Resort': logistics/druids-glen-resort.md
+    - 'Premier Inn Dublin Airport': logistics/premier-inn-dublin-airport.md
+  - Places:
+    - Dublin: places/dublin.md
+    - Drogheda: places/drogheda.md
+    - 'Newgrange / Brú na Bóinne': places/newgrange.md
+    - 'Ardgillan Castle': places/ardgillan.md
+    - 'Carrickmacross Workhouse': places/carrickmacross.md
+    - Belfast: places/belfast.md
+    - 'Emerald Park': places/emerald-park.md
+    - Glendalough: places/glendalough.md
+  - Budget: budget/overview.md
+
+markdown_extensions:
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - admonition

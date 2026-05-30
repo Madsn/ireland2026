@@ -1,0 +1,30 @@
+# Dublin
+
+Capital of Ireland. Arrival and departure city for the trip. Both families arrive here July 13. Three-night base for city sightseeing.
+
+## Trip Facts
+
+| Field | Value |
+|-------|-------|
+| Hotel | [Hendrick Smithfield](../logistics/hendrick-smithfield.md) (Smithfield area) |
+| Stay | Jul 13–16 (3 nights) |
+| Return night | [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.md) (Jul 22–23) |
+
+## Planned Activities
+
+| Activity | Notes |
+|----------|-------|
+| Dublin Viking Museum | |
+| Guinness Storehouse | ⭐ **Pre-book** — very busy in summer |
+| Leprechaun Museum | Good for kids |
+| ~~Dublin Castle~~ | **CLOSED** — skip |
+
+## Notes
+
+- Smithfield is a central neighbourhood, walkable to most sights
+- Wilhelmsen arrives ~5h before Madsen on Jul 13 — plan for the gap
+
+## Connections
+
+- Itinerary: [Dublin Arrival Leg](../itinerary/leg-1-dublin.md)
+- Itinerary: [Dublin Departure Leg](../itinerary/leg-7-departure.md)
