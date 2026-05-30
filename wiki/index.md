@@ -18,56 +18,39 @@ Format:
 
 ---
 
-## Overview Pages
+## ireland-trip
 
+### Overview
 | Page | Description | Domain | Updated |
 |---|---|---|---|
-| [[overview]] | High-level synthesis across all domains | all | — |
+| [[ireland-trip/overview]] | Trip dates, route, key constraints and decisions | ireland-trip | 2026-05-30 |
 
----
+### Places
+| Page | Description | Domain | Updated |
+|---|---|---|---|
+| *(empty — add pages as you research places)* | | | |
 
-## DOMAIN_1
+### Logistics
+| Page | Description | Domain | Updated |
+|---|---|---|---|
+| [[ireland-trip/logistics/flights]] | Flight options and booking status | ireland-trip | 2026-05-30 |
+| [[ireland-trip/logistics/accommodation]] | Accommodation overview across all nights | ireland-trip | 2026-05-30 |
+
+### Itinerary
+| Page | Description | Domain | Updated |
+|---|---|---|---|
+| *(empty — add day pages as itinerary takes shape)* | | | |
+
+### Budget
+| Page | Description | Domain | Updated |
+|---|---|---|---|
+| [[ireland-trip/budget/overview]] | Total budget estimate by category | ireland-trip | 2026-05-30 |
 
 ### Sources
 | Page | Description | Domain | Updated |
 |---|---|---|---|
 | *(empty — add pages as you ingest sources)* | | | |
 
-### Concepts
-| Page | Description | Domain | Updated |
-|---|---|---|---|
-| *(empty — add pages as you build concepts)* | | | |
-
-### Entities
-| Page | Description | Domain | Updated |
-|---|---|---|---|
-| *(empty)* | | | |
-
 ---
 
-## DOMAIN_2
-
-### Sources
-*(empty)*
-
-### Concepts
-*(empty)*
-
----
-
-## DOMAIN_3
-
-### Sources
-*(empty)*
-
-### Concepts
-*(empty)*
-
----
-
-## Shared (Cross-Domain)
-*(empty — add pages when cross-domain connections emerge)*
-
----
-
-*Maintained by Claude Code · LLM Wiki Template*
+*Maintained by Claude Code · Ireland 2026 Trip Wiki*

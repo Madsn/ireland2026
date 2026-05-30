@@ -19,15 +19,22 @@ Parseable with:
 ```bash
 grep "^## \[" wiki/log.md | tail -10   # last 10 entries
 grep "ingest" wiki/log.md | wc -l      # total ingests
-grep "2026-04" wiki/log.md             # all entries from April 2026
+grep "2026-05" wiki/log.md             # all entries from May 2026
 ```
 
 ---
 
-## [YYYY-MM-DD] bootstrap | all | Initial wiki structure created
+## [2026-05-30] bootstrap | ireland-trip | Initial wiki structure created
 
 Wiki initialized from LLM Wiki Template.
-Domains: DOMAIN_1, DOMAIN_2, DOMAIN_3
-Tool: [Claude Code / Codex / other]
+Domain: ireland-trip (single domain)
+Page types: places, logistics, itinerary, budget, sources
+Tool: Claude Code
+
+Seed pages created:
+- wiki/ireland-trip/overview.md
+- wiki/ireland-trip/logistics/flights.md
+- wiki/ireland-trip/logistics/accommodation.md
+- wiki/ireland-trip/budget/overview.md
 
 ---
