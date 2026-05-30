@@ -1,26 +1,31 @@
 ---
 title: "Logistics: Flights"
 logistics_type: flight
-status: researching
+status: confirmed
 domain: ireland-trip
 last_updated: 2026-05-30
 ---
 
 # Flights
 
-## Summary
-*(to be filled in)*
+## Inbound — July 13
 
-## Options Considered
-*(add flight options here as researched)*
+| Family | Flight | Arrival time | Notes |
+|--------|--------|-------------|-------|
+| Wilhelmsen | Aer Lingus EI80 | 08:10 | Arrives first — ~5h before Madsen |
+| Madsen | Pegasus PC1157 | 13:00 | Pegasus = Turkish low-cost carrier |
 
-## Key Details
-- Departure airport:
-- Arrival airport:
-- Dates:
-- Airline:
-- Cost:
-- Confirmation #:
-- Cancellation policy:
+**Note:** Wilhelmsen arrives ~5 hours before Madsen. Plan for an early hotel check-in or luggage storage.
 
-## Notes
+## Outbound — July 23
+
+| Family | Flight | Departure time | Notes |
+|--------|--------|---------------|-------|
+| Wilhelmsen | Aer Lingus EI164 | 12:00 | |
+| Madsen | Ryanair FR632 | 11:25 | Departs slightly earlier |
+
+**Note:** Both families depart same morning (Jul 23). Premier Inn Dublin Airport is the final hotel — proximity to airport is the point.
+
+## Open Questions
+- Which terminal does Pegasus PC1157 use at Dublin Airport?
+- Check-in time for Premier Inn on Jul 22 — Wilhelmsen arriving from Wicklow
