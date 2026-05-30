@@ -8,8 +8,8 @@ theme:
       primary: green
       accent: light green
   features:
-    - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - search.highlight
     - search.suggest
