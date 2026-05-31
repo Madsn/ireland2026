@@ -25,7 +25,7 @@ Free until **July 12, 2026** (1 day before arrival). Within 1 day of arrival the
 - Most expensive single booking of the trip (3 nights + Dublin city prices)
 - Bunk beds suitable for children
 - Smithfield is central Dublin — walkable to Viking Museum, Guinness Storehouse, Leprechaun Museum
-- Wilhelmsen arrives ~5h before Madsen on Jul 13 — check early check-in options or luggage storage at hotel
+- Families arrive ~5h apart on Jul 13 (Wilhelmsen 08:10, Madsen 13:00) — check early check-in options or luggage storage for the waiting family
 
 ## Connections
 

@@ -22,7 +22,7 @@ Capital of Ireland. Arrival and departure city for the trip. Both families arriv
 ## Notes
 
 - Smithfield is a central neighbourhood, walkable to most sights
-- Wilhelmsen arrives ~5h before Madsen on Jul 13 — plan for the gap
+- Families arrive ~5h apart on Jul 13 (Wilhelmsen 08:10, Madsen 13:00) — plan for the gap
 
 ## Connections
 

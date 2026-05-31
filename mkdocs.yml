@@ -27,6 +27,7 @@ nav:
     - 'Leg 7 — Departure (Jul 22–23)': itinerary/leg-7-departure.md
   - Logistics:
     - Flights: logistics/flights.md
+    - 'Car Rental': logistics/car-rental.md
     - Accommodation: logistics/accommodation.md
     - 'Hendrick Smithfield': logistics/hendrick-smithfield.md
     - 'Scholars Townhouse Hotel': logistics/scholars-townhouse-hotel.md

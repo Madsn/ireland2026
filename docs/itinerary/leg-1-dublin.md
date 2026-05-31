@@ -5,8 +5,8 @@
 ## Arrival Notes
 
 - **Wilhelmsen** arrive Aer Lingus EI80 at 08:10
-- **Madsen** arrive Pegasus PC1157 at 13:00 (~5h later)
-- Plan for Wilhelmsen to drop bags / explore Smithfield area while waiting
+- **Madsen** arrive Pegasus PC409 at 13:00 (~5h later)
+- Wilhelmsen can drop bags / explore Smithfield area during the wait
 
 ## Activities
 
