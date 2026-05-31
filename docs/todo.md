@@ -4,22 +4,56 @@ Trip starts **Jul 13, 2026** — today is 2026-05-31, which is **43 days out**.
 
 ---
 
-## Bookings — must be done now
+## Bookings — open now, book this week
 
-These are time-critical. July is peak season across Ireland and Northern Ireland. Several of these sell out weeks in advance; a few are already close to the edge.
+These attractions are already accepting bookings and July slots will go — don't wait.
 
-| # | What | Date | Where to book | Notes |
-|---|------|------|---------------|-------|
-| 1 | **Brú na Bóinne / Newgrange** | Jul 17, first slot (~09:00) | [OPW Heritage Ireland](https://heritageireland.ie/) | Single most time-critical booking on the trip. July slots disappear weeks ahead. Combined Newgrange + Knowth ticket recommended. |
-| 2 | **Game of Thrones Studio Tour** | Jul 17 (~12:40–15:40) | [gameofthronesstudiotour.com](https://gameofthronesstudiotour.com/) | Must arrive by ~12:40 to make Gelilah House check-in (15:00–18:00 window). £64/family. Pre-book a specific time slot. |
-| 3 | **Guinness Storehouse** | Jul 14 (morning slot) | [guinness-storehouse.com](https://www.guinness-storehouse.com/) | Most-visited paid attraction in Ireland. Sells out in July. Choose a morning slot. |
-| 4 | **Titanic Belfast + SS Nomadic** | Jul 18 (~12:00) | [titanicbelfast.com](https://www.titanicbelfast.com/) | Sells out in summer. Book them together. Allow 3–4 h; plan around 12:00 start. |
+### Game of Thrones Studio Tour — Jul 17
+
+[gameofthronesstudiotour.com](https://gameofthronesstudiotour.com/) · £64/family
+
+Must arrive by ~12:40 to make Gelilah House check-in (15:00–18:00 hard window). Choose the 12:40 time slot or the closest available before it. July weekends sell out; weekday slots like Jul 17 (Friday) are slightly more available but still fill fast — book now rather than in a week.
+
+**Cancellation risk:** Check the policy when booking. If tickets are non-refundable, the financial exposure is modest (~£64/family) relative to the total trip cost. The risk of being unable to get a Jul 17 slot by waiting is greater than the risk of needing to cancel.
+
+### Guinness Storehouse — Jul 14
+
+[guinness-storehouse.com](https://www.guinness-storehouse.com/) · ~€30 adult / ~€18 child
+
+Most-visited paid attraction in Ireland. July morning slots (needed here — the day continues with Dublinia in the afternoon) go 3–4 weeks ahead. Book now for a 10:00–11:00 opening slot.
+
+### Titanic Belfast + SS Nomadic — Jul 18
+
+[titanicbelfast.com](https://www.titanicbelfast.com/) · ~£22 adult / ~£11 child
+
+Book together if the site allows it; otherwise book separately. Plan around a 12:00 start to allow time to arrive from Gelilah House. July availability narrows 3–4 weeks out.
+
+---
+
+## Book on a specific date
+
+| What | Book on | Notes |
+|------|---------|-------|
+| **Brú na Bóinne / Newgrange** | **17 June 2026** | OPW bookings open exactly 30 days in advance. For a Jul 17 visit, the booking window opens on **Jun 17**. Set a reminder — July slots at the 09:00 opening go within hours of release. Book immediately at [heritageireland.ie](https://heritageireland.ie/). |
+| **Emerald Park tickets** | **Evening of Jul 20** | 20% discount applies when booked the day before. Book online after checking into the Courtyard Hotel, Leixlip. Do not book earlier (discount requires same-day-before purchase). |
+
+### Which Brú na Bóinne ticket to book
+
+There are three ticket types. For this trip, book **Brú na Bóinne Tour + Newgrange Chamber**.
+
+| Ticket | Includes | Verdict |
+|--------|----------|---------|
+| **Brú na Bóinne Tour + Newgrange Chamber** | Visitor centre + shuttle bus + guided entry into the Newgrange passage tomb chamber | ✅ **Book this one.** The chamber interior — corbelled ceiling, carved kerbstones, the roof-box aligned to the winter solstice — is the entire reason Newgrange is a UNESCO site. Without chamber access it's just a large grass mound. |
+| Newgrange Tour + Exhibition | Visitor centre + shuttle + viewing of Newgrange exterior only | ✗ Skip — no chamber access. |
+| Knowth Tour + Exhibition | Visitor centre + Knowth mound exterior + decorated kerbstones | ✗ Skip for this trip — Knowth is excellent but with a 09:00–11:30 window there isn't time for both sites. |
+
+Chamber entry requires a specific guided tour with a fixed group size — this is the scarcest ticket on the site. On Jun 17, book this first.
 
 ---
 
 ## Bookings — book soon
 
-These don't need to be booked *today* but are time-sensitive enough that waiting increases risk.
+These don't need to be booked today but are time-sensitive enough that waiting increases risk.
 
 | # | What | Date | Where to book | Notes |
 |---|------|------|---------------|-------|
@@ -30,14 +64,6 @@ These don't need to be booked *today* but are time-sensitive enough that waiting
 | 9 | **Cathedral Quarter dinner — Belfast** | Jul 19 evening | Venue direct | The Duke of York or Mourne Seafood Bar. Both benefit from a reservation. |
 | 10 | **Hugo's Restaurant, Druids Glen** | Jul 21 evening | Druids Glen Resort (direct) | Book when checking in or call ahead — on-site restaurant, limited covers. |
 | 11 | **Traditional music evening — Jul 22** | Jul 22 evening | See note | The Cobblestone (Smithfield) is walk-in, no booking needed. If preferring a dinner-show (Celtic Nights, Arlington Hotel or Merry Ploughboy Pub), book ahead. Taxi from Premier Inn Dublin Airport to Smithfield: ~25 min. |
-
----
-
-## Book on a specific date
-
-| What | Book on | Notes |
-|------|---------|-------|
-| **Emerald Park tickets** | **Evening of Jul 20** | 20% discount applies when booked the day before. Book online after checking into the Courtyard Hotel, Leixlip. Do not book earlier (discount requires same-day-before purchase) and do not leave until morning of Jul 21. |
 
 ---
 
