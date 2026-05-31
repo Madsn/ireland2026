@@ -12,13 +12,23 @@
 <script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.min.js"></script>
 <script>
 (function () {
-  var stops = [
-    { ll: [53.34797, -6.28098],   name: 'Dublin (start)',       popup: '<b>Dublin — start of leg 2</b><br>Hendrick Smithfield Hotel<br>Check-out Jul 16' },
-    { ll: [53.586642, -6.160243], name: 'Ardgillan Castle',     popup: '<b>Ardgillan Castle & Gardens</b><br>En route · free entry to grounds' },
-    { ll: [53.7177, -6.34826],    name: 'Drogheda (overnight)', popup: '<b>Scholars Townhouse Hotel</b><br>Check-in Jul 16 · 1 night' },
+  var route = [
+    { ll: [53.34797, -6.28098], name: 'Dublin (Hendrick Smithfield)',  popup: '<b>Hendrick Smithfield</b><br>Check-out Jul 16' },
+    { ll: [53.71770, -6.34826], name: 'Drogheda (Scholars Townhouse)', popup: '<b>Scholars Townhouse Hotel</b><br>Check-in Jul 16 · 1 night' },
+  ];
+  var pois = [
+    { ll: [53.58664, -6.16024], popup: '<b>Ardgillan Castle & Gardens</b><br>En route · free entry to grounds' },
+    { ll: [53.69457, -6.44630], popup: '<b>Newgrange / Brú na Bóinne</b><br>⚠️ Must pre-book — first slot Jul 17 morning' },
+    { ll: [53.71570, -6.35040], popup: '<b>Drogheda Museum (Millmount)</b><br>Walkable from town centre' },
+    { ll: [53.71670, -6.35440], popup: '<b>Irish Military War Museum</b>' },
+    { ll: [53.71940, -6.46080], popup: '<b>Old Mellifont Abbey</b><br>12 km west of Drogheda' },
   ];
 
-  var map = L.map('map-leg2', { scrollWheelZoom: false }).setView([53.65, -6.45], 9);
+  var allPts = route.map(function (r) { return r.ll; }).concat(pois.map(function (p) { return p.ll; }));
+  var bounds = L.latLngBounds(allPts.map(function (ll) { return L.latLng(ll[0], ll[1]); }));
+
+  var map = L.map('map-leg2', { scrollWheelZoom: false });
+  map.fitBounds(bounds, { padding: [40, 40] });
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -26,21 +36,23 @@
   }).addTo(map);
 
   L.Routing.control({
-    waypoints: stops.map(function (s) { return L.latLng(s.ll[0], s.ll[1]); }),
+    waypoints: route.map(function (s) { return L.latLng(s.ll[0], s.ll[1]); }),
     routeWhileDragging: false,
     addWaypoints: false,
     draggableWaypoints: false,
-    fitSelectedRoutes: true,
+    fitSelectedRoutes: false,
     show: false,
     lineOptions: { styles: [{ color: '#2e7d32', weight: 5, opacity: 0.85 }] },
     createMarker: function (i, wp) {
-      return L.marker(wp.latLng, { title: stops[i].name }).bindPopup(stops[i].popup);
+      return L.marker(wp.latLng, { title: route[i].name }).bindPopup(route[i].popup);
     }
   }).addTo(map);
 
-  L.circleMarker([53.694567, -6.4463], {
-    radius: 9, color: '#1565c0', fillColor: '#1976d2', fillOpacity: 0.85, weight: 2
-  }).bindPopup('<b>Newgrange / Brú na Bóinne Visitor Centre</b><br>⚠️ Must pre-book — sells out in summer').addTo(map);
+  pois.forEach(function (p) {
+    L.circleMarker(p.ll, {
+      radius: 9, color: '#1565c0', fillColor: '#1976d2', fillOpacity: 0.85, weight: 2
+    }).bindPopup(p.popup).addTo(map);
+  });
 })();
 </script>
 

@@ -2,6 +2,47 @@
 
 Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.md) · €445.80 · breakfast included. This is the last night together for both families.
 
+<style>
+  #map-leg7 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
+  #map-leg7 .leaflet-routing-container { display: none !important; }
+</style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<div id="map-leg7"></div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.min.js"></script>
+<script>
+(function () {
+  var route = [
+    { ll: [53.07260, -6.10610], name: 'Druids Glen Resort',         popup: '<b>Druids Glen Resort</b><br>Check-out Jul 22 morning' },
+    { ll: [53.42700, -6.23990], name: 'Premier Inn Dublin Airport', popup: '<b>Premier Inn Dublin Airport</b><br>Final night together · Jul 22–23' },
+  ];
+
+  var allPts = route.map(function (r) { return r.ll; });
+  var bounds = L.latLngBounds(allPts.map(function (ll) { return L.latLng(ll[0], ll[1]); }));
+
+  var map = L.map('map-leg7', { scrollWheelZoom: false });
+  map.fitBounds(bounds, { padding: [60, 60] });
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    maxZoom: 19
+  }).addTo(map);
+
+  L.Routing.control({
+    waypoints: route.map(function (s) { return L.latLng(s.ll[0], s.ll[1]); }),
+    routeWhileDragging: false,
+    addWaypoints: false,
+    draggableWaypoints: false,
+    fitSelectedRoutes: false,
+    show: false,
+    lineOptions: { styles: [{ color: '#2e7d32', weight: 5, opacity: 0.85 }] },
+    createMarker: function (i, wp) {
+      return L.marker(wp.latLng, { title: route[i].name }).bindPopup(route[i].popup);
+    }
+  }).addTo(map);
+})();
+</script>
+
 ## Day Plan
 
 **Jul 22 — arrival from Druids Glen:**
