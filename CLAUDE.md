@@ -118,10 +118,10 @@ Tasks tracked here for continuity across sessions. Update when starting or compl
 
 | # | Status | Task |
 |---|--------|------|
-| 1 | pending | **Review itinerary legs for geographic and timing feasibility** — flag unrealistic routing (e.g. Carrickmacross on leg 2 means driving north past Drogheda, then back south, only to head north again next day). Produce revised route recommendation per leg. |
+| 1 | ✅ done | **Review itinerary legs for geographic and timing feasibility** — removed Carrickmacross from leg 2 (40 km wrong-direction detour), tightened leg 2/3 day plan (Newgrange only on Jul 17 morning, depart by 10:30), added Leg 3 timing schedule, fixed "full day" at Emerald Park (leave by 15:00), corrected "Navan" → "Ashbourne" in leg 6, added Carlingford lunch stop for the leg 4→5 gap. |
 | 2 | ✅ done | Add Google Maps links to all activities across all legs and places pages |
 | 3 | ✅ done | **Build a Plan B activities catalog** — backup/alternative activities near each leg's base, organised by region. Include rough distance from hotel. Page: `docs/activities.md` (full catalog, planned + alternatives, itinerary links into it). |
-| 4 | pending | **Generate interactive Leaflet maps for all 7 legs** — roll out the leg-2 POC to all legs, using finalised routes. Blocked by task 1. |
+| 4 | pending | **Generate interactive Leaflet maps for all 7 legs** — roll out the leg-2 POC to all legs, using finalised routes. Routes now finalised (task 1 done). |
 | 5 | pending | **Add Wilhelmsen flight and car rental booking PDFs** — when uploaded to Drive, add links to `flights.md` and `car-rental.md` and verify details match the wiki. |
 
 ## Historical note: llmwiki.app

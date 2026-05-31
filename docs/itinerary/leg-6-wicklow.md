@@ -17,7 +17,7 @@ Emerald Park area → Glendalough → Druids Glen Resort
 
 ## Driving
 
-- Emerald Park area (Navan) → Glendalough: ~1h15m
+- Emerald Park (Ashbourne) → Glendalough: ~1h15m
 - Glendalough → Druids Glen Resort: ~20 min
 - Druids Glen → Dublin Airport (next morning): ~45 min
 

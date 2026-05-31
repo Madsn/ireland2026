@@ -24,7 +24,10 @@
 
 ## Driving Notes
 
-Previous night: ~30 min from Newry/Gelilah House area to Belfast. Carrickfergus is a short day trip (20 min north).
+Previous night (Jul 18): ~30 min from Newry/Gelilah House area to Belfast.  
+Carrickfergus is a short day trip (20 min north).
+
+**Jul 20 departure gap:** Checkout before 10:00; Leixlip check-in not until 16:00. The drive south is ~2 h, leaving ~4 h free. Good lunch stop en route: **Carlingford** (53.62°N, 6.19°W) is directly on the A1/M1 corridor — medieval harbour village with Norman castle ruins, takes 1–1.5 h.
 
 ## Open Questions
 

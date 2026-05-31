@@ -17,7 +17,7 @@ Belfast → Leixlip: ~2h (165 km via M1/A1).
 | Morning | Depart Belfast (before 10:00 checkout) |
 | Drive | ~2h to Leixlip |
 | Afternoon/Evening | Check in from 16:00; **book Emerald Park tickets** for next day (20% off) |
-| Jul 21 (full day) | [Emerald Park](../activities.md#emerald-park) → drive to Wicklow (check-in from 16:00) |
+| Jul 21 (morning–afternoon) | [Emerald Park](../activities.md#emerald-park) — **leave by ~15:00** to reach Druids Glen for 16:00 check-in (~1h15m drive) |
 
 ## Key Action: Emerald Park Tickets
 

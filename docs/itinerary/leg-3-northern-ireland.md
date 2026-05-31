@@ -19,7 +19,21 @@ Note: border crossing — no passport control but road changes to UK signs and m
 
 ## Driving Notes
 
-Drogheda → Newry: ~1h.
+Drogheda → GoT Studio Tour (Banbridge): ~85 km, ~1 h 10 min.  
+GoT Studio Tour → Gelilah House (Loughbrickland): ~10 km, ~15 min south.  
+Note: Banbridge is only 10 km north of the accommodation — the routing passes the front door.
+
+**Suggested Jul 17 timing:**
+
+| Time | Action |
+|------|--------|
+| 09:00 | Newgrange (first timed slot) — pre-book |
+| ~11:30 | Depart Drogheda for GoT Studio Tour |
+| ~12:40 | Arrive GoT Studio Tour |
+| ~15:40 | Depart after 3-hour tour |
+| ~15:55 | Arrive Gelilah House ✓ (within 15:00–18:00 window) |
+
+This schedule is tight — do not add any other stops.
 
 ## Contingency
 
