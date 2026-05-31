@@ -12,9 +12,9 @@
 
 | Activity | Notes |
 |----------|-------|
-| [Dublinia (Viking Museum)](https://maps.google.com/?q=Dublinia+Dublin+Ireland) | |
-| [Guinness Storehouse](https://maps.google.com/?q=Guinness+Storehouse+Dublin+Ireland) | ⭐ Popular — **pre-book** in summer |
-| [National Leprechaun Museum](https://maps.google.com/?q=National+Leprechaun+Museum+Dublin+Ireland) | Good for kids |
+| [Dublinia (Viking Museum)](../activities.md#dublinia) | |
+| [Guinness Storehouse](../activities.md#guinness-storehouse) | ⭐ Popular — **pre-book** in summer |
+| [National Leprechaun Museum](../activities.md#national-leprechaun-museum) | Good for kids |
 | ~~Dublin Castle~~ | **CLOSED** — do not plan |
 
 ## Driving / Transport

@@ -14,8 +14,8 @@ Note: border crossing — no passport control but road changes to UK signs and m
 
 | Activity | Notes |
 |----------|-------|
-| [Bagenal Castle, Newry](https://maps.google.com/?q=Bagenal+Castle+Newry+Northern+Ireland) | |
-| [Game of Thrones Studio Tour](https://maps.google.com/?q=Game+of+Thrones+Studio+Tour+Banbridge+Northern+Ireland) | ⭐ £64/family for general admission — **must pre-book** |
+| [Bagenal Castle, Newry](../activities.md#bagenal-castle-newry) | |
+| [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) | ⭐ £64/family for general admission — **must pre-book** |
 
 ## Driving Notes
 

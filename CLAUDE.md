@@ -120,7 +120,7 @@ Tasks tracked here for continuity across sessions. Update when starting or compl
 |---|--------|------|
 | 1 | pending | **Review itinerary legs for geographic and timing feasibility** — flag unrealistic routing (e.g. Carrickmacross on leg 2 means driving north past Drogheda, then back south, only to head north again next day). Produce revised route recommendation per leg. |
 | 2 | ✅ done | Add Google Maps links to all activities across all legs and places pages |
-| 3 | pending | **Build a Plan B activities catalog** — backup/alternative activities near each leg's base, organised by region. Include rough distance from hotel. |
+| 3 | ✅ done | **Build a Plan B activities catalog** — backup/alternative activities near each leg's base, organised by region. Include rough distance from hotel. Page: `docs/activities.md` (full catalog, planned + alternatives, itinerary links into it). |
 | 4 | pending | **Generate interactive Leaflet maps for all 7 legs** — roll out the leg-2 POC to all legs, using finalised routes. Blocked by task 1. |
 | 5 | pending | **Add Wilhelmsen flight and car rental booking PDFs** — when uploaded to Drive, add links to `flights.md` and `car-rental.md` and verify details match the wiki. |
 

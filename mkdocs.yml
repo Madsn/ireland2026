@@ -45,6 +45,7 @@ nav:
     - Belfast: places/belfast.md
     - 'Emerald Park': places/emerald-park.md
     - Glendalough: places/glendalough.md
+  - 'Activities Catalog': activities.md
   - Budget: budget/overview.md
 
 markdown_extensions:

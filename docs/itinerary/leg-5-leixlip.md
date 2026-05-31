@@ -17,7 +17,7 @@ Belfast → Leixlip: ~2h (165 km via M1/A1).
 | Morning | Depart Belfast (before 10:00 checkout) |
 | Drive | ~2h to Leixlip |
 | Afternoon/Evening | Check in from 16:00; **book Emerald Park tickets** for next day (20% off) |
-| Jul 21 (full day) | [Emerald Park](../places/emerald-park.md) → drive to Wicklow (check-in from 16:00) |
+| Jul 21 (full day) | [Emerald Park](../activities.md#emerald-park) → drive to Wicklow (check-in from 16:00) |
 
 ## Key Action: Emerald Park Tickets
 
@@ -25,5 +25,5 @@ Belfast → Leixlip: ~2h (165 km via M1/A1).
 
 ## Connections
 
-- Place: [Emerald Park](../places/emerald-park.md)
+- Place: [Emerald Park](../places/emerald-park.md) · [Activity details](../activities.md#emerald-park)
 - Next: [Wicklow Leg](leg-6-wicklow.md)

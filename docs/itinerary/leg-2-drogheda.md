@@ -55,12 +55,12 @@ Dublin → Ardgillan Castle (en route) → Carrickmacross Workhouse (~30min deto
 
 | Stop | Activity | Notes |
 |------|----------|-------|
-| En route | [Ardgillan Castle and Garden](../places/ardgillan.md) | Free entry to grounds |
-| En route | [Carrickmacross Workhouse](../places/carrickmacross.md) | ⭐ **Must see for kids** |
-| Drogheda | [Newgrange / Brú na Bóinne](../places/newgrange.md) | ⚠️ **Must pre-book** — sells out in summer |
-| Drogheda | [Drogheda Museum (Millmount)](https://maps.google.com/?q=Millmount+Museum+Drogheda+Ireland) | |
-| Drogheda | [Irish Military War Museum](https://maps.google.com/?q=Irish+Military+War+Museum+Drogheda+Ireland) | |
-| Drogheda | [Old Mellifont Abbey](https://maps.google.com/?q=Old+Mellifont+Abbey+Collon+Ireland) | |
+| En route | [Ardgillan Castle and Garden](../activities.md#ardgillan-castle-and-garden) | Free entry to grounds |
+| En route | [Carrickmacross Workhouse](../activities.md#carrickmacross-workhouse) | ⭐ **Must see for kids** |
+| Drogheda | [Newgrange / Brú na Bóinne](../activities.md#bru-na-boinne--newgrange) | ⚠️ **Must pre-book** — sells out in summer |
+| Drogheda | [Drogheda Museum (Millmount)](../activities.md#drogheda-museum--millmount) | |
+| Drogheda | [Irish Military War Museum](../activities.md#irish-military-war-museum) | |
+| Drogheda | [Old Mellifont Abbey](../activities.md#old-mellifont-abbey) | |
 
 ## Driving Notes
 
