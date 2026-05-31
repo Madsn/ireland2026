@@ -16,7 +16,10 @@ theme:
     - toc.follow
 
 nav:
-  - Overview: index.md
+  - Ireland Trip 2026:
+    - Overview: index.md
+    - Changelog: changelog.md
+    - Todo: todo.md
   - Itinerary:
     - 'Leg 1 — Dublin (Jul 13–16)': itinerary/leg-1-dublin.md
     - 'Leg 2 — Drogheda (Jul 16–17)': itinerary/leg-2-drogheda.md
