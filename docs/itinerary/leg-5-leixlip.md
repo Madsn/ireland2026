@@ -1,6 +1,6 @@
 # Leg 5 — Leixlip / Emerald Park (Jul 20–21)
 
-Originally planned as a Donegal leg — replaced with Leixlip to be close to Emerald Park. [Court Yard Hotel, Leixlip](../logistics/courtyard-leixlip.md) · €388.80 · breakfast included. [Highlands Hotel, Glenties](../logistics/highlands-hotel-glenties.md) must be cancelled.
+Originally planned as a Donegal leg — replaced with Leixlip to be close to Emerald Park. [Court Yard Hotel, Leixlip](../logistics/courtyard-leixlip.md) · €388.80 · breakfast included.
 
 ## Route
 
