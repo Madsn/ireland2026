@@ -55,6 +55,24 @@ Chamber entry requires a specific guided tour with a fixed group size — this i
 
 ---
 
+## Cancellation policies — key attractions
+
+Verified from each venue's terms and conditions (May 2026).
+
+| Attraction | Refundable? | Changeable? | Contact for changes |
+|---|---|---|---|
+| **GoT Studio Tour** | No — *"We will not refund the total or any amount which you paid for the cancelled Ticket(s)."* Discretionary refund for genuine extenuating circumstances only. | Time slot change: **£5/ticket**, subject to availability | +44 (0)28 40 464 777 |
+| **Guinness Storehouse** | No — *"Once your tickets have been purchased, the ticket is non-refundable."* | Reschedule up to **24 hours before** via My Booking on the website, at venue's discretion. Within 24h: email info@guinnessstorehouse.com | guinness-storehouse.com → My Booking |
+| **Titanic Belfast** | No — *"under no obligation to issue refunds where a Ticket has been cancelled by you…any such refund shall be entirely at our discretion."* | Date/time change by request — venue will *"use its reasonable endeavours to accommodate"* | +44 (0)28 9076 6386 · welcome@titanicbelfast.com |
+| **Brú na Bóinne** | **Only within 1 hour of purchase.** Full refund if site cancels. | None — *"Tickets that are not refunded…cannot be amended in any way."* Non-transferable. | N/A |
+
+All four venues: tickets are **non-transferable** and void if resold.
+
+!!! warning "Brú na Bóinne is the most unforgiving"
+    Once the 1-hour purchase window closes, Newgrange tickets cannot be refunded, changed, or transferred under any circumstances. Book with certainty — and make sure the GoT Studio Tour slot for the same day is already confirmed before Jun 17.
+
+---
+
 ## Bookings — book soon
 
 These don't need to be booked today but are time-sensitive enough that waiting increases risk.
