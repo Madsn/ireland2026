@@ -1,6 +1,6 @@
 # Leg 7 — Departure (Jul 22–23)
 
-Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.md) · €445.00 · breakfast included. This is the last night together for both families.
+Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.md) · €445.80 · breakfast included. This is the last night together for both families.
 
 ## Activities
 

@@ -1,6 +1,6 @@
 # Leg 1 — Dublin (Jul 13–16)
 
-3-night base in Dublin city. Both families arrive Jul 13 (~5h apart). [Hendrick Smithfield](../logistics/hendrick-smithfield.md) in Smithfield — €1,674.88 · breakfast included.
+3-night base in Dublin city. Both families arrive Jul 13 (~5h apart). [Hendrick Smithfield](../logistics/hendrick-smithfield.md) in Smithfield — €1,634.38 · breakfast included.
 
 ## Arrival Notes
 

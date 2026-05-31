@@ -6,21 +6,21 @@ Budget tracker for the Ireland 2026 trip. Accommodation costs are confirmed; oth
 
 | Hotel | Nights | Cost | Currency |
 |-------|--------|------|----------|
-| Hendrick Smithfield | 3 | €1,674.88 | EUR |
+| Hendrick Smithfield | 3 | €1,634.38 | EUR |
 | Scholars Townhouse | 1 | €498.00 | EUR |
 | Gelilah House | 1 | £324.00 | GBP |
 | Ormeau Park Residence | 2 | £729.10 | GBP |
 | Court Yard Hotel, Leixlip | 1 | €388.80 | EUR |
 | Druids Glen Resort | 1 | €454.50 | EUR |
-| Premier Inn Dublin Airport | 1 | €445.00 | EUR |
-| **Total (EUR)** | 10 | **~€5,461** | at GBP/EUR ~1.18 |
+| Premier Inn Dublin Airport | 1 | €445.80 | EUR |
+| **Total (EUR)** | 10 | **~€4,664** | at GBP/EUR ~1.18 |
 
 ## All Categories
 
 | Category | Estimate (low) | Estimate (high) | Booked | Actual |
 |----------|---------------|-----------------|--------|--------|
 | Flights | | | | |
-| Accommodation | | | €5,461 | |
+| Accommodation | | | €4,664 | |
 | Car rental | | | | |
 | Food & drink | | | | |
 | Activities & entry fees | | | | |

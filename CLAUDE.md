@@ -90,12 +90,6 @@ with `mkdocs build --strict` (flags broken internal links and bad nav refs)
 before pushing. A bad build fails the Action and the site stays on the last good
 version.
 
-## Known intentional oddity
-
-`logistics/highlands-hotel-glenties.md` is labelled
-`⚠️ Highlands Hotel (CANCEL)` on purpose — it's a standing reminder to cancel
-booking `6425169088`. Don't "fix" or delete it until that booking is cancelled.
-
 ## Historical note: llmwiki.app
 
 A parallel copy of this content lives in llmwiki.app (KB `ireland2026`, via the

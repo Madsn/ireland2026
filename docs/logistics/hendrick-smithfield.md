@@ -11,7 +11,7 @@ Dublin city hotel for the arrival leg. 3 nights covering Jul 13–16. Breakfast 
 | Booking # | 5838583692 |
 | Rooms | 2 × double bed with bunk bed |
 | Breakfast | Included ✅ |
-| Cost | €1,674.88 ⚠️ *(see note)* |
+| Cost | €1,634.38 *(€1,776.50 less €142.12 Booking.com discount)* |
 | Responsible | Madsen |
 
 ## Cancellation Policy
@@ -21,8 +21,6 @@ Free until **July 12, 2026** (1 day before arrival). Within 1 day of arrival the
 📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/1OjqRJYCcCSfx1bjv9kNDwoYbGCDQ5LmN/view)
 
 ## Notes
-
-- ⚠️ **Cost mismatch to verify:** the confirmation PDF shows **€1,776.50** gross (€868 + €908.50), with a Booking.com discount of −€142.12 → **€1,634.38 net**. The €1,674.88 figure here matches neither — reconcile against your card statement.
 
 - Most expensive single booking of the trip (3 nights + Dublin city prices)
 - Bunk beds suitable for children
