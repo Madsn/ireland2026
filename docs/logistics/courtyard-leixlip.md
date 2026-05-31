@@ -20,7 +20,9 @@ Replacement for the cancelled Donegal leg. 1 night in Leixlip (Co. Kildare), con
 
 ## Cancellation Policy
 
-Free cancellation until **July 18, 2026** (2 days before arrival). After that: full price charged. No-show fee = full price.
+Free cancellation until **July 18, 2026** (2 days before arrival). After that: full price charged. No-show fee = full price. Cost is charged to the card on the **morning of arrival**.
+
+📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/1XZGKF2aksr8g0YCxY-JiFVN-Iys3AdPQ/view)
 
 ## Other Notes
 

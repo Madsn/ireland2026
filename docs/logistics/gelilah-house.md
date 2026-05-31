@@ -22,6 +22,8 @@ Villa rental for the first Northern Ireland night (Jul 17–18). No meals includ
 
 Free until **July 15, 2026 11:59 PM** (property local time). From July 16: full £324 charged. Dates cannot be changed.
 
+📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/1INC8WAJUTa88O3JsLr7K5ld65kTSUsPj/view)
+
 ## Amenities
 
 Hot tub · Balcony · Terrace · Kitchen · Washing machine · Streaming (Netflix) · Fireplace · BBQ · Outdoor dining · Dishwasher · Extra-long beds · Baby safety gates · Sofa bed

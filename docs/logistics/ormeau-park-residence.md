@@ -20,7 +20,9 @@
 
 ## Cancellation Policy
 
-⚠️ Free until **July 12, 2026 11:59 PM** (property local time). From July 13: full £729.10 charged. Dates cannot be changed.
+⚠️ Free until **July 12, 2026 11:59 PM** (property local time). From July 13: full £729.10 charged — i.e. it locks in **the day before you fly**. Dates cannot be changed.
+
+📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/1IDFi80-y7h9WjZLIh0jPcPee7SrwDg6e/view)
 
 ## Notes
 

@@ -20,7 +20,9 @@ Resort hotel for the Wicklow leg (Jul 21–22, 1 night). Breakfast included for 
 
 ## Cancellation Policy
 
-Free until **July 17, 2026 11:59 PM** (property local time). From July 18: full price charged per room.
+Free until **July 17, 2026 11:59 PM** (property local time). From July 18: full price charged per room. No prepayment needed before then.
+
+📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/1RSVk55xxAHa49B9H7ns3A8QIKfhKVLGt/view)
 
 ## Dining Notes
 

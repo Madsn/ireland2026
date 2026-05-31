@@ -8,11 +8,17 @@
 |-------|-------|
 | Dates | July 16–17, 2026 (1 night) |
 | Location | Drogheda — https://maps.app.goo.gl/XqdukpaB5MpFpTMS8 |
-| Booking # | 5264983821 |
+| Confirmation # | 5264.983.821 |
 | Rooms | Room 1: Double bed / Room 2: Double bed + Twin bed |
-| Breakfast | Not confirmed (check booking) |
+| Breakfast | Not included ❌ |
 | Cost | €498.00 |
 | Responsible | Madsen |
+
+## Cancellation Policy
+
+Free until **July 14, 2026** (2 days before arrival). Within 2 days of arrival the fee is the **full reservation**; no-show fee is the same. Nonsmoking hotel; the card used to book is required at check-in. Free private parking on site.
+
+📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/1SvjNYrd1JuzNxCtwimwQ6xoRZb5s76Ku/view)
 
 ## Notes
 

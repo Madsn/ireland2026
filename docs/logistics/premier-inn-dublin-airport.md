@@ -11,8 +11,15 @@ Final night before both families fly home (Jul 22–23). Airport hotel, breakfas
 | Booking # | 5894981365 |
 | Rooms | Room 1: Double + Twin + sofa bed / Room 2: Double + Twin + sofa bed |
 | Breakfast | Included ✅ |
-| Cost | €445.00 |
+| Parking | On site, €15/day |
+| Cost | €445.80 |
 | Responsible | Madsen |
+
+## Cancellation Policy
+
+Free until **July 20, 2026 11:59 PM** (property local time). From July 21: full €445.80 charged (€222.90/room). No prepayment needed; **date changes not possible**. Under-18s must check in with a parent or guardian.
+
+📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/14zvb0rDKcZYnfIRWN-4G2B_4HbjhqQ8N/view)
 
 ## Notes
 
