@@ -10,6 +10,7 @@
 | Entry | Grounds free; castle tours available (check summer hours) |
 | Location | ~30 km north of Dublin city, on the N1/M1 to Drogheda |
 | Nearby | The Heritage Centre (also mentioned in planning doc) |
+| Map | [Google Maps](https://maps.google.com/?q=Ardgillan+Castle+Balbriggan+Ireland) |
 
 ## Connections
 

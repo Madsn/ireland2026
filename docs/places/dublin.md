@@ -14,9 +14,9 @@ Capital of Ireland. Arrival and departure city for the trip. Both families arriv
 
 | Activity | Notes |
 |----------|-------|
-| Dublin Viking Museum | |
-| Guinness Storehouse | ⭐ **Pre-book** — very busy in summer |
-| Leprechaun Museum | Good for kids |
+| [Dublinia (Viking Museum)](https://maps.google.com/?q=Dublinia+Dublin+Ireland) | |
+| [Guinness Storehouse](https://maps.google.com/?q=Guinness+Storehouse+Dublin+Ireland) | ⭐ **Pre-book** — very busy in summer |
+| [National Leprechaun Museum](https://maps.google.com/?q=National+Leprechaun+Museum+Dublin+Ireland) | Good for kids |
 | ~~Dublin Castle~~ | **CLOSED** — skip |
 
 ## Notes

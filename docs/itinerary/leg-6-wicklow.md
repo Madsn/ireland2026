@@ -13,7 +13,7 @@ Emerald Park area → Glendalough → Druids Glen Resort
 | Activity | Notes |
 |----------|-------|
 | [Glendalough](../places/glendalough.md) | Early Christian monastic site · stunning valley · free to walk · allow 2–3 hours |
-| Wicklow Mountains National Park | Combine with Glendalough drive |
+| [Wicklow Mountains National Park](https://maps.google.com/?q=Wicklow+Mountains+National+Park+Ireland) | Combine with Glendalough drive |
 
 ## Driving
 

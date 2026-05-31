@@ -14,14 +14,14 @@ Capital of Northern Ireland. Industrial and maritime heritage city, famous for t
 
 | Activity | Notes |
 |----------|-------|
-| Titanic Belfast | ⭐ Flagship attraction — **pre-book** (sells out in summer) |
-| SS Nomadic | Titanic's tender ship, adjacent to Titanic Belfast |
-| Ulster Museum | Free entry |
-| Ulster Folk Museum | Open-air museum, ~20 min from city |
-| W5 | Science centre, excellent for kids ~5–12 |
-| Belfast Cathedral | City centre |
-| Belfast Castle | Cave Hill, views over city |
-| Carrickfergus Castle | ~20 min north — well-preserved Norman castle |
+| [Titanic Belfast](https://maps.google.com/?q=Titanic+Belfast+Northern+Ireland) | ⭐ Flagship attraction — **pre-book** (sells out in summer) |
+| [SS Nomadic](https://maps.google.com/?q=SS+Nomadic+Belfast+Northern+Ireland) | Titanic's tender ship, adjacent to Titanic Belfast |
+| [Ulster Museum](https://maps.google.com/?q=Ulster+Museum+Belfast+Northern+Ireland) | Free entry |
+| [Ulster Folk Museum](https://maps.google.com/?q=Ulster+Folk+Museum+Cultra+Northern+Ireland) | Open-air museum, ~20 min from city |
+| [W5](https://maps.google.com/?q=W5+Belfast+Northern+Ireland) | Science centre, excellent for kids ~5–12 |
+| [Belfast Cathedral](https://maps.google.com/?q=St+Anne+Cathedral+Belfast+Northern+Ireland) | City centre |
+| [Belfast Castle](https://maps.google.com/?q=Belfast+Castle+Northern+Ireland) | Cave Hill, views over city |
+| [Carrickfergus Castle](https://maps.google.com/?q=Carrickfergus+Castle+Northern+Ireland) | ~20 min north — well-preserved Norman castle |
 
 ## Notes
 

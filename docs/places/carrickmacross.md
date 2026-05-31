@@ -10,6 +10,7 @@ Famine-era workhouse museum in Carrickmacross, Co. Monaghan. Documents the exper
 | Route | ~30 min detour off the N2/M2 Dublin–Drogheda route |
 | Age suitability | Excellent for children (~8); powerful educational experience |
 | Also nearby | Carrickmacross lace craft shops |
+| Map | [Google Maps](https://maps.google.com/?q=Carrickmacross+Workhouse+Monaghan+Ireland) |
 
 Planning doc flags this as a **must-see for the kids**.
 

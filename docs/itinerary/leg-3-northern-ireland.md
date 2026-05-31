@@ -14,8 +14,8 @@ Note: border crossing — no passport control but road changes to UK signs and m
 
 | Activity | Notes |
 |----------|-------|
-| Bagenal Castle, Newry | |
-| Game of Thrones Studio Tour | ⭐ £64/family for general admission — **must pre-book** |
+| [Bagenal Castle, Newry](https://maps.google.com/?q=Bagenal+Castle+Newry+Northern+Ireland) | |
+| [Game of Thrones Studio Tour](https://maps.google.com/?q=Game+of+Thrones+Studio+Tour+Banbridge+Northern+Ireland) | ⭐ £64/family for general admission — **must pre-book** |
 
 ## Driving Notes
 
@@ -23,7 +23,7 @@ Drogheda → Newry: ~1h.
 
 ## Contingency
 
-GoT Studio Tour is the anchor here — if unavailable, Downpatrick (St Patrick's Cathedral, Down County Museum) is nearby.
+GoT Studio Tour is the anchor here — if unavailable, [Downpatrick](https://maps.google.com/?q=Downpatrick+Northern+Ireland) ([St Patrick's Cathedral](https://maps.google.com/?q=Down+Cathedral+Downpatrick+Northern+Ireland), [Down County Museum](https://maps.google.com/?q=Down+County+Museum+Downpatrick+Northern+Ireland)) is nearby.
 
 ## Open Questions
 

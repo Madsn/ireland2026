@@ -11,6 +11,7 @@ UNESCO World Heritage Site. Neolithic passage tomb built ~3200 BC — older than
 | Booking | **Must pre-book in summer** — sells out weeks in advance |
 | Time needed | 2.5–3 hours for the full visit |
 | Best ticket | Combined Newgrange + Knowth for best value |
+| Map | [Google Maps](https://maps.google.com/?q=Bru+na+Boinne+Visitor+Centre+Donore+Ireland) |
 
 ## Notes
 

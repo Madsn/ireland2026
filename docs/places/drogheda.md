@@ -15,9 +15,9 @@ Historic town on the River Boyne, Co. Louth. 1-night stop (Jul 16–17) en route
 | Activity | Notes |
 |----------|-------|
 | [Newgrange / Brú na Bóinne](newgrange.md) | ⚠️ **Pre-book** — sells out in summer |
-| Drogheda Museum | |
-| Irish Military War Museum | |
-| Old Mellifont Abbey | |
+| [Drogheda Museum (Millmount)](https://maps.google.com/?q=Millmount+Museum+Drogheda+Ireland) | |
+| [Irish Military War Museum](https://maps.google.com/?q=Irish+Military+War+Museum+Drogheda+Ireland) | |
+| [Old Mellifont Abbey](https://maps.google.com/?q=Old+Mellifont+Abbey+Collon+Ireland) | |
 | En route: [Ardgillan Castle](ardgillan.md) | Free grounds |
 | En route: [Carrickmacross Workhouse](carrickmacross.md) | Must-see for kids (30 min detour) |
 

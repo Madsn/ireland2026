@@ -13,6 +13,7 @@ Theme park and zoo in Ashbourne, Co. Meath (formerly known as Tayto Park). Rolle
 | Discount | **20% off when booking in advance** |
 | Visit day | July 21, 2026 |
 | Book on | **July 20** (day of hotel check-in) for 20% discount |
+| Map | [Google Maps](https://maps.google.com/?q=Emerald+Park+Ashbourne+Meath+Ireland) |
 
 ## Booking Notes
 

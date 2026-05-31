@@ -12,6 +12,7 @@ Early Christian monastic settlement founded by St Kevin in the 6th century, set 
 | Time needed | 2–3 hours minimum |
 | Best walk | Upper Lake trail (~1h loop, most scenic) |
 | Nearest hotel | [Druids Glen Resort](../logistics/druids-glen-resort.md) (~20 min) |
+| Map | [Google Maps](https://maps.google.com/?q=Glendalough+Visitor+Centre+Wicklow+Ireland) |
 
 ## Notes
 
