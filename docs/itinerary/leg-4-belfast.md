@@ -15,19 +15,38 @@
 | [Belfast Castle](../activities.md#belfast-castle) | Cave Hill, views over city |
 | [Carrickfergus Castle](../activities.md#carrickfergus-castle) | ~20 min north — well-preserved Norman castle |
 
-## Suggested 2-Day Split
+## Day Plan
 
-| Day | Activity |
-|-----|----------|
-| Day 1 (Jul 18) | Titanic Quarter: Titanic Belfast + SS Nomadic |
-| Day 2 (Jul 19) | Ulster Folk Museum (half day) + W5 or Belfast Castle |
+**Jul 18 — arrival from Gelilah House:**
+
+| Time | Action |
+|------|--------|
+| By 11:00 | Checkout Gelilah House, ~30 min drive to Belfast |
+| ~11:30 | Arrive Belfast — drop luggage at Ormeau Park Residence |
+| ~12:00–16:00 | [Titanic Belfast](../activities.md#titanic-belfast) + [SS Nomadic](../activities.md#ss-nomadic) (pre-booked, allow 3–4 h) |
+| Evening | Settle in, dinner |
+
+**Jul 19 — full day Belfast:**
+
+| Time | Action |
+|------|--------|
+| Morning | [Ulster Folk Museum](../activities.md#ulster-folk-museum) (~20 min drive, half day) |
+| Afternoon | [W5](../activities.md#w5) science centre or [Belfast Castle](../activities.md#belfast-castle) |
+
+**Jul 20 — departure to Leixlip:**
+
+| Time | Action |
+|------|--------|
+| Before 10:00 | Checkout Ormeau Park Residence |
+| ~10:00–12:00 | Drive south (~2 h via A1/M1) |
+| ~12:00–13:30 | Lunch stop: **Carlingford** — medieval harbour village, Norman castle, directly on the route |
+| ~14:30 | Continue south (~45 min to Leixlip) |
+| ~16:00 | Check in Court Yard Hotel, Leixlip |
 
 ## Driving Notes
 
-Previous night (Jul 18): ~30 min from Newry/Gelilah House area to Belfast.  
-Carrickfergus is a short day trip (20 min north).
-
-**Jul 20 departure gap:** Checkout before 10:00; Leixlip check-in not until 16:00. The drive south is ~2 h, leaving ~4 h free. Good lunch stop en route: **Carlingford** (53.62°N, 6.19°W) is directly on the A1/M1 corridor — medieval harbour village with Norman castle ruins, takes 1–1.5 h.
+Gelilah House → Belfast: ~30 min.  
+Carrickfergus Castle is a short day trip (20 min north of Belfast city).
 
 ## Open Questions
 

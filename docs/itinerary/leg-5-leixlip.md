@@ -8,16 +8,25 @@ Originally planned as a Donegal leg — replaced with Leixlip to be close to Eme
 Belfast (Ormeau Park, checkout before 10:00) → ~2h drive south → Leixlip
 ```
 
-Belfast → Leixlip: ~2h (165 km via M1/A1).
+Belfast → Leixlip: ~2 h (165 km via A1/M1). See [Leg 4](leg-4-belfast.md) for the Carlingford lunch stop on this drive.
 
 ## Day Plan
 
-| Time | Activity |
-|------|----------|
-| Morning | Depart Belfast (before 10:00 checkout) |
-| Drive | ~2h to Leixlip |
-| Afternoon/Evening | Check in from 16:00; **book Emerald Park tickets** for next day (20% off) |
-| Jul 21 (morning–afternoon) | [Emerald Park](../activities.md#emerald-park) — **leave by ~15:00** to reach Druids Glen for 16:00 check-in (~1h15m drive) |
+**Jul 20 — arrival from Belfast:** *(see [Leg 4](leg-4-belfast.md) for full drive timing)*
+
+| Time | Action |
+|------|--------|
+| ~16:00 | Check in Court Yard Hotel, Leixlip |
+| Evening | **Book Emerald Park tickets online for Jul 21** — 20% discount if booked night before |
+
+**Jul 21 — Emerald Park day:**
+
+| Time | Action |
+|------|--------|
+| ~09:30 | Breakfast (included) |
+| ~10:00 | Drive to Emerald Park, Ashbourne (~25 min) |
+| ~10:30–15:00 | [Emerald Park](../activities.md#emerald-park) |
+| **15:00** | ⚠️ **Depart by 15:00** — 1 h 15 min drive to Glendalough en route to Druids Glen |
 
 ## Key Action: Emerald Park Tickets
 

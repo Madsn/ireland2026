@@ -2,25 +2,25 @@
 
 Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.md) · €445.80 · breakfast included. This is the last night together for both families.
 
-## Activities
+## Day Plan
 
-| Activity | Notes |
-|----------|-------|
-| Evening Jul 22: Folk dance & traditional Irish food | Research venue — near airport or Dublin city · book in advance |
+**Jul 22 — arrival from Druids Glen:**
 
-## Departures — July 23
+| Time | Action |
+|------|--------|
+| ~10:45 | Arrive Premier Inn Dublin Airport (from Druids Glen, ~45 min drive) |
+| Afternoon | Check in from 14:00; settle in, last afternoon together |
+| Evening | Folk dance & traditional Irish food — **book in advance** (research venue near airport or city) |
 
-| Family | Flight | Time |
-|--------|--------|------|
-| Madsen | Ryanair FR632 | 11:25 depart |
-| Wilhelmsen | Aer Lingus EI164 | 12:00 depart |
+**Jul 23 — departure day:**
 
-Both flights depart morning. Check-in likely 09:00–09:30. **Leave hotel by 08:30 at latest.**
-
-## Notes
-
-- Breakfast included at Premier Inn — good send-off
-- Premier Inn is at the airport — walking distance or short shuttle
+| Time | Action |
+|------|--------|
+| ~07:00 | Breakfast (included) |
+| ~08:30 | Leave hotel — Premier Inn is walking distance or short shuttle to terminal |
+| ~09:00 | Airport check-in desks open |
+| 11:25 | Madsen depart **FR632** (Ryanair) |
+| 12:00 | Wilhelmsen depart **EI164** (Aer Lingus) |
 
 ## Open Questions
 

@@ -2,9 +2,6 @@
 
 1-night stop in Drogheda. Route: Dublin → coast road north → Ardgillan → Drogheda. [Scholars Townhouse Hotel](../logistics/scholars-townhouse-hotel.md) · €498.00 · breakfast: check booking.
 
-!!! warning "Carrickmacross removed from this leg"
-    Carrickmacross Workhouse is 40 km northwest of Drogheda (off the M2), making the Dublin → Ardgillan → Carrickmacross → Drogheda route a 1.5 h round-trip detour in the wrong direction. It has been removed. The Workhouse is worth visiting on a dedicated stop if routing ever goes Dublin → Monaghan, but it does not fit the coast road.
-
 <style>
   #map-leg2 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
   #map-leg2 .leaflet-routing-container { display: none !important; }
@@ -57,24 +54,27 @@ Dublin → Drogheda: ~50 km, ~1 h via M1 coastal route.
 
 ## Day Plan
 
-| Time | Activity | Notes |
-|------|----------|-------|
-| Morning | Depart Dublin, drive M1 north | Check out Hendrick Smithfield |
-| En route | [Ardgillan Castle and Garden](../activities.md#ardgillan-castle-and-garden) | Free entry to grounds · genuinely en route |
-| Afternoon | Arrive Drogheda, check in | Millmount is a short walk from town centre — good for the afternoon |
-| Evening | [Drogheda Museum (Millmount)](../activities.md#drogheda-museum--millmount) | In-town, walkable |
+**Jul 16 — travel day from Dublin:**
 
-## Jul 17 Morning (departure day)
+| Time | Action |
+|------|--------|
+| ~10:00 | Check out Hendrick Smithfield |
+| ~10:30 | Arrive Ardgillan Castle (~25 min drive) |
+| ~10:30–11:30 | [Ardgillan Castle and Garden](../activities.md#ardgillan-castle-and-garden) — free grounds |
+| ~12:00 | Arrive Drogheda (~30 min drive), check in |
+| Afternoon | [Drogheda Museum (Millmount)](../activities.md#drogheda-museum--millmount) — walkable from town |
+| Evening | Dinner in Drogheda |
 
-⚠️ **Jul 17 is a driving day to Northern Ireland.** One morning activity only before the NI drive.
+**Jul 17 — departure day for Northern Ireland:**
 
-| Priority | Activity | Notes |
-|----------|----------|-------|
-| ⭐ Do | [Newgrange / Brú na Bóinne](../activities.md#bru-na-boinne--newgrange) | **Must pre-book** first timed slot (~09:00) — 2–3 h total |
-| If time | [Irish Military War Museum](../activities.md#irish-military-war-museum) | Only if Newgrange finishes early |
-| Skip | [Old Mellifont Abbey](../activities.md#old-mellifont-abbey) | 12 km west of Drogheda — no time on this leg |
+One morning activity only. This is also a driving day with a strict check-in window at the next accommodation.
 
-Depart Drogheda by **10:30 at latest** to reach GoT Studio Tour and make Gelilah House's 15:00–18:00 check-in window (see [Leg 3](leg-3-northern-ireland.md)).
+| Time | Action |
+|------|--------|
+| ~09:00 | [Newgrange / Brú na Bóinne](../activities.md#bru-na-boinne--newgrange) — **must pre-book first timed slot** (2–3 h) |
+| ~10:30 | Depart Drogheda ← latest viable departure for [Leg 3](leg-3-northern-ireland.md) |
+
+Other Drogheda activities ([Irish Military War Museum](../activities.md#irish-military-war-museum), [Old Mellifont Abbey](../activities.md#old-mellifont-abbey)) don't fit in this leg.
 
 ## Open Questions
 

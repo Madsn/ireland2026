@@ -17,23 +17,32 @@ Note: border crossing — no passport control but road changes to UK signs and m
 | [Bagenal Castle, Newry](../activities.md#bagenal-castle-newry) | |
 | [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) | ⭐ £64/family for general admission — **must pre-book** |
 
-## Driving Notes
+## Day Plan
 
-Drogheda → GoT Studio Tour (Banbridge): ~85 km, ~1 h 10 min.  
-GoT Studio Tour → Gelilah House (Loughbrickland): ~10 km, ~15 min south.  
-Note: Banbridge is only 10 km north of the accommodation — the routing passes the front door.
-
-**Suggested Jul 17 timing:**
+**Jul 17 — transit day from Drogheda:**
 
 | Time | Action |
 |------|--------|
-| 09:00 | Newgrange (first timed slot) — pre-book |
-| ~11:30 | Depart Drogheda for GoT Studio Tour |
-| ~12:40 | Arrive GoT Studio Tour |
-| ~15:40 | Depart after 3-hour tour |
-| ~15:55 | Arrive Gelilah House ✓ (within 15:00–18:00 window) |
+| 09:00 | Newgrange first timed slot (see [Leg 2](leg-2-drogheda.md)) |
+| ~11:30 | Depart Drogheda north (~85 km, ~1 h 10 min) |
+| ~12:40 | Arrive GoT Studio Tour (Banbridge) |
+| ~15:40 | Depart (~10 km south to Gelilah House) |
+| ~15:55 | Check in Gelilah House ✓ — within 15:00–18:00 window |
 
-This schedule is tight — do not add any other stops.
+No slack in this schedule — do not add stops.
+
+**Jul 18 — drive to Belfast:**
+
+| Time | Action |
+|------|--------|
+| 08:00–11:00 | Checkout Gelilah House (checkout window) |
+| ~30 min | Drive to Belfast |
+| Morning | Arrive Belfast — drop luggage at Ormeau Park, head to Titanic Quarter |
+
+## Driving Notes
+
+Drogheda → GoT Studio Tour (Banbridge): ~85 km, ~1 h 10 min.  
+GoT Studio Tour → Gelilah House (Loughbrickland): ~10 km south (~15 min). Banbridge is only 10 km north of the accommodation.
 
 ## Contingency
 
