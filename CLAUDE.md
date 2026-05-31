@@ -47,7 +47,18 @@ Two steps. **Both are required** — MkDocs does **not** auto-discover pages.
 A file that isn't in `nav:` still builds and is reachable by URL, but it appears
 nowhere in the sidebar — so for this wiki, "not in nav" means "invisible."
 
-To remove a page: delete the file **and** its `nav:` line.
+To remove a page properly, three steps — the third is the one that bites:
+
+1. Delete the `.md` file.
+2. Remove its `nav:` line in `mkdocs.yml`.
+3. **`grep` the whole repo for both the page's filename and the thing it
+   describes**, then fix every hit. Pages cross-reference each other heavily:
+   a single hotel can be named in `index.md` (summary table + action items),
+   `budget/overview.md`, `logistics/accommodation.md`, and one or more
+   `itinerary/leg-*.md` pages — not just on its own page. Miss one and you
+   leave a dangling relative link (which MkDocs serves as a 404) or a stale
+   figure. Re-run the grep after editing and confirm zero matches before
+   committing.
 
 ## Navigation
 
@@ -79,6 +90,17 @@ When in doubt, copy a link that already works in a sibling page.
   attractions (places) for that leg, and back.
 - Enabled Markdown extras: `tables`, `footnotes`, `admonition` (`!!! note`),
   and `toc` with permalinks. Material handles search automatically.
+
+## Booking documents (PDFs) live outside this repo
+
+The actual hotel and flight confirmation PDFs are **not** in this repo and must
+never be added to it — **this repo is public** and the PDFs contain names,
+confirmation numbers, and PIN codes. They live in the trip owner's Google Drive
+under `Ireland2026/booking-confirmations` and `Ireland2026/flights`, and the
+logistics pages link to them with a `📎 [Booking confirmation (PDF)](…drive…)`
+line. When details change, **the PDF is the source of truth** — reconcile page
+figures against it (a Booking.com discount once made the page total wrong). The
+Drive links only open for people the owner has shared the files/folder with.
 
 ## Deployment
 
