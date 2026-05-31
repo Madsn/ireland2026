@@ -2,6 +2,8 @@
 
 First Northern Ireland night. [Gelilah House](../logistics/gelilah-house.md) villa near Loughbrickland · £324 · no meals included — budget for food. Narrow check-in window: 15:00–18:00.
 
+**Period covered:** Jul 17 (Drogheda checkout, Brú na Bóinne, transit to Gelilah House). Jul 18 morning (checkout Gelilah + drive to Belfast) opens [Leg 4](leg-4-belfast.md).
+
 <style>
   #map-leg3 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
   #map-leg3 .leaflet-routing-container { display: none !important; }
@@ -75,21 +77,21 @@ Note: border crossing — no passport control but road changes to UK signs and m
 
 | Time | Action |
 |------|--------|
-| 09:00 | Newgrange first timed slot (see [Leg 2](leg-2-drogheda.md)) |
-| ~11:30 | Depart Drogheda north (~85 km, ~1 h 10 min) |
-| ~12:40 | Arrive GoT Studio Tour (Banbridge) |
+| 09:00 | [Brú na Bóinne / Newgrange](../activities.md#br-na-bine--newgrange) — first timed slot (pre-booked, 2–2.5 h). Visitor centre is 8 km west of Drogheda. |
+| ~11:30 | Depart north from Drogheda area (~85 km, ~1 h 10 min) |
+| ~12:40 | Arrive [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) (Banbridge) |
 | ~15:40 | Depart (~10 km south to Gelilah House) |
 | ~15:55 | Check in Gelilah House ✓ — within 15:00–18:00 window |
 
 No slack in this schedule — do not add stops.
 
-**Jul 18 — drive to Belfast:**
+**Jul 18 — checkout and drive to Belfast (see [Leg 4](leg-4-belfast.md)):**
 
 | Time | Action |
 |------|--------|
-| 08:00–11:00 | Checkout Gelilah House (checkout window) |
-| ~30 min | Drive to Belfast |
-| Morning | Arrive Belfast — drop luggage at Ormeau Park, head to Titanic Quarter |
+| By 11:00 | Checkout Gelilah House |
+| ~11:00–11:30 | Drive to Belfast (~30 min) |
+| ~11:30 | Arrive Belfast — Belfast activities from this point in [Leg 4](leg-4-belfast.md) |
 
 ## Driving Notes
 

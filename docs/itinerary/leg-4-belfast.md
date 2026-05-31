@@ -2,6 +2,8 @@
 
 2-night Belfast base at [Ormeau Park Residence](../logistics/ormeau-park-residence.md) · £729.10 · 4-bed house · no meals included. Checkout before 10:00 on Jul 20.
 
+**Period covered:** Jul 18 (arrival from Gelilah House + Titanic afternoon) and Jul 19 (full Belfast day). Jul 20 morning checkout + Carlingford drive opens [Leg 5](leg-5-leixlip.md).
+
 <style>
   #map-leg4 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
   #map-leg4 .leaflet-routing-container { display: none !important; }
@@ -74,31 +76,25 @@
 
 ## Day Plan
 
-**Jul 18 — arrival from Gelilah House:**
+**Jul 18 — arrival from Gelilah House (checkout covered in [Leg 3](leg-3-northern-ireland.md)):**
 
 | Time | Action |
 |------|--------|
-| By 11:00 | Checkout Gelilah House, ~30 min drive to Belfast |
-| ~11:30 | Arrive Belfast — drop luggage at Ormeau Park Residence |
+| ~11:30 | Arrive Belfast, drop luggage at Ormeau Park Residence |
 | ~12:00–16:00 | [Titanic Belfast](../activities.md#titanic-belfast) + [SS Nomadic](../activities.md#ss-nomadic) (pre-booked, allow 3–4 h) |
-| Evening | Settle in, dinner |
+| Evening | Settle in, dinner — see [Belfast restaurants](../activities.md#restaurants--belfast) |
 
 **Jul 19 — full day Belfast:**
 
 | Time | Action |
 |------|--------|
-| Morning | [Ulster Folk Museum](../activities.md#ulster-folk-museum) (~20 min drive, half day) |
-| Afternoon | [W5](../activities.md#w5) science centre or [Belfast Castle](../activities.md#belfast-castle) |
+| ~09:00–10:30 | Optional: [Belfast Black Cab Tour](../activities.md#belfast-black-cab-tour) — political murals on the Falls Rd and Shankill Rd (~1.5 h, £35–50/cab, city centre pick-up). Highly recommended for adults and older kids (12+). |
+| ~09:00 (alternative) | Drive 20 min north to [Carrickfergus Castle](../activities.md#carrickfergus-castle) — Norman castle on the lough shore, 45 min–1 h walk-around. Then continue toward Cultra. |
+| ~10:30–13:00 | [Ulster Folk Museum](../activities.md#ulster-folk-museum) — open-air museum in Cultra, half day; costumed interpreters, farmhouses, forge |
+| ~14:00–17:00 | [W5 Science Centre](../activities.md#w5) — Odyssey complex, beside Titanic Quarter; best Belfast family attraction for kids 5–12 |
+| Evening | **Cathedral Quarter** for dinner — try [The Duke of York](../activities.md#trad-sessions-outside-dublin), The Dirty Onion, or [Mourne Seafood Bar](../activities.md#restaurants--belfast). Trad music sessions some nights from ~9 pm. |
 
-**Jul 20 — departure to Leixlip:**
-
-| Time | Action |
-|------|--------|
-| Before 10:00 | Checkout Ormeau Park Residence |
-| ~10:00–12:00 | Drive south (~2 h via A1/M1) |
-| ~12:00–13:30 | Lunch stop: **Carlingford** — medieval harbour village, Norman castle, directly on the route |
-| ~14:30 | Continue south (~45 min to Leixlip) |
-| ~16:00 | Check in Court Yard Hotel, Leixlip |
+**Jul 20:** Checkout before 10:00 → Carlingford lunch → drive to Leixlip. See [Leg 5](leg-5-leixlip.md).
 
 ## Driving Notes
 
@@ -107,5 +103,6 @@ Carrickfergus Castle is a short day trip (20 min north of Belfast city).
 
 ## Open Questions
 
-- Titanic Belfast: pre-book — summer peak season, sells out
-- W5 age range: confirmed good for ~5–12 year olds
+- **Titanic Belfast:** pre-book — summer peak season, sells out. Include SS Nomadic in the same booking.
+- **Black Cab Tour:** book in advance via a local operator (e.g. Original Belfast Black Cab Tours). Decide whether Jul 19 morning or an alternative start for the day.
+- **Cathedral Quarter dinner (Jul 19):** The Duke of York and Mourne Seafood Bar both benefit from a reservation — book ahead.

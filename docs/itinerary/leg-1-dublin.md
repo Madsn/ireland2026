@@ -2,6 +2,8 @@
 
 3-night base in Dublin city. Both families arrive Jul 13 (~5h apart). [Hendrick Smithfield](../logistics/hendrick-smithfield.md) in Smithfield — €1,634.38 · breakfast included.
 
+**Period covered:** Jul 13 (arrival) through Jul 15 evening. Jul 16 checkout + drive to Drogheda opens [Leg 2](leg-2-drogheda.md).
+
 <style>
   #map-leg1 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
 </style>
@@ -38,31 +40,64 @@
 
 - **Wilhelmsen** arrive Aer Lingus EI80 at 08:10
 - **Madsen** arrive Pegasus PC409 at 13:00 (~5h later)
-- Wilhelmsen can drop bags / explore Smithfield area during the wait
+- Hotel check-in from ~14:00. **Leave bags at reception on arrival** — both families.
 
 ## Day Plan
 
-| Day | Rough Timing | Plan |
-|-----|-------------|------|
-| Jul 13 (arrival) | 08:10 Wilhelmsen land · 13:00 Madsen land | Drop bags at hotel, explore Smithfield area together once both families arrive — light afternoon, early dinner |
-| Jul 14 | Morning (pre-booked slot) | Guinness Storehouse · afternoon: Dublinia or Leprechaun Museum |
-| Jul 15 | Flexible | Remaining Dublin activities; book an evening restaurant |
-| Jul 16 | ~10:00 checkout | → Leg 2 departs |
+**Jul 13 — arrival day:**
+
+| Time | Action |
+|------|--------|
+| 08:10 | Wilhelmsen land. Take the Airlink 747 bus or taxi to Smithfield (~35 min). Leave bags at hotel reception. |
+| ~09:00–13:00 | Wilhelmsen wait (~5 h): walk to **Phoenix Park** (~15 min from hotel) — free, vast, deer roam freely; or explore Smithfield Square and the Jameson Distillery quarter |
+| 13:00 | Madsen land. Airlink or taxi to Smithfield (~35 min). |
+| ~14:00 | Both families check in together |
+| Afternoon | Light walk around Smithfield — settle in, recover from travel |
+| Evening | **The Cobblestone** (2 min walk, Smithfield) — nightly trad sessions, no cover charge. Casual dinner at The Church Café & Bar or Gallagher's Boxty House |
+
+**Jul 14 — Guinness + Viking Dublin:**
+
+| Time | Action |
+|------|--------|
+| Morning (pre-booked slot) | [Guinness Storehouse](../activities.md#guinness-storehouse) — allow 2–2.5 h |
+| ~12:30 | Walk south (~25 min) toward Christ Church |
+| ~13:00–15:00 | [Dublinia](../activities.md#dublinia) — Viking & medieval Dublin museum |
+| Optional | Quick look at Christ Church Cathedral exterior (free) — beside Dublinia |
+| Evening | Temple Bar area — **The Brazen Head** (Dublin's oldest pub, nightly music from 9 pm, food all day) or [Gallagher's Boxty House](../activities.md#restaurants--dublin). **Pre-book.** |
+
+**Jul 15 — EPIC + city:**
+
+| Time | Action |
+|------|--------|
+| ~09:30 | Walk east along the quays (~30 min) or take Luas Red Line to Convention Centre stop |
+| ~10:00–12:30 | **[EPIC Irish Emigration Museum](https://epicchq.com/)** (Docklands) — pre-book online; interactive, great for all ages; 2–2.5 h |
+| Afternoon | **National Museum of Ireland – Natural History** ("The Dead Zoo", Merrion St) — free, 1 h, kids love it; or **Phoenix Park + Dublin Zoo** if not visited Jul 13 (~€23 adult/€16 child, book ahead) |
+| Evening | Sit-down dinner — pre-book in advance. Recommendations: [The Winding Stair](../activities.md#restaurants--dublin), [Bison Bar & BBQ](../activities.md#restaurants--dublin), or [Bunsen](../activities.md#restaurants--dublin) for a family-casual option |
+
+**Jul 16:** Checkout ~10:00 → drive to Drogheda. See [Leg 2](leg-2-drogheda.md).
 
 ## Activities
 
 | Activity | Notes |
 |----------|-------|
-| [Dublinia (Viking Museum)](../activities.md#dublinia) | |
-| [Guinness Storehouse](../activities.md#guinness-storehouse) | ⭐ Popular — **pre-book** in summer |
-| [National Leprechaun Museum](../activities.md#national-leprechaun-museum) | Good for kids |
+| [Guinness Storehouse](../activities.md#guinness-storehouse) | ⭐ Popular — **pre-book** in summer; Jul 14 morning |
+| [Dublinia (Viking Museum)](../activities.md#dublinia) | Jul 14 afternoon |
+| EPIC Irish Emigration Museum | Jul 15 morning — **pre-book** online |
+| National Museum – Natural History | Jul 15 afternoon — free, no booking needed |
+| [National Leprechaun Museum](../activities.md#national-leprechaun-museum) | Swap in for Dublinia if kids prefer; 15 min walk from hotel |
 | ~~Dublin Castle~~ | **CLOSED** — do not plan |
+
+See also: [full Dublin activities & alternatives](../activities.md#leg-1--dublin-jul-1316), including [Dublin trad sessions & restaurants](../activities.md#evening-trad-sessions--irish-dance).
 
 ## Driving / Transport
 
-Arriving by plane — no driving needed within Dublin. Public transport or taxi to Smithfield.
+No driving needed in Dublin. Public transport or taxi to Smithfield.
+
+- **Airport → Smithfield:** Airlink 747 bus (€7 pp, ~35 min) or taxi (~€35, ~30 min)
+- **Within Dublin:** Luas Red Line (Smithfield stop) and taxis
 
 ## Open Questions
 
-- Guinness Storehouse: pre-book tickets (gets very busy in summer)
-- Restaurant bookings for the 3 Dublin evenings?
+- **Guinness Storehouse:** pre-book tickets — book now, July sells out weeks ahead
+- **EPIC Irish Emigration Museum:** pre-book for Jul 15 — busier than expected in summer
+- **Restaurant bookings:** pre-book The Brazen Head (Jul 14) and a sit-down dinner (Jul 15) — summer Dublin books out 2–3 weeks ahead

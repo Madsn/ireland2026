@@ -2,6 +2,8 @@
 
 1-night at [Druids Glen Resort](../logistics/druids-glen-resort.md) · €454.50 · breakfast included (adults; children €12.50 extra).
 
+**Period covered:** Jul 21 evening (arrival from Emerald Park). Jul 22 morning (checkout, Glendalough, drive to Premier Inn) opens [Leg 7](leg-7-departure.md).
+
 <style>
   #map-leg6 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
   #map-leg6 .leaflet-routing-container { display: none !important; }
@@ -17,8 +19,8 @@
     { ll: [53.07260, -6.10610], name: 'Wicklow (Druids Glen Resort)', popup: '<b>Druids Glen Resort</b><br>Check-in Jul 21 from 16:00' },
   ];
   var pois = [
-    { ll: [53.51780, -6.57200], popup: '<b>Emerald Park, Ashbourne</b><br>Leave by 15:00 · 1 h 15 min to Glendalough' },
-    { ll: [53.01140, -6.32780], popup: '<b>Glendalough</b><br>Arrive ~16:15 · Upper Lake trail ~1 h loop · free to walk' },
+    { ll: [53.51780, -6.57200], popup: '<b>Emerald Park, Ashbourne</b><br>Jul 21 — full day until close ~17:30 · drive direct to Druids Glen' },
+    { ll: [53.01140, -6.32780], popup: '<b>Glendalough</b><br>Jul 22 morning — monastic site + Upper Lake trail · 2–3 h · free to walk' },
   ];
 
   var allPts = route.map(function (r) { return r.ll; }).concat(pois.map(function (p) { return p.ll; }));
@@ -56,32 +58,23 @@
 ## Route
 
 ```
-Emerald Park (Ashbourne) → Glendalough → Druids Glen Resort
+Emerald Park (Ashbourne, close ~17:30) → direct drive → Druids Glen Resort (~50 min)
 ```
 
 ## Day Plan
 
-**Jul 21 — arrival from Emerald Park:**
+**Jul 21 — arrival from Emerald Park (see [Leg 5](leg-5-leixlip.md)):**
 
 | Time | Action |
 |------|--------|
-| ~15:00 | Depart Emerald Park (see [Leg 5](leg-5-leixlip.md) for the leave-by constraint) |
-| ~16:15 | Arrive [Glendalough](../activities.md#glendalough) (~1 h 15 min drive) |
-| ~16:15–17:15 | Upper Lake trail — most scenic walk, ~1 h loop |
-| ~17:35 | Check in Druids Glen Resort (~20 min from Glendalough) |
-| Evening | Dinner — book Hugo's Restaurant directly with the hotel |
+| ~18:30 | Arrive Druids Glen Resort (from Emerald Park, ~50 min drive) |
+| Evening | Dinner at **Hugo's Restaurant** — book directly with the resort in advance |
 
-**Jul 22 — departure morning:**
-
-| Time | Action |
-|------|--------|
-| Morning | Breakfast at Druids Glen (children: €12.50 extra per child) |
-| ~10:00 | Drive to Dublin Airport area (~45 min) |
-| ~10:45 | Arrive Premier Inn Dublin Airport → [Leg 7](leg-7-departure.md) |
+**Jul 22:** Breakfast → checkout → Glendalough → Premier Inn. See [Leg 7](leg-7-departure.md).
 
 ## Activities
 
 | Activity | Notes |
 |----------|-------|
-| [Glendalough](../activities.md#glendalough) | Early Christian monastic site · stunning valley · free to walk · Upper Lake trail ~1 h loop |
-| [Wicklow Mountains National Park](../activities.md#wicklow-mountains-national-park) | The drive to Glendalough passes through the national park |
+| [Glendalough](../activities.md#glendalough) | Visited Jul 22 morning — see [Leg 7](leg-7-departure.md) for the day plan |
+| [Wicklow Mountains National Park](../activities.md#wicklow-mountains-national-park) | The drive from Druids Glen to Glendalough passes through the national park |

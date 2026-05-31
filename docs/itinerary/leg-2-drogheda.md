@@ -2,6 +2,8 @@
 
 1-night stop in Drogheda. Route: Dublin → coast road north → Ardgillan → Drogheda. [Scholars Townhouse Hotel](../logistics/scholars-townhouse-hotel.md) · €498.00 · breakfast: check booking.
 
+**Period covered:** Jul 16 (Dublin checkout, drive north, Drogheda arrival and activities). Jul 17 morning (Brú na Bóinne + drive north) opens [Leg 3](leg-3-northern-ireland.md).
+
 <style>
   #map-leg2 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
   #map-leg2 .leaflet-routing-container { display: none !important; }
@@ -74,20 +76,13 @@ Dublin → Drogheda: ~50 km, ~1 h via M1 coastal route.
 | ~10:30 | Arrive Ardgillan Castle (~25 min drive) |
 | ~10:30–11:30 | [Ardgillan Castle and Garden](../activities.md#ardgillan-castle-and-garden) — free grounds |
 | ~12:00 | Arrive Drogheda (~30 min drive), check in |
-| Afternoon | [Drogheda Museum (Millmount)](../activities.md#drogheda-museum--millmount) — walkable from town |
-| Evening | Dinner in Drogheda |
+| Afternoon | [Drogheda Museum (Millmount)](../activities.md#drogheda-museum--millmount) — walkable from town centre, allow 1 h |
+| Evening | Dinner in Drogheda · after dinner: short walk to **St Laurence Gate** (one of the best-preserved medieval town gates in Ireland, 5 min from hotel) and along the old town walls — no entry fee, good for stretching legs |
 
-**Jul 17 — departure day for Northern Ireland:**
-
-One morning activity only. This is also a driving day with a strict check-in window at the next accommodation.
-
-| Time | Action |
-|------|--------|
-| ~09:00 | [Newgrange / Brú na Bóinne](../activities.md#bru-na-boinne--newgrange) — **must pre-book first timed slot** (2–3 h) |
-| ~10:30 | Depart Drogheda ← latest viable departure for [Leg 3](leg-3-northern-ireland.md) |
+**Jul 17:** First timed slot at [Brú na Bóinne](../activities.md#br-na-bine--newgrange) (09:00) → depart north by ~11:30 → see [Leg 3](leg-3-northern-ireland.md).
 
 Other Drogheda activities ([Irish Military War Museum](../activities.md#irish-military-war-museum), [Old Mellifont Abbey](../activities.md#old-mellifont-abbey)) don't fit in this leg.
 
 ## Open Questions
 
-- **Brú na Bóinne must be pre-booked** for summer — book the earliest available slot on Jul 17. Check availability ASAP.
+- **Brú na Bóinne must be pre-booked** for summer — book the 09:00 slot on Jul 17. Check availability ASAP on the OPW website.

@@ -2,6 +2,8 @@
 
 Originally planned as a Donegal leg — replaced with Leixlip to be close to Emerald Park. [Court Yard Hotel, Leixlip](../logistics/courtyard-leixlip.md) · €388.80 · breakfast included.
 
+**Period covered:** Jul 20 (Belfast checkout, Carlingford lunch, Leixlip arrival) and Jul 21 (Emerald Park full day + evening drive to Druids Glen). Jul 21 evening arrival at Druids Glen opens [Leg 6](leg-6-wicklow.md).
+
 <style>
   #map-leg5 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
   #map-leg5 .leaflet-routing-container { display: none !important; }
@@ -18,7 +20,7 @@ Originally planned as a Donegal leg — replaced with Leixlip to be close to Eme
   ];
   var pois = [
     { ll: [54.04220, -6.18670], popup: '<b>Carlingford</b><br>Medieval harbour village · Norman castle ruins · lunch stop en route' },
-    { ll: [53.51780, -6.57200], popup: '<b>Emerald Park, Ashbourne</b><br>Jul 21 · leave by 15:00 for Druids Glen check-in' },
+    { ll: [53.51780, -6.57200], popup: '<b>Emerald Park, Ashbourne</b><br>Jul 21 · arrive at open ~10:00 · stay until close ~17:30 · drive direct to Druids Glen' },
   ];
 
   var allPts = route.map(function (r) { return r.ll; }).concat(pois.map(function (p) { return p.ll; }));
@@ -56,34 +58,41 @@ Originally planned as a Donegal leg — replaced with Leixlip to be close to Eme
 ## Route
 
 ```
-Belfast (Ormeau Park, checkout before 10:00) → ~2h drive south → Leixlip
+Belfast (Ormeau Park, checkout before 10:00) → A1/M1 south → Carlingford (lunch) → Leixlip
 ```
 
-Belfast → Leixlip: ~2 h (165 km via A1/M1). See [Leg 4](leg-4-belfast.md) for the Carlingford lunch stop on this drive.
+Belfast → Leixlip direct: ~2 h (165 km). With Carlingford stop: allow ~3.5–4 h total.
 
 ## Day Plan
 
-**Jul 20 — arrival from Belfast:** *(see [Leg 4](leg-4-belfast.md) for full drive timing)*
+**Jul 20 — transit from Belfast (Belfast checkout covered in [Leg 4](leg-4-belfast.md)):**
 
 | Time | Action |
 |------|--------|
+| Before 10:00 | Checkout Ormeau Park Residence |
+| ~10:00 | Drive south (~2 h via A1/M1) |
+| ~12:00–13:30 | Lunch: **[Carlingford](../activities.md#carlingford)** — medieval harbour village on the Cooley Peninsula, Norman castle ruins (King John's Castle), views across to the Mourne Mountains. Directly on the route. |
+| ~14:30 | Continue south (~45 min to Leixlip) |
 | ~16:00 | Check in Court Yard Hotel, Leixlip |
-| Evening | **Book Emerald Park tickets online for Jul 21** — 20% discount if booked night before |
+| Evening | **Book Emerald Park tickets online tonight** (20% early-booking discount). Quiet rest evening — optional short walk in [St Catherine's Park](../activities.md#st-catherines-park) beside the hotel. |
 
-**Jul 21 — Emerald Park day:**
+**Jul 21 — Emerald Park full day:**
 
 | Time | Action |
 |------|--------|
-| ~09:30 | Breakfast (included) |
-| ~10:00 | Drive to Emerald Park, Ashbourne (~25 min) |
-| ~10:30–15:00 | [Emerald Park](../activities.md#emerald-park) |
-| **15:00** | ⚠️ **Depart by 15:00** — 1 h 15 min drive to Glendalough en route to Druids Glen |
+| ~09:00 | Breakfast (included at hotel) |
+| ~09:30 | Drive to Emerald Park, Ashbourne (~25 min) |
+| ~10:00 | **Arrive Emerald Park at opening** — maximize time in the park |
+| ~10:00 until close (~17:30) | [Emerald Park](../activities.md#emerald-park) — full day; no departure constraint, stay until closing |
+| ~18:30 | Drive direct from Emerald Park to Druids Glen Resort (~50 min via N2/M50/N11) |
+| ~19:15 | Check in Druids Glen Resort → [Leg 6](leg-6-wicklow.md) |
 
 ## Key Action: Emerald Park Tickets
 
-⚠️ **Book on July 20 for July 21** to get the 20% early-booking discount. Drive from hotel to Emerald Park (Ashbourne): ~25 min.
+⚠️ **Book on the evening of July 20** to get the 20% early-booking discount. Verify Emerald Park's opening and closing times when booking — summer hours are typically 10:00–17:30 but confirm on their website.
 
 ## Connections
 
 - Place: [Emerald Park](../places/emerald-park.md) · [Activity details](../activities.md#emerald-park)
-- Next: [Wicklow Leg](leg-6-wicklow.md)
+- Carlingford lunch: [Activity details](../activities.md#carlingford)
+- Next: [Leg 6 — Wicklow](leg-6-wicklow.md)
