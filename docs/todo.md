@@ -14,7 +14,7 @@ These attractions are already accepting bookings and July slots will go — don'
 
 Must arrive by ~12:40 to make Gelilah House check-in (15:00–18:00 hard window). Choose the 12:40 time slot or the closest available before it. July weekends sell out; weekday slots like Jul 17 (Friday) are slightly more available but still fill fast — book now rather than in a week.
 
-**Cancellation risk:** Check the policy when booking. If tickets are non-refundable, the financial exposure is modest (~£64/family) relative to the total trip cost. The risk of being unable to get a Jul 17 slot by waiting is greater than the risk of needing to cancel.
+**Cancellation policy:** Tickets are **non-refundable**. "Genuine extenuating circumstances" can be considered for a discretionary partial or full refund — call +44 (0)28 40 464 777. Time slot changes are possible for **£5/ticket**, subject to availability. Tickets are non-transferable.
 
 ### Guinness Storehouse — Jul 14
 
@@ -22,11 +22,15 @@ Must arrive by ~12:40 to make Gelilah House check-in (15:00–18:00 hard window)
 
 Most-visited paid attraction in Ireland. July morning slots (needed here — the day continues with Dublinia in the afternoon) go 3–4 weeks ahead. Book now for a 10:00–11:00 opening slot.
 
+**Cancellation policy:** Tickets are **non-refundable**, but the visit can be **rescheduled up to 24 hours before** via "My Booking" on the website (at venue's discretion). Within 24h, contact info@guinnessstorehouse.com.
+
 ### Titanic Belfast + SS Nomadic — Jul 18
 
 [titanicbelfast.com](https://www.titanicbelfast.com/) · ~£22 adult / ~£11 child
 
 Book together if the site allows it; otherwise book separately. Plan around a 12:00 start to allow time to arrive from Gelilah House. July availability narrows 3–4 weeks out.
+
+**Cancellation policy:** Tickets are **non-refundable**, but date/time changes can be requested and the venue will "use reasonable endeavours" to accommodate. Call +44 (0)28 9076 6386 or email welcome@titanicbelfast.com. Tickets are non-transferable.
 
 ---
 
@@ -34,7 +38,7 @@ Book together if the site allows it; otherwise book separately. Plan around a 12
 
 | What | Book on | Notes |
 |------|---------|-------|
-| **Brú na Bóinne / Newgrange** | **17 June 2026** | OPW bookings open exactly 30 days in advance. For a Jul 17 visit, the booking window opens on **Jun 17**. Set a reminder — July slots at the 09:00 opening go within hours of release. Book immediately at [heritageireland.ie](https://heritageireland.ie/). |
+| **Brú na Bóinne / Newgrange** | **17 June 2026** | OPW bookings open exactly 30 days in advance. For a Jul 17 visit, the booking window opens on **Jun 17**. Set a reminder — July slots go within hours of release. Book immediately at [heritageireland.ie](https://heritageireland.ie/). **Cancellation policy: strictest of all four.** Refundable only within **1 hour of purchase**. No amendments or transfers of any kind after that window. |
 | **Emerald Park tickets** | **Evening of Jul 20** | 20% discount applies when booked the day before. Book online after checking into the Courtyard Hotel, Leixlip. Do not book earlier (discount requires same-day-before purchase). |
 
 ### Which Brú na Bóinne ticket to book
