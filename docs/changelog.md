@@ -4,6 +4,25 @@ Modifications made to the itinerary across planning sessions, most recent first.
 
 ---
 
+## 2026-06-02
+
+### Hotel swap — Gelilah House + Ormeau Park → Hampton by Hilton Belfast City Centre
+
+**Canceled:** Gelilah House (Loughbrickland, Jul 17–18, 1 night, £324) and Ormeau Park Residence (Belfast, Jul 18–20, 2 nights, £729.10).
+
+**Booked:** Hampton by Hilton Belfast City Centre (15 Hope Street, BT12 5EE) · Jul 17–20 · 3 nights · 2 rooms (Queen Family Room each) · breakfast included · £583.94/room = **£1,167.88 total** · conf 5339666085 + 5122775279.
+
+**Net effect:**
+- Belfast stay extended from 2 nights to 3, now starting Jul 17 (was Jul 18)
+- Breakfast now included across all NI nights (was 3 days without breakfast)
+- No more narrow 15:00–18:00 check-in window (Hampton is standard hotel check-in from 15:00)
+- Accommodation total revised from ~€4,664 to ~€4,800
+- GoT Studio Tour: can now be done as a relaxed day trip from Belfast on Jul 18, or en route on Jul 17
+
+**Pages updated:** Leg 3, Leg 4, Leg 5, accommodation.md, budget/overview.md, index.md, activities.md, places/belfast.md, todo.md, mkdocs.yml. Gelilah House and Ormeau Park Residence hotel pages deleted.
+
+---
+
 ## 2026-05-31
 
 ### Itinerary rework — all 7 legs

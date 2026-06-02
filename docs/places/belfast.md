@@ -1,13 +1,13 @@
 # Belfast
 
-Capital of Northern Ireland. Industrial and maritime heritage city, famous for the Titanic. 2-night base (Jul 18–20).
+Capital of Northern Ireland. Industrial and maritime heritage city, famous for the Titanic. 3-night base (Jul 17–20).
 
 ## Trip Facts
 
 | Field | Value |
 |-------|-------|
-| Hotel | [Ormeau Park Residence](../logistics/ormeau-park-residence.md) (south Belfast) |
-| Stay | Jul 18–20 (2 nights) |
+| Hotel | [Hampton by Hilton Belfast City Centre](../logistics/hampton-by-hilton-belfast.md) |
+| Stay | Jul 17–20 (3 nights) · breakfast included |
 | Currency | GBP (British pounds sterling) |
 
 ## Planned Activities
@@ -26,7 +26,7 @@ Capital of Northern Ireland. Industrial and maritime heritage city, famous for t
 ## Notes
 
 - Titanic Quarter is a half-day minimum: Titanic Belfast + SS Nomadic + dock views
-- Ormeau Park is in south Belfast, 15–20 min walk from city centre
+- Hampton by Hilton is in Belfast city centre (Hope Street, BT12 5EE) — walkable to Cathedral Quarter and most attractions
 
 ## Connections
 

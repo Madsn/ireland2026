@@ -12,7 +12,7 @@ These attractions are already accepting bookings and July slots will go — don'
 
 [gameofthronesstudiotour.com](https://gameofthronesstudiotour.com/) · £64/family
 
-Must arrive by ~12:40 to make Gelilah House check-in (15:00–18:00 hard window). Choose the 12:40 time slot or the closest available before it. July weekends sell out; weekday slots like Jul 17 (Friday) are slightly more available but still fill fast — book now rather than in a week.
+Two options: (A) en route from Drogheda on Jul 17 — book a ~09:40 or ~10:00 slot (arrive ~12:40 after Newgrange, finish ~15:40, then ~40 min to Hampton by Hilton Belfast check-in); or (B) day trip from Belfast on Jul 18 — more relaxed, book any morning slot. July fills fast — book now rather than in a week.
 
 **Cancellation policy:** Tickets are **non-refundable**. "Genuine extenuating circumstances" can be considered for a discretionary partial or full refund — call +44 (0)28 40 464 777. Time slot changes are possible for **£5/ticket**, subject to availability. Tickets are non-transferable.
 
@@ -28,7 +28,7 @@ Most-visited paid attraction in Ireland. July morning slots (needed here — the
 
 [titanicbelfast.com](https://www.titanicbelfast.com/) · ~£22 adult / ~£11 child
 
-Book together if the site allows it; otherwise book separately. Plan around a 12:00 start to allow time to arrive from Gelilah House. July availability narrows 3–4 weeks out.
+Book together if the site allows it; otherwise book separately. Plan for a morning start — now that GoT Studio is a potential Jul 18 day trip, consider splitting GoT (Jul 18 morning) and Titanic (Jul 19). July availability narrows 3–4 weeks out.
 
 **Cancellation policy:** Tickets are **non-refundable**, but date/time changes can be requested and the venue will "use reasonable endeavours" to accommodate. Call +44 (0)28 9076 6386 or email welcome@titanicbelfast.com. Tickets are non-transferable.
 

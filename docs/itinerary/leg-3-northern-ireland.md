@@ -1,8 +1,8 @@
-# Leg 3 — Northern Ireland (Jul 17–18)
+# Leg 3 — Transit to Belfast (Jul 17)
 
-First Northern Ireland night. [Gelilah House](../logistics/gelilah-house.md) villa near Loughbrickland · £324 · no meals included — budget for food. Narrow check-in window: 15:00–18:00.
+Transit day from Drogheda to Belfast. After Brú na Bóinne/Newgrange (morning), drive north to [Hampton by Hilton Belfast City Centre](../logistics/hampton-by-hilton-belfast.md) — check-in from 15:00. No overnight stop en route.
 
-**Period covered:** Jul 17 (Drogheda checkout, Brú na Bóinne, transit to Gelilah House). Jul 18 morning (checkout Gelilah + drive to Belfast) opens [Leg 4](leg-4-belfast.md).
+**Period covered:** Jul 17 (Drogheda checkout, Newgrange, drive to Belfast check-in). Belfast activities from [Leg 4](leg-4-belfast.md).
 
 <style>
   #map-leg3 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -15,13 +15,13 @@ First Northern Ireland night. [Gelilah House](../logistics/gelilah-house.md) vil
 <script>
 (function () {
   var route = [
-    { ll: [53.71770, -6.34826], name: 'Drogheda (Scholars Townhouse)',   popup: '<b>Scholars Townhouse Hotel</b><br>Check-out Jul 17' },
-    { ll: [54.24760, -6.25260], name: 'Loughbrickland (Gelilah House)', popup: '<b>Gelilah House</b><br>Check-in Jul 17 · 15:00–18:00 window' },
+    { ll: [53.71770, -6.34826], name: 'Drogheda (Scholars Townhouse)',      popup: '<b>Scholars Townhouse Hotel</b><br>Check-out Jul 17' },
+    { ll: [54.59350, -5.93540], name: 'Belfast (Hampton by Hilton)',         popup: '<b>Hampton by Hilton Belfast City Centre</b><br>Check-in Jul 17 · from 15:00' },
   ];
   var pois = [
+    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · en-route option if booked for Jul 17<br>Otherwise: day trip from Belfast on Jul 18' },
     { ll: [54.17640, -6.33940], popup: '<b>Bagenal Castle, Newry</b>' },
-    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>⭐ £64/family · must pre-book<br>Arrive ~12:40 · depart ~15:40' },
-    { ll: [54.32700, -5.70090], popup: '<b>Downpatrick</b><br>Contingency if GoT Studio unavailable<br>St Patrick\'s Cathedral · Down County Museum' },
+    { ll: [54.32700, -5.70090], popup: '<b>Downpatrick</b><br>Contingency · St Patrick\'s Cathedral · Down County Museum' },
   ];
 
   var allPts = route.map(function (r) { return r.ll; }).concat(pois.map(function (p) { return p.ll; }));
@@ -59,50 +59,36 @@ First Northern Ireland night. [Gelilah House](../logistics/gelilah-house.md) vil
 ## Route
 
 ```
-Drogheda → (M1 north, border crossing) → Newry/Downpatrick area → Gelilah House
+Drogheda → (M1 north, border crossing) → Newry → Belfast
 ```
 
 Note: border crossing — no passport control but road changes to UK signs and mph speed limits.
 
-## Activities
-
-| Activity | Notes |
-|----------|-------|
-| [Bagenal Castle, Newry](../activities.md#bagenal-castle-newry) | |
-| [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) | ⭐ £64/family for general admission — **must pre-book** |
-
 ## Day Plan
 
-**Jul 17 — transit day from Drogheda:**
+**Jul 17 — transit from Drogheda to Belfast:**
 
 | Time | Action |
 |------|--------|
 | 09:00 | [Brú na Bóinne / Newgrange](../activities.md#br-na-bine--newgrange) — first timed slot (pre-booked, 2–2.5 h). Visitor centre is 8 km west of Drogheda. |
-| ~11:30 | Depart north from Drogheda area (~85 km, ~1 h 10 min) |
-| ~12:40 | Arrive [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) (Banbridge) |
-| ~15:40 | Depart (~10 km south to Gelilah House) |
-| ~15:55 | Check in Gelilah House ✓ — within 15:00–18:00 window |
+| ~11:30 | Check out Scholars Townhouse, depart north |
+| ~13:00 | Arrive Belfast — drop bags at Hampton by Hilton (check-in from 15:00, luggage storage available) |
+| Afternoon | Explore city centre on foot — Cathedral Quarter, Victoria Square, St Anne's Cathedral |
+| 15:00 | Official check-in |
+| Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants--belfast) |
 
-No slack in this schedule — do not add stops.
-
-**Jul 18 — checkout and drive to Belfast (see [Leg 4](leg-4-belfast.md)):**
-
-| Time | Action |
-|------|--------|
-| By 11:00 | Checkout Gelilah House |
-| ~11:00–11:30 | Drive to Belfast (~30 min) |
-| ~11:30 | Arrive Belfast — Belfast activities from this point in [Leg 4](leg-4-belfast.md) |
+**GoT Studio Tour option:** if pre-booked for Jul 17, the Banbridge studio (~12:40 arrive, ~15:40 depart, ~40 min drive to Belfast) fits between Newgrange and check-in. Otherwise plan it as a day trip from Belfast on Jul 18 — see [Leg 4](leg-4-belfast.md).
 
 ## Driving Notes
 
-Drogheda → GoT Studio Tour (Banbridge): ~85 km, ~1 h 10 min.  
-GoT Studio Tour → Gelilah House (Loughbrickland): ~10 km south (~15 min). Banbridge is only 10 km north of the accommodation.
+Drogheda → Belfast direct: ~110 km, ~1 h 20 min.  
+Via Banbridge (GoT Studio): ~125 km, ~1 h 40 min total drive time.
 
 ## Contingency
 
-GoT Studio Tour is the anchor here — if unavailable, [Downpatrick](https://maps.google.com/?q=Downpatrick+Northern+Ireland) ([St Patrick's Cathedral](https://maps.google.com/?q=Down+Cathedral+Downpatrick+Northern+Ireland), [Down County Museum](https://maps.google.com/?q=Down+County+Museum+Downpatrick+Northern+Ireland)) is nearby.
+If GoT Studio Tour is unavailable, [Downpatrick](https://maps.google.com/?q=Downpatrick+Northern+Ireland) ([St Patrick's Cathedral](https://maps.google.com/?q=Down+Cathedral+Downpatrick+Northern+Ireland), [Down County Museum](https://maps.google.com/?q=Down+County+Museum+Downpatrick+Northern+Ireland)) is a worthwhile stop on the way.
 
 ## Open Questions
 
-- GoT Studio Tour: check availability for Jul 17. Pre-book — £64/family.
+- GoT Studio Tour: decide whether Jul 17 en-route or Jul 18 day trip — see [Leg 4](leg-4-belfast.md).
 - Currency is GBP in Northern Ireland — bring cards.

@@ -14,8 +14,7 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
   var hotels = [
     { ll: [53.34797, -6.28098], popup: '<b>Leg 1 — Hendrick Smithfield, Dublin</b><br>Jul 13–16 · 3 nights' },
     { ll: [53.71770, -6.34826], popup: '<b>Leg 2 — Scholars Townhouse, Drogheda</b><br>Jul 16–17 · 1 night' },
-    { ll: [54.24760, -6.25260], popup: '<b>Leg 3 — Gelilah House, Loughbrickland</b><br>Jul 17–18 · check-in 15:00–18:00' },
-    { ll: [54.58200, -5.93000], popup: '<b>Leg 4 — Ormeau Park Residence, Belfast</b><br>Jul 18–20 · 2 nights' },
+    { ll: [54.59350, -5.93540], popup: '<b>Leg 4 — Hampton by Hilton, Belfast City Centre</b><br>Jul 17–20 · 3 nights · breakfast included' },
     { ll: [53.36370, -6.48400], popup: '<b>Leg 5 — Court Yard Hotel, Leixlip</b><br>Jul 20–21 · 1 night' },
     { ll: [53.07260, -6.10610], popup: '<b>Leg 6 — Druids Glen Resort, Wicklow</b><br>Jul 21–22 · 1 night' },
     { ll: [53.42700, -6.23990], popup: '<b>Leg 7 — Premier Inn Dublin Airport</b><br>Jul 22–23 · 1 night' },
@@ -146,8 +145,9 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 - All 7 accommodation legs confirmed and booked.
 - **Critical pre-bookings still needed:** Brú na Bóinne/Newgrange, GoT Studio Tour, Titanic Belfast, Guinness Storehouse.
 - **Book Emerald Park on July 20** for July 21 visit — 20% early-booking discount.
-- Early checkout alerts: Gelilah House before 11:00 on Jul 18; Ormeau Park before 10:00 on Jul 20.
-- Accommodation total: approx. **€4,664** (GBP converted at ~1.18).
+- Early checkout alert: Hampton by Hilton checkout by 11:00 on Jul 20.
+- Breakfast now included at all hotels.
+- Accommodation total: approx. **€4,800** (GBP converted at ~1.18).
 
 ## Trip at a Glance
 
@@ -155,8 +155,7 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 |-----|-------|----------|-------|-----------|------|
 | 1 | Jul 13–16 | Dublin | [Hendrick Smithfield](logistics/hendrick-smithfield.md) | ✅ | €1,634.38 |
 | 2 | Jul 16–17 | Drogheda | [Scholars Townhouse](logistics/scholars-townhouse-hotel.md) | — | €498.00 |
-| 3 | Jul 17–18 | Northern Ireland | [Gelilah House](logistics/gelilah-house.md) | ❌ | £324 |
-| 4 | Jul 18–20 | Belfast | [Ormeau Park Residence](logistics/ormeau-park-residence.md) | ❌ | £729.10 |
+| 3/4 | Jul 17–20 | Belfast | [Hampton by Hilton Belfast](logistics/hampton-by-hilton-belfast.md) | ✅ | £1,167.88 (2 rooms) |
 | 5 | Jul 20–21 | Leixlip | [Court Yard Hotel](logistics/courtyard-leixlip.md) | ✅ | €388.80 |
 | 6 | Jul 21–22 | Wicklow | [Druids Glen Resort](logistics/druids-glen-resort.md) | ✅ | €454.50 |
 | 7 | Jul 22–23 | Dublin Airport | [Premier Inn](logistics/premier-inn-dublin-airport.md) | ✅ | €445.80 |
@@ -175,6 +174,5 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 - [ ] **Book Emerald Park tickets** on July 20 for July 21 (20% off)
 - [ ] Pre-book: Brú na Bóinne/Newgrange · GoT Studio Tour · Titanic Belfast · Guinness Storehouse
 - [ ] Book Hugo's Restaurant at Druids Glen directly with hotel
-- [ ] Notify Ormeau Park Residence of expected arrival time (required)
 
 **Shared map:** https://maps.app.goo.gl/GKdBy42FMzYMUj9b8

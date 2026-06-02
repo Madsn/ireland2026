@@ -174,68 +174,68 @@ Sandy east-coast beach just off the M1. Good for a short stop en route. Laytown 
 
 ---
 
-## Leg 3 — Northern Ireland near Loughbrickland (Jul 17–18)
+## Leg 3 / Leg 4 — Northern Ireland (Jul 17–20)
 
-Base: [Gelilah House](logistics/gelilah-house.md), near Loughbrickland (between Newry and Banbridge) · [Leg 3 itinerary](itinerary/leg-3-northern-ireland.md)
+Base: [Hampton by Hilton Belfast City Centre](logistics/hampton-by-hilton-belfast.md) · [Leg 3 itinerary](itinerary/leg-3-northern-ireland.md) · [Leg 4 itinerary](itinerary/leg-4-belfast.md)
 
-Note: check-in at Gelilah House is 15:00–18:00 — don't plan activities that run late.
+Distances below are from Belfast city centre. GoT Studio Tour and Bagenal Castle are ~40 min south (also reachable en route from Drogheda on Jul 17).
 
 ### Game of Thrones Studio Tour ✅
 
 The official Game of Thrones production studio in Banbridge, where much of the HBO series was filmed. Full original sets, costumes, props, and weapons, plus green-screen experiences. One of the most immersive TV/film experiences in the UK or Ireland. Family admission covers 2 adults + 2 children; age-appropriateness depends on GoT familiarity.
 
-**Cost:** ~£64 for family / ~£29 adult · **Duration:** 3–4 h · **Age:** teens best; 10+ with parental call on content · **Booking:** Must pre-book · **Distance:** ~10 min from Gelilah House, Banbridge · [Map](https://maps.google.com/?q=Game+of+Thrones+Studio+Tour+Banbridge+Northern+Ireland)
+**Cost:** ~£64 for family / ~£29 adult · **Duration:** 3–4 h · **Age:** teens best; 10+ with parental call on content · **Booking:** Must pre-book · **Distance:** ~40 km south of Belfast city centre (~40 min) · [Map](https://maps.google.com/?q=Game+of+Thrones+Studio+Tour+Banbridge+Northern+Ireland)
 
 !!! warning "Pre-book"
-    This is the main anchor for Leg 3. Check availability for July 17 and book as early as possible.
+    Day trip from Belfast on Jul 18, or do en route from Drogheda on Jul 17. Check availability and book early — July fills fast.
 
 ### Bagenal Castle, Newry ✅
 
 16th-century castle housing the Newry and Mourne Museum, with exhibits from prehistoric times through to the present day — strong on local folklore, the linen trade, and Famine history. The castle itself (one of Ireland's oldest surviving urban castles) is atmospheric. Good compact stop if arriving via Newry.
 
-**Cost:** Free · **Duration:** 1 h · **Age:** 8+ · **Booking:** Walk-in · **Distance:** ~20 min south of Gelilah House in Newry city · [Map](https://maps.google.com/?q=Bagenal+Castle+Newry+Northern+Ireland)
+**Cost:** Free · **Duration:** 1 h · **Age:** 8+ · **Booking:** Walk-in · **Distance:** ~45 min south of Belfast (Newry city) · [Map](https://maps.google.com/?q=Bagenal+Castle+Newry+Northern+Ireland)
 
 ### Downpatrick ✅ (contingency)
 
 Small town in Co. Down with strong St Patrick connections. Down Cathedral contains the reputed grave of St Patrick, marked by a large rough stone. The adjacent Down County Museum (in an 18th-century gaol) covers 9,000 years of local history and includes a replica Victorian cell block. Recommended contingency if GoT Studio Tour is unavailable.
 
-**Cost:** Museum free; Cathedral free · **Duration:** 1.5–2 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~30 min east of Gelilah House · [Map](https://maps.google.com/?q=Downpatrick+Northern+Ireland)
+**Cost:** Museum free; Cathedral free · **Duration:** 1.5–2 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~40 min from Belfast city centre · [Map](https://maps.google.com/?q=Downpatrick+Northern+Ireland)
 
 ### Tollymore Forest Park 🔄
 
 630-hectare forest park at the foot of the Mourne Mountains — and a genuine GoT filming location (the Haunted Forest in season 1). Waymarked trails through ancient oaks and along the Shimna River; stone arched bridges; accessible for all fitness levels. Free entry. A GoT consolation prize that's also genuinely beautiful.
 
-**Cost:** Car parking fee only (~£5) · **Duration:** 1.5–2 h walk · **Age:** all · **Booking:** Walk-in · **Distance:** ~30 min east of Gelilah House via Newcastle · [Map](https://maps.google.com/?q=Tollymore+Forest+Park+Newcastle+Northern+Ireland)
+**Cost:** Car parking fee only (~£5) · **Duration:** 1.5–2 h walk · **Age:** all · **Booking:** Walk-in · **Distance:** ~55 min from Belfast via Newcastle · [Map](https://maps.google.com/?q=Tollymore+Forest+Park+Newcastle+Northern+Ireland)
 
 ### Slieve Gullion Forest Park 🔄
 
 Forest park on the slopes of Slieve Gullion, a volcanic mountain in Co. Armagh. Fionn MacCumhaill's giant adventure trail with themed play areas suits younger kids well; the hilltop walk (challenging, 2 h) offers views across Armagh and Down. Strong Irish mythology connections.
 
-**Cost:** Free · **Duration:** 1.5–3 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~25 min south of Gelilah House · [Map](https://maps.google.com/?q=Slieve+Gullion+Forest+Park+Northern+Ireland)
+**Cost:** Free · **Duration:** 1.5–3 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~55 min south of Belfast · [Map](https://maps.google.com/?q=Slieve+Gullion+Forest+Park+Northern+Ireland)
 
 ### Narnia Trail — Kilbroney Park, Rostrevor 🔄
 
 Woodland trail through ancient oak forest in Kilbroney Park, with sculptures and scenes from C.S. Lewis's *The Chronicles of Narnia* (Lewis drew on the Mournes landscape for Narnia). Easy family walk, 1–2 km. Rostrevor village itself is charming. Combine with a walk along the seafront promenade on Carlingford Lough.
 
-**Cost:** Free · **Duration:** 1 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~35 min east of Gelilah House · [Map](https://maps.google.com/?q=Kilbroney+Park+Rostrevor+Northern+Ireland)
+**Cost:** Free · **Duration:** 1 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~50 min south of Belfast · [Map](https://maps.google.com/?q=Kilbroney+Park+Rostrevor+Northern+Ireland)
 
 ### Delamont Country Park 🔄
 
 Family-friendly park on the shores of Strangford Lough with a miniature railway, walking trails, orienteering, and wildlife watching. Gentle and relaxed — good option if the group needs a low-key afternoon. Views across the lough.
 
-**Cost:** Car parking fee · **Duration:** 1.5–2 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~40 min east of Gelilah House · [Map](https://maps.google.com/?q=Delamont+Country+Park+Killyleagh+Northern+Ireland)
+**Cost:** Car parking fee · **Duration:** 1.5–2 h · **Age:** all · **Booking:** Walk-in · **Distance:** ~40 min from Belfast (Strangford Lough) · [Map](https://maps.google.com/?q=Delamont+Country+Park+Killyleagh+Northern+Ireland)
 
 ---
 
-## Leg 4 — Belfast (Jul 18–20)
+## Leg 4 — Belfast city (Jul 17–20)
 
-Base: [Ormeau Park Residence](logistics/ormeau-park-residence.md), south Belfast · [Leg 4 itinerary](itinerary/leg-4-belfast.md)
+Base: [Hampton by Hilton Belfast City Centre](logistics/hampton-by-hilton-belfast.md) · [Leg 4 itinerary](itinerary/leg-4-belfast.md)
 
 ### Titanic Belfast ✅
 
 The world's largest Titanic visitor experience, built on the very slipway where the ship was constructed. Nine galleries covering the ship's design, construction, launch, and sinking, with a dark ride through a recreated shipyard and original underwater footage of the wreck. Genuinely excellent — one of the best museum experiences in the British Isles.
 
-**Cost:** ~£22 adult / £11 child · **Duration:** 2.5–3 h · **Age:** all · **Booking:** Pre-book — sells out in summer · **Distance:** 20 min by taxi/bus from Ormeau Park · [Map](https://maps.google.com/?q=Titanic+Belfast+Northern+Ireland)
+**Cost:** ~£22 adult / £11 child · **Duration:** 2.5–3 h · **Age:** all · **Booking:** Pre-book — sells out in summer · **Distance:** 15–20 min walk or short taxi from city centre · [Map](https://maps.google.com/?q=Titanic+Belfast+Northern+Ireland)
 
 !!! warning "Pre-book"
     This is the anchor for Day 1 in Belfast. Book well ahead — July is peak season.
@@ -252,7 +252,7 @@ The last surviving White Star Line vessel — Titanic's tender ship that ferried
 
 Free national museum covering art, history, and natural history. Kid highlights: the Egyptian mummy, dinosaur bones, the Girona Armada gold collection, and the art galleries. Large enough for a half-day; can be combined with the adjacent Botanic Gardens.
 
-**Cost:** Free · **Duration:** 1.5–2.5 h · **Age:** all · **Booking:** Walk-in · **Distance:** 15 min from Ormeau Park · [Map](https://maps.google.com/?q=Ulster+Museum+Belfast+Northern+Ireland)
+**Cost:** Free · **Duration:** 1.5–2.5 h · **Age:** all · **Booking:** Walk-in · **Distance:** 10–15 min from city centre · [Map](https://maps.google.com/?q=Ulster+Museum+Belfast+Northern+Ireland)
 
 ### Ulster Folk Museum ✅
 
@@ -282,7 +282,7 @@ One of the best-preserved Norman castles in Ireland, dating from 1177, set drama
 
 Anglican cathedral in the Cathedral Quarter, completed in stages from 1904 to 2007. Notable for its mosaics, the baptistry dome, and the spire of hope added in 2007. Short visit; good as a quick cultural stop combined with the Cathedral Quarter and the nearby PS I Love You street art.
 
-**Cost:** Free · **Duration:** 30–45 min · **Age:** all · **Booking:** Walk-in · **Distance:** City centre, 20 min from Ormeau Park · [Map](https://maps.google.com/?q=St+Anne+Cathedral+Belfast+Northern+Ireland)
+**Cost:** Free · **Duration:** 30–45 min · **Age:** all · **Booking:** Walk-in · **Distance:** City centre, ~5 min walk from hotel · [Map](https://maps.google.com/?q=St+Anne+Cathedral+Belfast+Northern+Ireland)
 
 ### Belfast Black Cab Tour 🔄
 

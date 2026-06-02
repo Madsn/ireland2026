@@ -15,7 +15,7 @@ Originally planned as a Donegal leg — replaced with Leixlip to be close to Eme
 <script>
 (function () {
   var route = [
-    { ll: [54.58200, -5.93000], name: 'Belfast (Ormeau Park Residence)', popup: '<b>Ormeau Park Residence</b><br>Check-out Jul 20 before 10:00' },
+    { ll: [54.59350, -5.93540], name: 'Belfast (Hampton by Hilton)', popup: '<b>Hampton by Hilton Belfast City Centre</b><br>Check-out Jul 20 by 11:00' },
     { ll: [53.36370, -6.48400], name: 'Leixlip (Court Yard Hotel)',      popup: '<b>Court Yard Hotel, Leixlip</b><br>Check-in Jul 20 from 16:00' },
   ];
   var pois = [
@@ -58,7 +58,7 @@ Originally planned as a Donegal leg — replaced with Leixlip to be close to Eme
 ## Route
 
 ```
-Belfast (Ormeau Park, checkout before 10:00) → A1/M1 south → Carlingford (lunch) → Leixlip
+Belfast (Hampton by Hilton, checkout by 11:00) → A1/M1 south → Carlingford (lunch) → Leixlip
 ```
 
 Belfast → Leixlip direct: ~2 h (165 km). With Carlingford stop: allow ~3.5–4 h total.
@@ -69,7 +69,7 @@ Belfast → Leixlip direct: ~2 h (165 km). With Carlingford stop: allow ~3.5–4
 
 | Time | Action |
 |------|--------|
-| Before 10:00 | Checkout Ormeau Park Residence |
+| By 11:00 | Checkout Hampton by Hilton Belfast |
 | ~10:00 | Drive south (~2 h via A1/M1) |
 | ~12:00–13:30 | Lunch: **[Carlingford](../activities.md#carlingford)** — medieval harbour village on the Cooley Peninsula, Norman castle ruins (King John's Castle), views across to the Mourne Mountains. Directly on the route. |
 | ~14:30 | Continue south (~45 min to Leixlip) |
