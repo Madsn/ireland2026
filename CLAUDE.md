@@ -123,6 +123,9 @@ Tasks tracked here for continuity across sessions. Update when starting or compl
 | 3 | ✅ done | **Build a Plan B activities catalog** — backup/alternative activities near each leg's base, organised by region. Include rough distance from hotel. Page: `docs/activities.md` (full catalog, planned + alternatives, itinerary links into it). |
 | 4 | ✅ done | **Generate interactive Leaflet maps for all 7 legs** — all legs have maps. Green route line between departure and destination lodging only; blue circle markers for all POIs. Bounds auto-fit to include route + all POIs. |
 | 5 | pending | **Add Wilhelmsen flight and car rental booking PDFs** — when uploaded to Drive, add links to `flights.md` and `car-rental.md` and verify details match the wiki. |
+| 6 | pending | **Review itinerary overnight stays** — assess whether any hotel bases could be swapped or consolidated to reduce driving and/or save money without meaningfully adding travel time. Compare current routing against alternatives. |
+| 7 | pending | **Review lodging reservations for better value** — for each booking, check if the same property has a cheaper available rate, if a comparable nearby property is cheaper, or if a better-rated property is available at the same price. |
+| 8 | ✅ done | **Review car rental booking for better value** — Avis Seat Leon Estate at ~€47.5/day fully inclusive (CDW, TP, airport fee, unlimited mileage) is well below peak-July market (~€60–80/day). No cheaper alternative found at 6 weeks out. Added: value assessment, third-party excess insurance recommendation (€3,500 excess exposure), NI cross-border fee check needed, counter Super Cover warning. See `car-rental.md`. |
 
 ## Historical note: llmwiki.app
 
