@@ -23,13 +23,14 @@ requirements.txt                  ← just mkdocs-material
 .github/workflows/deploy.yml      ← auto-deploys on every push to main
 docs/
   index.md                        ← Overview / hub page
+  changelog.md  todo.md  decisions.md  activities.md   (top-level planning pages)
   itinerary/   leg-1-dublin.md … leg-7-departure.md   (the day-by-day plan)
-  logistics/   flights.md, accommodation.md + one page per hotel
+  logistics/   flights.md, car-rental.md, travel-insurance.md, accommodation.md + one page per hotel
   places/      dublin.md, newgrange.md, belfast.md, …  (attractions)
   budget/      overview.md
 ```
 
-29 content pages today. The page count and exact filenames drift over time —
+31 content pages today. The page count and exact filenames drift over time —
 trust `docs/` and `mkdocs.yml`, not this list.
 
 ## How to update an existing page
@@ -118,7 +119,7 @@ Tasks tracked here for continuity across sessions. Update when starting or compl
 
 | # | Status | Task |
 |---|--------|------|
-| 1 | ✅ done | **Review itinerary legs for geographic and timing feasibility** — removed Carrickmacross from leg 2 (40 km wrong-direction detour), tightened leg 2/3 day plan (Newgrange only on Jul 17 morning, depart by 10:30), added Leg 3 timing schedule, fixed "full day" at Emerald Park (leave by 15:00), corrected "Navan" → "Ashbourne" in leg 6, added Carlingford lunch stop for the leg 4→5 gap. |
+| 1 | ✅ done | **Review itinerary legs for geographic and timing feasibility** — removed Carrickmacross from leg 2 (40 km wrong-direction detour), tightened leg 2/3 day plan (Newgrange only on Jul 17 morning, depart by 10:30), added Leg 3 timing schedule, fixed "full day" at Emerald Park (leave by 15:00), corrected "Navan" → "Ashbourne" in leg 6, added Carlingford lunch stop for the leg 4→5 gap. Carrickmacross is **kept in `activities.md` as a Plan B** option (not in any day plan). |
 | 2 | ✅ done | Add Google Maps links to all activities across all legs and places pages |
 | 3 | ✅ done | **Build a Plan B activities catalog** — backup/alternative activities near each leg's base, organised by region. Include rough distance from hotel. Page: `docs/activities.md` (full catalog, planned + alternatives, itinerary links into it). |
 | 4 | ✅ done | **Generate interactive Leaflet maps for all 7 legs** — all legs have maps. Green route line between departure and destination lodging only; blue circle markers for all POIs. Bounds auto-fit to include route + all POIs. |

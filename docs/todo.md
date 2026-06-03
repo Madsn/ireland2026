@@ -1,6 +1,6 @@
 # Todo
 
-Trip starts **Jul 13, 2026** — today is 2026-05-31, which is **43 days out**.
+Trip starts **Jul 13, 2026**. Booking deadlines below are given as absolute dates so this page doesn't go stale.
 
 ---
 
@@ -39,7 +39,7 @@ Book together if the site allows it; otherwise book separately. Plan for a morni
 | What | Book on | Notes |
 |------|---------|-------|
 | **Brú na Bóinne / Newgrange** | **17 June 2026** | OPW bookings open exactly 30 days in advance. For a Jul 17 visit, the booking window opens on **Jun 17**. Set a reminder — July slots go within hours of release. Book immediately at [heritageireland.ie](https://heritageireland.ie/). **Cancellation policy: strictest of all four.** Refundable only within **1 hour of purchase**. No amendments or transfers of any kind after that window. |
-| **Emerald Park tickets** | **Evening of Jul 20** | 20% discount applies when booked the day before. Book online after checking into the Courtyard Hotel, Leixlip. Do not book earlier (discount requires same-day-before purchase). |
+| **Emerald Park tickets** | **Evening of Jul 20** | 20% discount applies when booked the day before. Book online after checking into the Court Yard Hotel, Leixlip. Do not book earlier (discount requires same-day-before purchase). |
 
 ### Which Brú na Bóinne ticket to book
 

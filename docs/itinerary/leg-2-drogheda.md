@@ -76,10 +76,10 @@ Dublin → Drogheda: ~50 km, ~1 h via M1 coastal route.
 | ~10:30 | Arrive Ardgillan Castle (~25 min drive) |
 | ~10:30–11:30 | [Ardgillan Castle and Garden](../activities.md#ardgillan-castle-and-garden) — free grounds |
 | ~12:00 | Arrive Drogheda (~30 min drive), check in |
-| Afternoon | [Drogheda Museum (Millmount)](../activities.md#drogheda-museum--millmount) — walkable from town centre, allow 1 h |
+| Afternoon | [Drogheda Museum (Millmount)](../activities.md#drogheda-museum-millmount) — walkable from town centre, allow 1 h |
 | Evening | Dinner in Drogheda · after dinner: short walk to **St Laurence Gate** (one of the best-preserved medieval town gates in Ireland, 5 min from hotel) and along the old town walls — no entry fee, good for stretching legs |
 
-**Jul 17:** First timed slot at [Brú na Bóinne](../activities.md#br-na-bine--newgrange) (09:00) → depart north by ~11:30 → see [Leg 3](leg-3-northern-ireland.md).
+**Jul 17:** First timed slot at [Brú na Bóinne](../activities.md#bru-na-boinne-newgrange) (09:00) → depart north by ~11:30 → see [Leg 3](leg-3-northern-ireland.md).
 
 Other Drogheda activities ([Irish Military War Museum](../activities.md#irish-military-war-museum), [Old Mellifont Abbey](../activities.md#old-mellifont-abbey)) don't fit in this leg.
 

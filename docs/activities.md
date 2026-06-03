@@ -108,9 +108,9 @@ Base: [Scholars Townhouse Hotel](logistics/scholars-townhouse-hotel.md), Droghed
 
 See also: [Ardgillan Castle](places/ardgillan.md)
 
-### Carrickmacross Workhouse ✅
+### Carrickmacross Workhouse 🔄
 
-Famine-era workhouse museum in Co. Monaghan. Documents the Irish Famine (1845–52) through the experience of a local workhouse — original buildings, interpretive displays, and personal accounts. Flagged in the planning notes as a must-see for the kids. Allows a real conversation about a defining moment in Irish history. Also, Carrickmacross is famous for its lace; shops nearby.
+**Plan B** — dropped from the Leg 2 day plan as a 40 km wrong-direction detour off the Dublin → Drogheda route, but kept here as an optional stop. Famine-era workhouse museum in Co. Monaghan. Documents the Irish Famine (1845–52) through the experience of a local workhouse — original buildings, interpretive displays, and personal accounts. A good kid-friendly option if the day has slack. Allows a real conversation about a defining moment in Irish history. Also, Carrickmacross is famous for its lace; shops nearby.
 
 **Cost:** Low / free · **Duration:** 45 min–1 h · **Age:** 8+ · **Booking:** Check hours before visiting · **Distance:** ~30 min detour off the N2/M2 · [Map](https://maps.google.com/?q=Carrickmacross+Workhouse+Monaghan+Ireland)
 
