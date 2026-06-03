@@ -1,3 +1,7 @@
-anthropic>=0.92.0
+# Python deps for the Telegram bridge.
 requests>=2.31.0
+
+# Needed so Claude Code can run `mkdocs build --strict` to validate edits
+# before publishing. (Claude Code itself is installed separately via npm —
+# see README.)
 mkdocs-material

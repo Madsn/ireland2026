@@ -1,4 +1,4 @@
-# Travel Agent — Telegram bot
+# Travel Agent — Telegram bot (Claude Code bridge)
 
 A chat bot that lets the whole travelling group talk to the trip's "travel
 agent" AI and have it **update the wiki**. Message it like a person — ask about
@@ -11,48 +11,66 @@ about a minute later.
 It is **not gated to one person**: anyone whose Telegram chat ID is on the
 allow-list can use it.
 
-## How it works
+## Why this design
+
+Rather than calling an LLM API per token, the bot drives the **Claude Code CLI**.
+That has two big payoffs:
+
+- **It runs on your Claude Pro subscription, not pay-per-token API billing.**
+  Authenticate the CLI with a `claude setup-token` (from your Pro plan) and the
+  bot's usage draws on your subscription. No API key, no surprise bills.
+- **Almost nothing to build.** Claude Code already has file + bash tools, reads
+  this repo's `CLAUDE.md` for conventions, runs `mkdocs build --strict`, and does
+  the `git commit` + `push` itself. The bot is just a ~110-line bridge.
 
 ```
-Traveller (Telegram)  →  this bot (long-polling)  →  Claude (Anthropic API)
-                                                        │  reads/edits docs/*.md
-                                                        │  mkdocs build --strict   ← gate
-                                                        │  git commit + push main
-                                                        ▼
-                                                   GitHub Pages redeploys
+Traveller (Telegram) → bot (long-polling) → `claude -p --resume` in the repo
+                                               │ edits docs/*.md per CLAUDE.md
+                                               │ mkdocs build --strict   ← gate
+                                               │ git commit + push main
+                                               ▼
+                                          GitHub Pages redeploys
 ```
 
-- The bot **long-polls** Telegram, so there's no public webhook/HTTPS endpoint to
-  host — it runs anywhere with outbound internet.
-- Claude runs a tool loop (`bot/agent.py`) with tools to list/read/search/edit
-  pages and `publish`. **`publish` runs `mkdocs build --strict` and pushes only
-  if it passes** — broken Markdown never reaches the live site.
-- It edits a normal clone of this repo and pushes to `main`, so every change is
-  an ordinary git commit you can review, revert, or `git blame`.
+## Files
+
+- `telegram_bot.py` — long-polling front-end; allow-list; one Claude Code session
+  per chat; `/help` and `/reset`.
+- `agent.py` — the bridge: builds and runs the `claude -p` command, keeps the
+  session id, returns the reply. Holds the persona + publish rules.
 
 ## One-time setup (~15 min)
 
-1. **Create the bot.** In Telegram, message **@BotFather** → `/newbot`, follow the
-   prompts, copy the token.
-2. **Get an Anthropic API key** at <https://console.anthropic.com/>.
-3. **Clone the wiki** somewhere the bot will run, with push access to `main`.
-   The simplest auth is a token-embedded remote:
+1. **Create the bot.** In Telegram, message **@BotFather** → `/newbot`, copy the token.
+2. **Install Claude Code** on the server:
+   ```sh
+   npm install -g @anthropic-ai/claude-code
+   claude --version
+   ```
+3. **Get a subscription token** (on a machine with a browser, logged into your
+   Claude Pro account):
+   ```sh
+   claude setup-token        # → prints sk-ant-oat01-...  (valid ~1 year)
+   ```
+   Copy that token to the server as `CLAUDE_CODE_OAUTH_TOKEN` (step 6).
+4. **Clone the wiki** on the server with push access to `main` — simplest is a
+   token-embedded remote using a GitHub fine-grained PAT (Contents: read & write,
+   this repo only):
    ```sh
    git clone https://x-access-token:<GITHUB_TOKEN>@github.com/Madsn/ireland2026.git
+   git config --global user.email "travel-bot@example.com"
+   git config --global user.name  "Ireland 2026 travel bot"
    ```
-   Use a GitHub fine-grained PAT (or deploy key) with **Contents: read & write**
-   on this repo only.
-4. **Install deps:**
+5. **Install Python deps** (gives Claude Code `mkdocs` to validate edits):
    ```sh
    cd ireland2026/bot
    python -m venv .venv && . .venv/bin/activate
    pip install -r requirements.txt
    ```
-5. **Configure.** `cp .env.example .env` and fill it in. For `ALLOWED_CHAT_IDS`:
+6. **Configure.** `cp .env.example .env` and fill it in. For `ALLOWED_CHAT_IDS`:
    each traveller messages the bot once, then open
    `https://api.telegram.org/bot<TOKEN>/getUpdates` and read `message.chat.id`.
-   Add the 4 adults' IDs (comma-separated).
-6. **Run:**
+7. **Run:**
    ```sh
    set -a; . .env; set +a
    python telegram_bot.py
@@ -62,12 +80,21 @@ Traveller (Telegram)  →  this bot (long-polling)  →  Claude (Anthropic API)
 ## Commands
 
 - `/help` — what the bot does.
-- `/reset` — clear the conversation history for that chat.
+- `/reset` — start a fresh Claude Code session for that chat.
+
+## Billing notes (Claude Pro)
+
+- The CLI bills against your **Pro plan**, not the API. As of mid-2026, headless
+  `claude -p` usage on a subscription draws from a separate ~$20/mo Agent-usage
+  credit on Pro — ample for a family chat, and it can't run up an API bill.
+- If `ANTHROPIC_API_KEY` is set in the environment, Claude Code uses **that**
+  (pay-per-token) instead — so don't set it unless you want API billing.
+- The `setup-token` is valid ~1 year. When it eventually expires the bot will
+  start failing auth; re-run `claude setup-token` and update the env var.
 
 ## Running it for real
 
-For an always-on bot, run it under a process manager so it restarts on reboot
-or crash. A minimal **systemd** unit:
+Run under a process manager so it restarts on reboot/crash. Minimal **systemd**:
 
 ```ini
 # /etc/systemd/system/travel-agent.service
@@ -82,24 +109,27 @@ RestartSec=5
 WantedBy=multi-user.target
 ```
 
-`sudo systemctl enable --now travel-agent`. Any small VM, Raspberry Pi, or a
-container host (Fly.io / Railway / Render worker) works — no inbound ports
-needed. Free-tier hosting is plenty for a family-sized chat.
+`sudo systemctl enable --now travel-agent`. Any small VM, Raspberry Pi, or
+container host works — no inbound ports needed.
 
 ## Safety notes
 
-- **`ALLOWED_CHAT_IDS` is the access control.** The bot has write access to the
-  wiki; an empty list makes it refuse to start. Keep the list to people you
-  trust with the site.
+- **`ALLOWED_CHAT_IDS` is the access control.** The bot can publish to the live
+  site; an empty list makes it refuse to start. Keep it to people you trust.
+- **Pre-approved tools only.** The bridge passes `--permission-mode acceptEdits`
+  and an allow-list (`Read,Edit,Write,Glob,Grep,Bash(git *),Bash(mkdocs *)`).
+  Anything outside that is denied (it can't be approved in non-interactive mode),
+  so the bot can't run arbitrary shell. It never uses `--dangerously-skip-permissions`.
 - **Direct-to-`main`.** Changes go live without a review step (your choice). Every
   change is a git commit, so reverting is `git revert`. To add a review gate
-  later, point `GIT_BRANCH` at a branch and open PRs instead.
-- **Secrets stay in `.env`** (git-ignored) — never commit the API key, bot token,
-  or a token-embedded remote URL.
+  later, tell it (in `agent.py`'s preamble) to push a branch and open a PR instead.
+- **Secrets stay in `.env`** (git-ignored) — never commit the bot token, the
+  Claude token, or a token-embedded remote URL.
 
 ## WhatsApp later
 
-The wiki-editing core (`wiki.py`) and the agent (`agent.py`) are platform-
-agnostic. To add WhatsApp, write a `whatsapp_bot.py` that receives messages via
-the WhatsApp Cloud API and calls `TravelAgent.reply(...)` exactly as
-`telegram_bot.py` does — everything downstream is unchanged.
+`agent.py` is platform-agnostic. To add WhatsApp, write a `whatsapp_bot.py` that
+receives messages via the WhatsApp Cloud API and calls
+`TravelAgent.reply(session_id, text, author)` exactly as `telegram_bot.py` does —
+everything downstream is unchanged. (Codex CLI on a ChatGPT Plus plan is also a
+drop-in: swap the command built in `agent.py`.)

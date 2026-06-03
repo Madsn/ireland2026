@@ -1,9 +1,9 @@
 """Telegram front-end for the Travel Agent.
 
-Long-polls Telegram for messages, restricts to an allow-list of chat IDs, keeps
-a short per-chat conversation history, and hands each message to the agent —
-which can edit the wiki and publish to the live branch. No public webhook to
-host: the bot reaches out to Telegram, so it runs anywhere with outbound HTTPS.
+Long-polls Telegram, restricts to an allow-list of chat IDs, and hands each
+message to a Claude Code session (one per chat) that can edit the wiki and push
+to the live branch. No public webhook to host — the bot reaches out to Telegram,
+so it runs anywhere with outbound HTTPS.
 """
 
 from __future__ import annotations
@@ -19,37 +19,27 @@ from agent import TravelAgent
 TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 API = f"https://api.telegram.org/bot{TOKEN}"
 
-# Comma-separated Telegram chat IDs allowed to use the bot. The bot has write
-# access to the wiki, so this MUST be set — empty means "nobody".
+# Comma-separated Telegram chat IDs allowed to use the bot. The bot can edit and
+# publish the wiki, so this MUST be set — empty means "nobody".
 ALLOWED = {
     int(x) for x in os.environ.get("ALLOWED_CHAT_IDS", "").replace(" ", "").split(",") if x
 }
 
-# Keep the last N messages per chat so the conversation has context without
-# growing unbounded. Each "message" here is one role turn (user/assistant/tool).
-MAX_HISTORY = 40
-
-_histories: dict[int, list[dict]] = {}
+# One Claude Code session id per chat, so conversations stay coherent across
+# messages. Cleared by /reset. (In-memory: a process restart starts fresh
+# sessions — fine for a family bot.)
+_sessions: dict[int, str] = {}
 
 
 def _send(chat_id: int, text: str) -> None:
-    # Telegram caps messages at 4096 chars; chunk long replies.
+    # Telegram caps messages at 4096 chars; chunk long replies. Plain text
+    # (no parse_mode) so any stray Markdown shows literally rather than erroring.
     for i in range(0, len(text) or 1, 4000):
         requests.post(f"{API}/sendMessage", json={"chat_id": chat_id, "text": text[i:i + 4000] or " "}, timeout=30)
 
 
 def _typing(chat_id: int) -> None:
     requests.post(f"{API}/sendChatAction", json={"chat_id": chat_id, "action": "typing"}, timeout=10)
-
-
-def _trim(history: list[dict]) -> list[dict]:
-    if len(history) <= MAX_HISTORY:
-        return history
-    # Drop oldest, but never start the window on an assistant/tool turn.
-    trimmed = history[-MAX_HISTORY:]
-    while trimmed and trimmed[0]["role"] != "user":
-        trimmed.pop(0)
-    return trimmed
 
 
 def main() -> None:
@@ -85,24 +75,23 @@ def main() -> None:
 
             if text.strip() in ("/start", "/help"):
                 _send(chat_id, "I'm the Ireland 2026 travel agent. Ask me about the plan, or tell me a change "
-                               "to make — I'll update the wiki and it goes live in about a minute. /reset clears our chat.")
+                               "to make — I'll update the wiki and it goes live in about a minute. /reset starts a fresh chat.")
                 continue
             if text.strip() == "/reset":
-                _histories.pop(chat_id, None)
+                _sessions.pop(chat_id, None)
                 _send(chat_id, "Fresh start — what would you like to do?")
                 continue
 
             sender = msg.get("from", {})
             author = sender.get("username") or sender.get("first_name") or str(chat_id)
 
-            history = _histories.setdefault(chat_id, [])
-            history.append({"role": "user", "content": text})
             try:
                 _typing(chat_id)
-                reply = agent.reply(history, author)
+                reply, session_id = agent.reply(_sessions.get(chat_id), text, author)
+                if session_id:
+                    _sessions[chat_id] = session_id
             except Exception as e:
                 reply = f"Something went wrong handling that: {e}"
-            _histories[chat_id] = _trim(history)
             _send(chat_id, reply)
 
 
