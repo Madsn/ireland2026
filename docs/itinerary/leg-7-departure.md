@@ -80,7 +80,7 @@ Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.
 
 Alternatives:
 - **[O'Donoghue's](https://www.odonoghues.ie/)**, Merrion Row — nightly trad from 8 pm, walk-ins welcome, famous venue
-- **[Irish Dance Party, Merchants Arch](../activities.md#evening-trad-sessions--irish-dance)** — family-friendly 2-hour show (3–5 pm slot — fits better as an afternoon option if departing for dinner after)
-- **[Celtic Nights, Arlington Hotel](../activities.md#evening-trad-sessions--irish-dance)** — trad show + 3-course dinner, book ahead; closer to city centre than airport
+- **[Irish Dance Party, Merchants Arch](../activities.md#evening-trad-sessions-irish-dance)** — family-friendly 2-hour show (3–5 pm slot — fits better as an afternoon option if departing for dinner after)
+- **[Celtic Nights, Arlington Hotel](../activities.md#evening-trad-sessions-irish-dance)** — trad show + 3-course dinner, book ahead; closer to city centre than airport
 
 For any city-centre venue, use a taxi or rideshare both ways (hotel → venue → hotel) — do not drive after an evening out.

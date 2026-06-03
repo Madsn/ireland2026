@@ -28,7 +28,6 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
     { ll: [53.3472, -6.2641], popup: '<b>National Leprechaun Museum</b> · Leg 1' },
     // Leg 2 — Drogheda
     { ll: [53.5866, -6.1602], popup: '<b>Ardgillan Castle & Gardens</b> · Leg 2 · en route' },
-    { ll: [53.9784, -6.7253], popup: '<b>Carrickmacross Workhouse</b> · Leg 2' },
     { ll: [53.6946, -6.4463], popup: '<b>Newgrange / Brú na Bóinne</b> · Leg 2 · ⭐ pre-book' },
     { ll: [53.7182, -6.3576], popup: '<b>Drogheda Museum (Millmount)</b> · Leg 2' },
     { ll: [53.7212, -6.3498], popup: '<b>Irish Military War Museum</b> · Leg 2' },
@@ -66,6 +65,7 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
     { ll: [53.7176, -6.3456], popup: '<b>Funtasia Drogheda</b> · Leg 2 · Plan B' },
     { ll: [53.6894, -6.3745], popup: '<b>Battle of the Boyne (Oldbridge)</b> · Leg 2 · Plan B' },
     { ll: [54.0297, -6.1885], popup: '<b>Carlingford</b> · Leg 2/5 · Plan B · lunch stop' },
+    { ll: [53.9784, -6.7253], popup: '<b>Carrickmacross Workhouse</b> · Leg 2 · Plan B · ~30 min detour' },
     { ll: [53.6710, -6.2380], popup: '<b>Laytown / Bettystown Beach</b> · Leg 2 · Plan B' },
     // Leg 3
     { ll: [54.1913, -5.9043], popup: '<b>Tollymore Forest Park</b> · Leg 3 · Plan B · GoT filming location' },
@@ -146,7 +146,7 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 - **Critical pre-bookings still needed:** Brú na Bóinne/Newgrange, GoT Studio Tour, Titanic Belfast, Guinness Storehouse.
 - **Book Emerald Park on July 20** for July 21 visit — 20% early-booking discount.
 - Early checkout alert: Hampton by Hilton checkout by 11:00 on Jul 20.
-- Breakfast now included at all hotels.
+- Breakfast included at all hotels **except Scholars Townhouse, Drogheda** (Leg 2).
 - Accommodation total: approx. **€4,800** (GBP converted at ~1.18).
 
 ## Trip at a Glance
@@ -165,7 +165,7 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 | Family | Direction | Flight | Time |
 |--------|-----------|--------|------|
 | Wilhelmsen | Arrive Dublin | Aer Lingus EI80 | 08:10, Jul 13 |
-| Madsen | Arrive Dublin | Pegasus PC1157 | 13:00, Jul 13 |
+| Madsen | Arrive Dublin | Pegasus PC409 (via Istanbul) | 13:00, Jul 13 |
 | Wilhelmsen | Depart Dublin | Aer Lingus EI164 | 12:00, Jul 23 |
 | Madsen | Depart Dublin | Ryanair FR632 | 11:25, Jul 23 |
 

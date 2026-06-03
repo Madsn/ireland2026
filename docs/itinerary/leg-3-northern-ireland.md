@@ -70,12 +70,12 @@ Note: border crossing — no passport control but road changes to UK signs and m
 
 | Time | Action |
 |------|--------|
-| 09:00 | [Brú na Bóinne / Newgrange](../activities.md#br-na-bine--newgrange) — first timed slot (pre-booked, 2–2.5 h). Visitor centre is 8 km west of Drogheda. |
+| 09:00 | [Brú na Bóinne / Newgrange](../activities.md#bru-na-boinne-newgrange) — first timed slot (pre-booked, 2–2.5 h). Visitor centre is 8 km west of Drogheda. |
 | ~11:30 | Check out Scholars Townhouse, depart north |
 | ~13:00 | Arrive Belfast — drop bags at Hampton by Hilton (check-in from 15:00, luggage storage available) |
 | Afternoon | Explore city centre on foot — Cathedral Quarter, Victoria Square, St Anne's Cathedral |
 | 15:00 | Official check-in |
-| Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants--belfast) |
+| Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants-belfast) |
 
 **GoT Studio Tour option:** if pre-booked for Jul 17, the Banbridge studio (~12:40 arrive, ~15:40 depart, ~40 min drive to Belfast) fits between Newgrange and check-in. Otherwise plan it as a day trip from Belfast on Jul 18 — see [Leg 4](leg-4-belfast.md).
 

@@ -71,7 +71,7 @@
 | ~13:00 | Arrive Belfast, drop bags at Hampton by Hilton |
 | Afternoon | Explore city centre on foot — Cathedral Quarter, St Anne's Cathedral, Victoria Square |
 | 15:00+ | Official check-in |
-| Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants--belfast) |
+| Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants-belfast) |
 
 **Jul 18 — GoT Studio day trip or full Belfast day:**
 
@@ -92,7 +92,7 @@
 | ~09:00–10:30 | [Belfast Black Cab Tour](../activities.md#belfast-black-cab-tour) — political murals on Falls Rd and Shankill Rd (~1.5 h, £35–50/cab). Highly recommended for adults and older kids (12+). |
 | ~10:30–13:00 | [Ulster Folk Museum](../activities.md#ulster-folk-museum) — open-air museum in Cultra, half day |
 | ~14:00–17:00 | [W5 Science Centre](../activities.md#w5) — Odyssey complex, beside Titanic Quarter; best Belfast family attraction for kids 5–12 |
-| Evening | **Cathedral Quarter** for dinner — The Duke of York, The Dirty Onion, or [Mourne Seafood Bar](../activities.md#restaurants--belfast). Trad sessions from ~9 pm. |
+| Evening | **Cathedral Quarter** for dinner — The Duke of York, The Dirty Onion, or [Mourne Seafood Bar](../activities.md#restaurants-belfast). Trad sessions from ~9 pm. |
 
 **Jul 19 — full Belfast day:**
 

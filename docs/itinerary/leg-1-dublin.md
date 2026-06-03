@@ -63,7 +63,7 @@
 | ~12:30 | Walk south (~25 min) toward Christ Church |
 | ~13:00–15:00 | [Dublinia](../activities.md#dublinia) — Viking & medieval Dublin museum |
 | Optional | Quick look at Christ Church Cathedral exterior (free) — beside Dublinia |
-| Evening | Temple Bar area — **The Brazen Head** (Dublin's oldest pub, nightly music from 9 pm, food all day) or [Gallagher's Boxty House](../activities.md#restaurants--dublin). **Pre-book.** |
+| Evening | Temple Bar area — **The Brazen Head** (Dublin's oldest pub, nightly music from 9 pm, food all day) or [Gallagher's Boxty House](../activities.md#restaurants-dublin). **Pre-book.** |
 
 **Jul 15 — EPIC + city:**
 
@@ -72,7 +72,7 @@
 | ~09:30 | Walk east along the quays (~30 min) or take Luas Red Line to Convention Centre stop |
 | ~10:00–12:30 | **[EPIC Irish Emigration Museum](https://epicchq.com/)** (Docklands) — pre-book online; interactive, great for all ages; 2–2.5 h |
 | Afternoon | **National Museum of Ireland – Natural History** ("The Dead Zoo", Merrion St) — free, 1 h, kids love it; or **Phoenix Park + Dublin Zoo** if not visited Jul 13 (~€23 adult/€16 child, book ahead) |
-| Evening | Sit-down dinner — pre-book in advance. Recommendations: [The Winding Stair](../activities.md#restaurants--dublin), [Bison Bar & BBQ](../activities.md#restaurants--dublin), or [Bunsen](../activities.md#restaurants--dublin) for a family-casual option |
+| Evening | Sit-down dinner — pre-book in advance. Recommendations: [The Winding Stair](../activities.md#restaurants-dublin), [Bison Bar & BBQ](../activities.md#restaurants-dublin), or [Bunsen](../activities.md#restaurants-dublin) for a family-casual option |
 
 **Jul 16:** Checkout ~10:00 → drive to Drogheda. See [Leg 2](leg-2-drogheda.md).
 
@@ -87,7 +87,7 @@
 | [National Leprechaun Museum](../activities.md#national-leprechaun-museum) | Swap in for Dublinia if kids prefer; 15 min walk from hotel |
 | ~~Dublin Castle~~ | **CLOSED** — do not plan |
 
-See also: [full Dublin activities & alternatives](../activities.md#leg-1--dublin-jul-1316), including [Dublin trad sessions & restaurants](../activities.md#evening-trad-sessions--irish-dance).
+See also: [full Dublin activities & alternatives](../activities.md#leg-1-dublin-jul-1316), including [Dublin trad sessions & restaurants](../activities.md#evening-trad-sessions-irish-dance).
 
 ## Driving / Transport
 

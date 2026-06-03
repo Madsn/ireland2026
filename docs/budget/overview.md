@@ -35,5 +35,5 @@ Budget tracker for the Ireland 2026 trip. Accommodation costs are confirmed; oth
 
 ## Notes
 
-- Breakfast included at all hotels — no separate breakfast costs to budget for
+- Breakfast included at all hotels except Scholars Townhouse, Drogheda (Leg 2) — budget one breakfast there
 - Activities requiring pre-booking: Brú na Bóinne, GoT Studio Tour (£64/family), Titanic Belfast, Guinness Storehouse, Emerald Park

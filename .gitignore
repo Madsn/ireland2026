@@ -2,3 +2,7 @@ site/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Travel-agent bot — secrets and local env
+bot/.env
+bot/.venv/
