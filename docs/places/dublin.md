@@ -2,8 +2,6 @@
 
 Capital of Ireland. Arrival and departure city for the trip. Both families arrive here July 13. Three-night base for city sightseeing.
 
-Note: the Jenna3000 travel-agent bot is now live for testing — chat with it on Telegram to ask questions or make changes to this wiki.
-
 ## Trip Facts
 
 | Field | Value |
