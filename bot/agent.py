@@ -73,7 +73,21 @@ class TravelAgent:
             return "The `claude` CLI isn't installed on the server (see bot/README.md).", session_id
 
         if proc.returncode != 0:
-            err = (proc.stderr or proc.stdout or "unknown error").strip()
+            # On failure the CLI may still print a JSON envelope (e.g. for usage
+            # / rate limits). Surface its human-readable message rather than the
+            # raw blob, and flag a hit limit clearly.
+            out = (proc.stdout or "").strip()
+            try:
+                data = json.loads(out)
+            except json.JSONDecodeError:
+                data = None
+            if isinstance(data, dict):
+                msg = (data.get("result") or "").strip()
+                if data.get("api_error_status") == 429 or "limit" in msg.lower():
+                    return f"⚠️ Claude usage limit reached — {msg or 'please try again later.'}", session_id
+                if msg:
+                    return f"⚠️ {msg}", session_id
+            err = (proc.stderr or out or "unknown error").strip()
             return f"Claude Code failed: {err[:600]}", session_id
 
         try:

@@ -73,11 +73,13 @@ def main() -> None:
                 _send(chat_id, "Sorry — this travel-agent bot is private to the Ireland 2026 group.")
                 continue
 
-            if text.strip() in ("/start", "/help"):
+            # Strip a trailing @BotName so group autocomplete (/help@Jenna3000_bot) still matches.
+            cmd = text.strip().split("@")[0]
+            if cmd in ("/start", "/help"):
                 _send(chat_id, "I'm the Ireland 2026 travel agent. Ask me about the plan, or tell me a change "
                                "to make — I'll update the wiki and it goes live in about a minute. /reset starts a fresh chat.")
                 continue
-            if text.strip() == "/reset":
+            if cmd == "/reset":
                 _sessions.pop(chat_id, None)
                 _send(chat_id, "Fresh start — what would you like to do?")
                 continue
