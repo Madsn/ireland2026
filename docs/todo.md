@@ -12,7 +12,7 @@ These attractions are already accepting bookings and July slots will go — don'
 
 [gameofthronesstudiotour.com](https://gameofthronesstudiotour.com/) · £64/family
 
-Two options: (A) en route from Drogheda on Jul 17 — book a ~09:40 or ~10:00 slot (arrive ~12:40 after Newgrange, finish ~15:40, then ~40 min to Hampton by Hilton Belfast check-in); or (B) day trip from Belfast on Jul 18 — more relaxed, book any morning slot. July fills fast — book now rather than in a week.
+Confirmed stop on Jul 17, en route from Drogheda to Belfast. Book a slot for ~10:00–10:15 arrival at Banbridge (depart Drogheda ~09:00, ~75 min drive). Allow 3–3.5 h at the studio, then ~40 min to Hampton by Hilton Belfast — arriving ~14:30, comfortably before 15:00 check-in. July fills fast — book now rather than in a week.
 
 **Cancellation policy:** Tickets are **non-refundable**. "Genuine extenuating circumstances" can be considered for a discretionary partial or full refund — call +44 (0)28 40 464 777. Time slot changes are possible for **£5/ticket**, subject to availability. Tickets are non-transferable.
 
@@ -28,7 +28,7 @@ Most-visited paid attraction in Ireland. July morning slots (needed here — the
 
 [titanicbelfast.com](https://www.titanicbelfast.com/) · ~£22 adult / ~£11 child
 
-Book together if the site allows it; otherwise book separately. Plan for a morning start — now that GoT Studio is a potential Jul 18 day trip, consider splitting GoT (Jul 18 morning) and Titanic (Jul 19). July availability narrows 3–4 weeks out.
+Book together if the site allows it; otherwise book separately. Plan for a morning start on Jul 18 or 19. July availability narrows 3–4 weeks out.
 
 **Cancellation policy:** Tickets are **non-refundable**, but date/time changes can be requested and the venue will "use reasonable endeavours" to accommodate. Call +44 (0)28 9076 6386 or email welcome@titanicbelfast.com. Tickets are non-transferable.
 
@@ -38,7 +38,7 @@ Book together if the site allows it; otherwise book separately. Plan for a morni
 
 | What | Book on | Notes |
 |------|---------|-------|
-| **Brú na Bóinne / Newgrange** | **17 June 2026** | OPW bookings open exactly 30 days in advance. For a Jul 17 visit, the booking window opens on **Jun 17**. Set a reminder — July slots go within hours of release. Book immediately at [heritageireland.ie](https://heritageireland.ie/). **Cancellation policy: strictest of all four.** Refundable only within **1 hour of purchase**. No amendments or transfers of any kind after that window. |
+| **Brú na Bóinne / Newgrange** | **16 June 2026** | OPW bookings open exactly 30 days in advance. For a Jul 16 afternoon visit, the booking window opens on **Jun 16** (9 days away). Set a reminder — July slots go within hours of release. Book immediately at [heritageireland.ie](https://heritageireland.ie/). Target a ~13:30 afternoon slot. **Cancellation policy: strictest of all four.** Refundable only within **1 hour of purchase**. No amendments or transfers of any kind after that window. |
 | **Emerald Park tickets** | **Evening of Jul 20** | 20% discount applies when booked the day before. Book online after checking into the Court Yard Hotel, Leixlip. Do not book earlier (discount requires same-day-before purchase). |
 
 ### Which Brú na Bóinne ticket to book
@@ -49,9 +49,9 @@ There are three ticket types. For this trip, book **Brú na Bóinne Tour + Newgr
 |--------|----------|---------|
 | **Brú na Bóinne Tour + Newgrange Chamber** | Visitor centre + shuttle bus + guided entry into the Newgrange passage tomb chamber | ✅ **Book this one.** The chamber interior — corbelled ceiling, carved kerbstones, the roof-box aligned to the winter solstice — is the entire reason Newgrange is a UNESCO site. Without chamber access it's just a large grass mound. |
 | Newgrange Tour + Exhibition | Visitor centre + shuttle + viewing of Newgrange exterior only | ✗ Skip — no chamber access. |
-| Knowth Tour + Exhibition | Visitor centre + Knowth mound exterior + decorated kerbstones | ✗ Skip for this trip — Knowth is excellent but with a 09:00–11:30 window there isn't time for both sites. |
+| Knowth Tour + Exhibition | Visitor centre + Knowth mound exterior + decorated kerbstones | ✗ Skip for this trip — Knowth is excellent but with a ~13:30–17:00 window there isn't time for both sites. |
 
-Chamber entry requires a specific guided tour with a fixed group size — this is the scarcest ticket on the site. On Jun 17, book this first.
+Chamber entry requires a specific guided tour with a fixed group size — this is the scarcest ticket on the site. On Jun 16, book this first.
 
 ---
 
@@ -69,7 +69,7 @@ Verified from each venue's terms and conditions (May 2026).
 All four venues: tickets are **non-transferable** and void if resold.
 
 !!! warning "Brú na Bóinne is the most unforgiving"
-    Once the 1-hour purchase window closes, Newgrange tickets cannot be refunded, changed, or transferred under any circumstances. Book with certainty — and make sure the GoT Studio Tour slot for the same day is already confirmed before Jun 17.
+    Once the 1-hour purchase window closes, Newgrange tickets cannot be refunded, changed, or transferred under any circumstances. Book with certainty. GoT Studio Tour is on a different day (Jul 17) so the two bookings are independent.
 
 ---
 

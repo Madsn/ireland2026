@@ -1,8 +1,8 @@
 # Leg 3 — Transit to Belfast (Jul 17)
 
-Transit day from Drogheda to Belfast. After Brú na Bóinne/Newgrange (morning), drive north to [Hampton by Hilton Belfast City Centre](../logistics/hampton-by-hilton-belfast.md) — check-in from 15:00. No overnight stop en route.
+Transit day from Drogheda to Belfast via the [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) at Banbridge. Drive north to [Hampton by Hilton Belfast City Centre](../logistics/hampton-by-hilton-belfast.md) — check-in from 15:00. No overnight stop en route.
 
-**Period covered:** Jul 17 (Drogheda checkout, Newgrange, drive to Belfast check-in). Belfast activities from [Leg 4](leg-4-belfast.md).
+**Period covered:** Jul 17 (Drogheda checkout, GoT Studio Tour Banbridge, drive to Belfast check-in). Belfast activities from [Leg 4](leg-4-belfast.md).
 
 <style>
   #map-leg3 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -19,7 +19,7 @@ Transit day from Drogheda to Belfast. After Brú na Bóinne/Newgrange (morning),
     { ll: [54.59350, -5.93540], name: 'Belfast (Hampton by Hilton)',         popup: '<b>Hampton by Hilton Belfast City Centre</b><br>Check-in Jul 17 · from 15:00' },
   ];
   var pois = [
-    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · en-route option if booked for Jul 17<br>Otherwise: day trip from Belfast on Jul 18' },
+    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · confirmed stop Jul 17 · ⚠️ pre-book' },
     { ll: [54.17640, -6.33940], popup: '<b>Bagenal Castle, Newry</b>' },
     { ll: [54.32700, -5.70090], popup: '<b>Downpatrick</b><br>Contingency · St Patrick\'s Cathedral · Down County Museum' },
   ];
@@ -59,7 +59,7 @@ Transit day from Drogheda to Belfast. After Brú na Bóinne/Newgrange (morning),
 ## Route
 
 ```
-Drogheda → (M1 north, border crossing) → Newry → Belfast
+Drogheda → (M1 north, border crossing) → Newry → Banbridge (GoT Studio) → Belfast
 ```
 
 Note: border crossing — no passport control but road changes to UK signs and mph speed limits.
@@ -70,19 +70,16 @@ Note: border crossing — no passport control but road changes to UK signs and m
 
 | Time | Action |
 |------|--------|
-| 09:00 | [Brú na Bóinne / Newgrange](../activities.md#bru-na-boinne-newgrange) — first timed slot (pre-booked, 2–2.5 h). Visitor centre is 8 km west of Drogheda. |
-| ~11:30 | Check out Scholars Townhouse, depart north |
-| ~13:00 | Arrive Belfast — drop bags at Hampton by Hilton (check-in from 15:00, luggage storage available) |
-| Afternoon | Explore city centre on foot — Cathedral Quarter, Victoria Square, St Anne's Cathedral |
+| ~09:00 | Check out Scholars Townhouse, depart north |
+| ~10:15 | Arrive [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour), Banbridge (pre-booked, ~90 km from Drogheda) |
+| ~10:15–13:45 | GoT Studio Tour (allow 3–3.5 h) |
+| ~14:25 | Arrive Belfast — drop bags at Hampton by Hilton (check-in from 15:00, luggage storage available) |
 | 15:00 | Official check-in |
 | Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants-belfast) |
 
-**GoT Studio Tour option:** if pre-booked for Jul 17, the Banbridge studio (~12:40 arrive, ~15:40 depart, ~40 min drive to Belfast) fits between Newgrange and check-in. Otherwise plan it as a day trip from Belfast on Jul 18 — see [Leg 4](leg-4-belfast.md).
-
 ## Driving Notes
 
-Drogheda → Belfast direct: ~110 km, ~1 h 20 min.  
-Via Banbridge (GoT Studio): ~125 km, ~1 h 40 min total drive time.
+Drogheda → Banbridge (GoT Studio): ~90 km, ~1 h 15 min. Banbridge → Belfast: ~35 km, ~40 min.
 
 ## Contingency
 
@@ -90,5 +87,5 @@ If GoT Studio Tour is unavailable, [Downpatrick](https://maps.google.com/?q=Down
 
 ## Open Questions
 
-- GoT Studio Tour: decide whether Jul 17 en-route or Jul 18 day trip — see [Leg 4](leg-4-belfast.md).
+- **GoT Studio Tour must be pre-booked** — £64/family. Book a morning slot (targeting ~10:00–10:15 arrival at Banbridge).
 - Currency is GBP in Northern Ireland — bring cards.

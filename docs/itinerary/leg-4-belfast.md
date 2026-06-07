@@ -24,7 +24,7 @@
     { ll: [54.60140, -5.92890], popup: '<b>Belfast Cathedral (St Anne\'s)</b><br>City centre' },
     { ll: [54.62600, -5.96300], popup: '<b>Belfast Castle</b><br>Cave Hill · views over city' },
     { ll: [54.71550, -5.80760], popup: '<b>Carrickfergus Castle</b><br>~20 min north · well-preserved Norman castle' },
-    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · ~40 min drive · day trip option Jul 18' },
+    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · visited Jul 17 en route from Drogheda' },
   ];
 
   var allPts = [base.ll].concat(pois.map(function (p) { return p.ll; }));
@@ -64,28 +64,16 @@
 
 ## Day Plan
 
-**Jul 17 afternoon/evening — arrival (transit from Drogheda in [Leg 3](leg-3-northern-ireland.md)):**
+**Jul 17 afternoon/evening — arrival (transit from Drogheda via GoT Studio in [Leg 3](leg-3-northern-ireland.md)):**
 
 | Time | Action |
 |------|--------|
-| ~13:00 | Arrive Belfast, drop bags at Hampton by Hilton |
+| ~14:25 | Arrive Belfast, drop bags at Hampton by Hilton |
 | Afternoon | Explore city centre on foot — Cathedral Quarter, St Anne's Cathedral, Victoria Square |
 | 15:00+ | Official check-in |
 | Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants-belfast) |
 
-**Jul 18 — GoT Studio day trip or full Belfast day:**
-
-*Option A — GoT Studio Tour day trip (recommended if pre-booked):*
-
-| Time | Action |
-|------|--------|
-| ~09:00 | Drive to [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) (Banbridge, ~40 min) |
-| ~09:40–13:00 | GoT Studio Tour (allow 3–3.5 h) |
-| ~13:30 | Return to Belfast (~40 min) |
-| Afternoon | [Ulster Museum](../activities.md#ulster-museum) (free, Botanic Gardens area) or city stroll |
-| Evening | Cathedral Quarter dinner |
-
-*Option B — Full Belfast day (if GoT is skipped or moved):*
+**Jul 18 — full Belfast day:**
 
 | Time | Action |
 |------|--------|
@@ -108,13 +96,11 @@
 ## Driving Notes
 
 Hampton by Hilton is in Belfast city centre (15 Hope Street, BT12 5EE).  
-GoT Studio Tour (Banbridge): ~40 km, ~40 min each way.  
 Carrickfergus Castle day trip: ~20 min north.  
 Ulster Folk Museum (Cultra): ~15 min east.
 
 ## Open Questions
 
-- **GoT Studio Tour:** decide on Jul 17 en-route (if pre-booked for ~12:40 slot) vs Jul 18 day trip. Pre-book — £64/family. See [Leg 3](leg-3-northern-ireland.md) for the en-route option timing.
 - **Titanic Belfast:** pre-book — summer peak season, sells out. Include SS Nomadic in the same booking.
 - **Black Cab Tour:** book in advance via a local operator (e.g. Original Belfast Black Cab Tours).
 - **Cathedral Quarter dinner (Jul 18 or 19):** The Duke of York and Mourne Seafood Bar both benefit from a reservation.
