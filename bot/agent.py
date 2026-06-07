@@ -52,7 +52,19 @@ class TravelAgent:
     """Drives the Claude Code CLI. One instance serves all chats."""
 
     def reply(self, session_id: str | None, message: str, author: str) -> tuple[str, str | None]:
-        """Run one CLI turn. Returns (reply_text, session_id_to_store)."""
+        """Run one CLI turn. Returns (reply_text, session_id_to_store).
+
+        If the stored session has vanished (e.g. it was created during a run that
+        failed before persisting), transparently retry once with a fresh session
+        instead of surfacing a confusing 'No conversation found' error.
+        """
+        text, new_session_id = self._run_once(session_id, message, author)
+        if session_id and "No conversation found with session ID" in text:
+            text, new_session_id = self._run_once(None, message, author)
+        return text, new_session_id
+
+    def _run_once(self, session_id: str | None, message: str, author: str) -> tuple[str, str | None]:
+        """One CLI invocation; resumes session_id when provided."""
         cmd = [
             "claude", "-p", message,
             "--output-format", "json",
