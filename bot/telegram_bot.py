@@ -31,15 +31,25 @@ ALLOWED = {
 _sessions: dict[int, str] = {}
 
 
-def _send(chat_id: int, text: str) -> None:
+def _send(chat_id: int, text: str) -> "int | None":
     # Telegram caps messages at 4096 chars; chunk long replies. Plain text
     # (no parse_mode) so any stray Markdown shows literally rather than erroring.
+    # Returns the id of the last message sent (so it can be edited later).
+    last_id = None
     for i in range(0, len(text) or 1, 4000):
-        requests.post(f"{API}/sendMessage", json={"chat_id": chat_id, "text": text[i:i + 4000] or " "}, timeout=30)
+        try:
+            r = requests.post(f"{API}/sendMessage", json={"chat_id": chat_id, "text": text[i:i + 4000] or " "}, timeout=30)
+            last_id = r.json().get("result", {}).get("message_id", last_id)
+        except requests.RequestException:
+            pass
+    return last_id
 
 
-def _typing(chat_id: int) -> None:
-    requests.post(f"{API}/sendChatAction", json={"chat_id": chat_id, "action": "typing"}, timeout=10)
+def _edit(chat_id: int, message_id: int, text: str) -> None:
+    try:
+        requests.post(f"{API}/editMessageText", json={"chat_id": chat_id, "message_id": message_id, "text": text[:4000] or " "}, timeout=30)
+    except requests.RequestException:
+        pass
 
 
 def main() -> None:
@@ -87,14 +97,28 @@ def main() -> None:
             sender = msg.get("from", {})
             author = sender.get("username") or sender.get("first_name") or str(chat_id)
 
+            # Acknowledge immediately, then keep this one message updated with
+            # live progress as the agent works.
+            status_id = _send(chat_id, "🤔 On it — working on your request…")
+
+            def on_status(phase: str, _cid: int = chat_id, _mid: "int | None" = status_id) -> None:
+                if _mid is not None:
+                    _edit(_cid, _mid, phase)
+
             try:
-                _typing(chat_id)
-                reply, session_id = agent.reply(_sessions.get(chat_id), text, author)
+                reply, session_id = agent.reply(_sessions.get(chat_id), text, author, on_status=on_status)
                 if session_id:
                     _sessions[chat_id] = session_id
             except Exception as e:
                 reply = f"Something went wrong handling that: {e}"
-            _send(chat_id, reply)
+
+            # Deliver the answer: reuse the status message if it fits, else replace it.
+            if status_id is not None and len(reply) <= 4000:
+                _edit(chat_id, status_id, reply)
+            else:
+                if status_id is not None:
+                    _edit(chat_id, status_id, "✅ Done — full reply below:")
+                _send(chat_id, reply)
 
 
 if __name__ == "__main__":
