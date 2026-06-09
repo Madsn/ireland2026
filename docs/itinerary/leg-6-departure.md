@@ -2,7 +2,7 @@
 
 Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.md) · €445.80 · breakfast included. This is the last night together for both families.
 
-**Period covered:** Jul 22 (Druid's Glen checkout + one Wicklow activity en route — see [Leg 5](leg-6-wicklow.md), arrive Premier Inn, folk evening) and Jul 23 (departures).
+**Period covered:** Jul 22 (Druid's Glen checkout + one Wicklow activity en route — see [Leg 5](leg-5-wicklow.md), arrive Premier Inn, folk evening) and Jul 23 (departures).
 
 <style>
   #map-leg7 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -54,7 +54,7 @@ Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.
 |------|--------|
 | ~08:30 | Breakfast at Druid's Glen (children: €12.50 extra per child) |
 | ~10:00 | Checkout Druid's Glen (by 12:00) |
-| Late morning | **Chosen Jul 22 activity en route** — pick from the options in [Leg 5](leg-6-wicklow.md). If Glendalough: ~20 min from the resort, allow 2–2.5 h ([Glendalough](../activities.md#glendalough) — Round Tower, monastic ruins, Upper Lake trail; free to walk, parking fee) |
+| Late morning | **Chosen Jul 22 activity en route** — pick from the options in [Leg 5](leg-5-wicklow.md). If Glendalough: ~20 min from the resort, allow 2–2.5 h ([Glendalough](../activities.md#glendalough) — Round Tower, monastic ruins, Upper Lake trail; free to walk, parking fee) |
 | ~13:00 | Drive to Premier Inn Dublin Airport (~55 min via N11/M50) |
 | ~14:00 | Check in Premier Inn — check-in from 14:00, near-perfect timing |
 | Afternoon | Settle in; last afternoon together |

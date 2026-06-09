@@ -27,4 +27,4 @@ Capital of Ireland. Arrival and departure city for the trip. Both families arriv
 ## Connections
 
 - Itinerary: [Dublin Arrival Leg](../itinerary/leg-1-dublin.md)
-- Itinerary: [Dublin Departure Leg](../itinerary/leg-7-departure.md)
+- Itinerary: [Dublin Departure Leg](../itinerary/leg-6-departure.md)

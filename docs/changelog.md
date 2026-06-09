@@ -20,7 +20,7 @@ Modifications made to the itinerary across planning sessions, most recent first.
 
 **Wicklow / Druid's Glen (Leg 5, new):** Jul 20 arrive; Jul 21 golf (Andy & Mikkel) + Wicklow NP / relax + Hugo's; Jul 22 checkout + one activity en route to Dublin (Glendalough/NP, Powerscourt, Bray, Zipit, Black Castle).
 
-**Still pending:** new Druid's Glen (Jul 20–22) confirmation # and cost.
+**Druid's Glen confirmed:** Jul 20–22, **€981**, conf. 6134.713.340 (2 rooms / 2 nights; booking PDF linked). Free cancellation until Jul 16. New accommodation total ~€4,940.
 
 ---
 

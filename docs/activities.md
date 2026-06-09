@@ -343,7 +343,7 @@ Free country park encompassing Belfast Castle, the Cave Hill (368m), and views o
 ## Dropped — Leixlip / Emerald Park area
 
 !!! warning "No longer in the itinerary"
-    The Leixlip / Emerald Park stop was **removed** — the Court Yard, Leixlip booking was cancelled and Druid's Glen extended to Jul 20–22 (see [Leg 5 — Wicklow / Druid's Glen](itinerary/leg-6-wicklow.md)). The options below are kept only as a record / possible day-trips near Dublin if plans change.
+    The Leixlip / Emerald Park stop was **removed** — the Court Yard, Leixlip booking was cancelled and Druid's Glen extended to Jul 20–22 (see [Leg 5 — Wicklow / Druid's Glen](itinerary/leg-5-wicklow.md)). The options below are kept only as a record / possible day-trips near Dublin if plans change.
 
 ### Emerald Park ✅
 
@@ -390,7 +390,7 @@ One of Europe's oldest and most-visited zoos. Phoenix Park is one of the largest
 
 ## Leg 5 — Wicklow / Druid's Glen (Jul 20–22)
 
-Base: [Druids Glen Resort](logistics/druids-glen-resort.md) · [Leg 5 itinerary](itinerary/leg-6-wicklow.md)
+Base: [Druids Glen Resort](logistics/druids-glen-resort.md) · [Leg 5 itinerary](itinerary/leg-5-wicklow.md)
 
 Note: 2 nights (Jul 20–22). Jul 21 is a resort / Wicklow Mountains day; on Jul 22 pick **one** of these en route to Dublin Airport.
 

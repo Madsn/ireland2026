@@ -1,9 +1,6 @@
 # Druids Glen Resort — Wicklow
 
-Resort hotel for the Wicklow leg (**Jul 20–22, 2 nights**). Breakfast included for adults; children's breakfast is extra.
-
-!!! warning "New booking — confirmation # and cost pending"
-    The original 1-night Druid's Glen booking (Jul 21–22, conf. 5388585982, €454.50) has been **cancelled**, along with the Court Yard Hotel, Leixlip stay. A **new 2-night booking (Jul 20–22)** was made to replace both. The new **confirmation number, cost, and booking PDF still need to be added here** — please share them and I'll fill these in.
+Resort hotel for the Wicklow leg (**Jul 20–22, 2 nights**). Breakfast included for adults; children's breakfast is extra. This is the new 2-night booking that replaced the original 1-night Druid's Glen stay and the cancelled Court Yard, Leixlip.
 
 ## Key Details
 
@@ -14,16 +11,18 @@ Resort hotel for the Wicklow leg (**Jul 20–22, 2 nights**). Breakfast included
 | Check-out | Wednesday July 22, until 12:00 |
 | Address | Druids Glen, Newtownmountkennedy, Co. Wicklow |
 | Phone | +353 1 287 0877 |
-| Confirmation | ⚠️ **Pending** (new booking) |
-| Rooms | Deluxe Twin (2 adults) + Deluxe Family (2 adults + 2 children age 8) |
-| Guest name | Jennifer Wilhelmsen |
+| Confirmation | 6134.713.340 |
+| Rooms | Superior Family Room (Madsen — 2 adults + 2 children) €558.00 · Deluxe King Room (Wilhelmsen — 2 adults) €423.00 |
+| Guest names | Trine Madsen · Jennifer Wilhelmsen |
 | Breakfast | Included ✅ (children's breakfast €12.50/child extra) |
-| Cost | ⚠️ **Pending** (new 2-night booking) |
-| Responsible | Wilhelmsen |
+| Cost | **€981.00 total** (2 rooms × 2 nights) |
+| Responsible | Wilhelmsen / Madsen |
 
 ## Cancellation Policy
 
-⚠️ To be confirmed for the new 2-night booking. (The original booking was free to cancel until July 17.)
+Free until **July 16, 2026 11:59 PM** (property local time). From July 17: **€490.50** charged (€279.00 family room + €211.50 king room). No prepayment needed before then.
+
+📎 [Booking confirmation (PDF)](https://drive.google.com/file/d/1ZDu2vM9a43FwwBg-10c7_uXbZA94JByS/view)
 
 ## Dining Notes
 
@@ -39,5 +38,5 @@ Resort hotel for the Wicklow leg (**Jul 20–22, 2 nights**). Breakfast included
 
 ## Connections
 
-- Itinerary: [Leg 5 — Wicklow / Druid's Glen](../itinerary/leg-6-wicklow.md)
+- Itinerary: [Leg 5 — Wicklow / Druid's Glen](../itinerary/leg-5-wicklow.md)
 - Place: [Glendalough](../places/glendalough.md)

@@ -30,4 +30,4 @@ Theme park and zoo in Ashbourne, Co. Meath (formerly known as Tayto Park). Rolle
 
 ## Connections
 
-- Itinerary: no longer scheduled (Leixlip stop dropped) — see [Leg 5 — Wicklow / Druid's Glen](../itinerary/leg-6-wicklow.md)
+- Itinerary: no longer scheduled (Leixlip stop dropped) — see [Leg 5 — Wicklow / Druid's Glen](../itinerary/leg-5-wicklow.md)

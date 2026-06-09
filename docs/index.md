@@ -133,11 +133,11 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 
 ## Key Findings
 
-- 6 accommodation legs, all booked. Druid's Glen is a **new 2-night booking** (Jul 20–22) — confirmation # and cost still pending.
+- 6 accommodation legs, all booked. Druid's Glen is a **new 2-night booking** (Jul 20–22, €981, conf. 6134.713.340).
 - **Still to book:** Brú na Bóinne/Newgrange · Guinness Storehouse (~€132, Jenna) · EPIC (~€94 family tickets) · Dublinia (when July opens). ✅ Booked: GoT Studio Tour, Titanic Belfast, Butlers Chocolate.
 - Early checkout alert: Hampton by Hilton checkout by 11:00 on Jul 20.
 - Breakfast included at all hotels **except Scholars Townhouse, Drogheda** (Leg 2).
-- Accommodation total: **TBC** pending the new Druid's Glen cost.
+- Accommodation total: ~**€4,940** (GBP converted at ~1.18).
 
 ## Trip at a Glance
 
@@ -146,7 +146,7 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 | 1 | Jul 13–16 | Dublin | [Hendrick Smithfield](logistics/hendrick-smithfield.md) | ✅ | €1,634.38 |
 | 2 | Jul 16–17 | Drogheda | [Scholars Townhouse](logistics/scholars-townhouse-hotel.md) | — | €498.00 |
 | 3/4 | Jul 17–20 | Belfast | [Hampton by Hilton Belfast](logistics/hampton-by-hilton-belfast.md) | ✅ | £1,167.88 (2 rooms) |
-| 5 | Jul 20–22 | Wicklow | [Druids Glen Resort](logistics/druids-glen-resort.md) | ✅ | ⚠️ pending |
+| 5 | Jul 20–22 | Wicklow | [Druids Glen Resort](logistics/druids-glen-resort.md) | ✅ | €981.00 |
 | 6 | Jul 22–23 | Dublin Airport | [Premier Inn](logistics/premier-inn-dublin-airport.md) | ✅ | €445.80 |
 
 ## Flights
@@ -160,7 +160,6 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 
 ## Action Items
 
-- [ ] Add the new Druid's Glen (Jul 20–22) confirmation # and cost
 - [ ] Pre-book: Brú na Bóinne/Newgrange · Guinness Storehouse (~€132, Jenna) · EPIC (~€94) · Dublinia (when July opens)
 - [ ] Book Hugo's Restaurant at Druids Glen directly with the hotel
 

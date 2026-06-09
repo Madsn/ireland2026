@@ -1,11 +1,8 @@
 # Leg 5 — Wicklow / Druid's Glen (Jul 20–22)
 
-2-night base at [Druid's Glen Resort](../logistics/druids-glen-resort.md), Co. Wicklow (Jul 20–22). Breakfast included for adults; children's breakfast is extra.
+2-night base at [Druid's Glen Resort](../logistics/druids-glen-resort.md), Co. Wicklow (Jul 20–22) · €981 · conf. 6134.713.340 · breakfast included for adults (children's breakfast extra). This new 2-night booking replaced the original 1-night Druid's Glen stay and the cancelled Court Yard, Leixlip.
 
-!!! warning "New booking — details pending"
-    This is a **new 2-night booking (Jul 20–22)** that replaces the original 1-night Druid's Glen stay *and* the now-cancelled Court Yard Hotel, Leixlip. The new **confirmation number and cost are still to be added** — see [Druid's Glen Resort](../logistics/druids-glen-resort.md).
-
-**Period covered:** Jul 20 evening (arrival from Belfast — the drive is covered at the end of [Leg 4](leg-4-belfast.md)), Jul 21 (golf + relax / Wicklow Mountains), and Jul 22 morning (checkout + one activity on the way to Dublin), which opens [Leg 6](leg-7-departure.md).
+**Period covered:** Jul 20 evening (arrival from Belfast — the drive is covered at the end of [Leg 4](leg-4-belfast.md)), Jul 21 (golf + relax / Wicklow Mountains), and Jul 22 morning (checkout + one activity on the way to Dublin), which opens [Leg 6](leg-6-departure.md).
 
 <style>
   #map-leg5 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -68,7 +65,7 @@ Belfast → Druid's Glen (Jul 20): ~210 km, ~2.5–3 h via A1 / M1 / M50 / N11 (
 
 **Jul 22 — checkout + one activity on the way to Dublin:**
 
-Checkout by 12:00, then pick **one** of these en route to Dublin (the drive to the airport hotel is in [Leg 6](leg-7-departure.md)):
+Checkout by 12:00, then pick **one** of these en route to Dublin (the drive to the airport hotel is in [Leg 6](leg-6-departure.md)):
 
 | Option | Notes |
 |--------|-------|
@@ -82,4 +79,4 @@ Checkout by 12:00, then pick **one** of these en route to Dublin (the drive to t
 
 - Lodging: [Druid's Glen Resort](../logistics/druids-glen-resort.md)
 - Place: [Glendalough](../places/glendalough.md)
-- Next: [Leg 6 — Departure](leg-7-departure.md)
+- Next: [Leg 6 — Departure](leg-6-departure.md)

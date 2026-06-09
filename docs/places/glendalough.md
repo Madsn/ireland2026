@@ -23,5 +23,5 @@ Early Christian monastic settlement founded by St Kevin in the 6th century, set 
 
 ## Connections
 
-- Itinerary: [Wicklow Leg](../itinerary/leg-6-wicklow.md)
+- Itinerary: [Wicklow Leg](../itinerary/leg-5-wicklow.md)
 - Hotel: [Druids Glen Resort](../logistics/druids-glen-resort.md)

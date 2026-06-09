@@ -30,4 +30,4 @@ Free until **July 20, 2026 11:59 PM** (property local time). From July 21: full 
 
 ## Connections
 
-- Itinerary: [Dublin Departure Leg](../itinerary/leg-7-departure.md)
+- Itinerary: [Dublin Departure Leg](../itinerary/leg-6-departure.md)

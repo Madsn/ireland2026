@@ -2,7 +2,7 @@
 
 3-night Belfast base at [Hampton by Hilton Belfast City Centre](../logistics/hampton-by-hilton-belfast.md) · £1,167.88 (2 rooms) · breakfast included ✅. Check-in from 15:00 on Jul 17; checkout by 11:00 on Jul 20.
 
-**Period covered:** Jul 17 afternoon/evening (arrival from Drogheda — transit covered in [Leg 3](leg-3-northern-ireland.md)), Jul 18–19 (two full Belfast days), Jul 20 (checkout, W5 in the morning, then drive south to Druid's Glen) opens [Leg 5](leg-6-wicklow.md).
+**Period covered:** Jul 17 afternoon/evening (arrival from Drogheda — transit covered in [Leg 3](leg-3-northern-ireland.md)), Jul 18–19 (two full Belfast days), Jul 20 (checkout, W5 in the morning, then drive south to Druid's Glen) opens [Leg 5](leg-5-wicklow.md).
 
 <style>
   #map-leg4 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -103,7 +103,7 @@ Evening: Cathedral Quarter or Titanic Quarter dinner.
 | By 11:00 | Checkout Hampton by Hilton (store luggage at the hotel) |
 | ~10:30–14:30 | [W5 Science Centre](../activities.md#w5) — Odyssey complex, beside the Titanic Quarter; best Belfast attraction for kids 5–12 |
 | ~15:00 | Collect luggage and **drive south to [Druid's Glen Resort](../logistics/druids-glen-resort.md), Co. Wicklow** (~2.5–3 h; optional lunch / leg-stretch at [Carlingford](../activities.md#carlingford) just south of the border) |
-| Evening | Arrive Druid's Glen → [Leg 5](leg-6-wicklow.md) |
+| Evening | Arrive Druid's Glen → [Leg 5](leg-5-wicklow.md) |
 
 ## Driving Notes
 
