@@ -1,6 +1,6 @@
 # Ireland Trip 2026
 
-Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13–23, 2026 (10 nights). All 7 legs booked. Original Donegal leg replaced with Leixlip/Emerald Park stop.
+Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13–23, 2026 (10 nights). 6 legs, all booked. The Leixlip / Emerald Park stop was dropped — Druid's Glen is now a 2-night stay (Jul 20–22).
 
 <style>
   #map-overview { height: 520px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -15,9 +15,8 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
     { ll: [53.34797, -6.28098], popup: '<b>Leg 1 — Hendrick Smithfield, Dublin</b><br>Jul 13–16 · 3 nights' },
     { ll: [53.71770, -6.34826], popup: '<b>Leg 2 — Scholars Townhouse, Drogheda</b><br>Jul 16–17 · 1 night' },
     { ll: [54.59350, -5.93540], popup: '<b>Leg 4 — Hampton by Hilton, Belfast City Centre</b><br>Jul 17–20 · 3 nights · breakfast included' },
-    { ll: [53.36370, -6.48400], popup: '<b>Leg 5 — Court Yard Hotel, Leixlip</b><br>Jul 20–21 · 1 night' },
-    { ll: [53.07260, -6.10610], popup: '<b>Leg 6 — Druids Glen Resort, Wicklow</b><br>Jul 21–22 · 1 night' },
-    { ll: [53.42700, -6.23990], popup: '<b>Leg 7 — Premier Inn Dublin Airport</b><br>Jul 22–23 · 1 night' },
+    { ll: [53.07260, -6.10610], popup: '<b>Leg 5 — Druids Glen Resort, Wicklow</b><br>Jul 20–22 · 2 nights' },
+    { ll: [53.42700, -6.23990], popup: '<b>Leg 6 — Premier Inn Dublin Airport</b><br>Jul 22–23 · 1 night' },
   ];
 
   // Planned activities ✅
@@ -45,11 +44,9 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
     { ll: [54.5977, -5.9293], popup: '<b>Belfast Cathedral (St Anne\'s)</b> · Leg 4' },
     { ll: [54.5971, -5.9735], popup: '<b>Belfast Castle</b> · Leg 4' },
     { ll: [54.7154, -5.8066], popup: '<b>Carrickfergus Castle</b> · Leg 4' },
-    // Leg 5 — Leixlip
-    { ll: [53.5178, -6.5720], popup: '<b>Emerald Park, Ashbourne</b> · Leg 5 · ⭐ book on Jul 20 for 20% off' },
-    // Leg 6 — Wicklow
-    { ll: [53.0114, -6.3278], popup: '<b>Glendalough</b> · Leg 6' },
-    { ll: [53.1246, -6.2964], popup: '<b>Wicklow Mountains National Park</b> · Leg 6' },
+    // Leg 5 — Wicklow / Druid's Glen
+    { ll: [53.0114, -6.3278], popup: '<b>Glendalough</b> · Leg 5' },
+    { ll: [53.1246, -6.2964], popup: '<b>Wicklow Mountains National Park</b> · Leg 5' },
   ];
 
   // Plan B / alternative activities 🔄
@@ -64,7 +61,7 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
     // Leg 2
     { ll: [53.7176, -6.3456], popup: '<b>Funtasia Drogheda</b> · Leg 2 · Plan B' },
     { ll: [53.6894, -6.3745], popup: '<b>Battle of the Boyne (Oldbridge)</b> · Leg 2 · Plan B' },
-    { ll: [54.0297, -6.1885], popup: '<b>Carlingford</b> · Leg 2/5 · Plan B · lunch stop' },
+    { ll: [54.0297, -6.1885], popup: '<b>Carlingford</b> · Leg 2/4 · Plan B · lunch stop' },
     { ll: [53.9784, -6.7253], popup: '<b>Carrickmacross Workhouse</b> · Leg 2 · Plan B · ~30 min detour' },
     { ll: [53.6710, -6.2380], popup: '<b>Laytown / Bettystown Beach</b> · Leg 2 · Plan B' },
     // Leg 3
@@ -80,19 +77,13 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
     { ll: [54.3760, -5.5440], popup: '<b>Exploris Aquarium (Portaferry)</b> · Leg 4 · Plan B' },
     { ll: [54.5108, -5.5511], popup: '<b>Mount Stewart (National Trust)</b> · Leg 4 · Plan B' },
     { ll: [54.6217, -5.9624], popup: '<b>Cave Hill Country Park</b> · Leg 4 · Plan B' },
-    // Leg 5
-    { ll: [53.3645, -6.4896], popup: '<b>St Catherine\'s Park, Leixlip</b> · Leg 5 · Plan B · beside hotel' },
-    { ll: [53.3591, -6.4434], popup: '<b>Fort Lucan Adventureland</b> · Leg 5 · Plan B' },
-    { ll: [53.3863, -6.5892], popup: '<b>Clonfert Pet Farm, Maynooth</b> · Leg 5 · Plan B' },
-    { ll: [53.3017, -6.7559], popup: '<b>Kildare Maze (Prosperous)</b> · Leg 5 · Plan B' },
-    { ll: [53.3513, -6.3105], popup: '<b>Dublin Zoo & Phoenix Park</b> · Leg 5 · Plan B' },
-    // Leg 6
-    { ll: [53.1701, -6.1933], popup: '<b>Powerscourt Estate & Gardens</b> · Leg 6 · Plan B' },
-    { ll: [52.8607, -6.2017], popup: '<b>Avoca Handweavers</b> · Leg 6 · Plan B' },
-    { ll: [52.8617, -6.1962], popup: '<b>Vale of Avoca — Meeting of the Waters</b> · Leg 6 · Plan B' },
-    { ll: [52.9811, -6.0452], popup: '<b>Wicklow Gaol</b> · Leg 6 · Plan B' },
-    { ll: [53.1976, -6.0966], popup: '<b>Bray Seafront & Cliff Walk</b> · Leg 6 · Plan B' },
-    { ll: [53.1695, -6.1920], popup: '<b>Powerscourt Distillery</b> · Leg 6 · Plan B' },
+    // Leg 5 — Wicklow / Druid's Glen (Jul 22 activity options)
+    { ll: [53.1701, -6.1933], popup: '<b>Powerscourt Estate & Gardens</b> · Leg 5 · option' },
+    { ll: [53.1976, -6.0966], popup: '<b>Bray Seafront & Cliff Walk / SEA LIFE</b> · Leg 5 · option' },
+    { ll: [52.9789, -6.0340], popup: '<b>Black Castle, Wicklow</b> · Leg 5 · option' },
+    { ll: [52.8607, -6.2017], popup: '<b>Avoca Handweavers</b> · Leg 5 · Plan B' },
+    { ll: [52.9811, -6.0452], popup: '<b>Wicklow Gaol</b> · Leg 5 · Plan B' },
+    { ll: [53.1695, -6.1920], popup: '<b>Powerscourt Distillery</b> · Leg 5 · Plan B' },
   ];
 
   var allPts = hotels.map(function (h) { return h.ll; })
@@ -142,12 +133,11 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 
 ## Key Findings
 
-- All 7 accommodation legs confirmed and booked.
-- **Critical pre-bookings still needed:** Brú na Bóinne/Newgrange, GoT Studio Tour, Titanic Belfast, Guinness Storehouse.
-- **Book Emerald Park on July 20** for July 21 visit — 20% early-booking discount.
+- 6 accommodation legs, all booked. Druid's Glen is a **new 2-night booking** (Jul 20–22) — confirmation # and cost still pending.
+- **Still to book:** Brú na Bóinne/Newgrange · Guinness Storehouse (~€132, Jenna) · EPIC (~€94 family tickets) · Dublinia (when July opens). ✅ Booked: GoT Studio Tour, Titanic Belfast, Butlers Chocolate.
 - Early checkout alert: Hampton by Hilton checkout by 11:00 on Jul 20.
 - Breakfast included at all hotels **except Scholars Townhouse, Drogheda** (Leg 2).
-- Accommodation total: approx. **€4,800** (GBP converted at ~1.18).
+- Accommodation total: **TBC** pending the new Druid's Glen cost.
 
 ## Trip at a Glance
 
@@ -156,9 +146,8 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 | 1 | Jul 13–16 | Dublin | [Hendrick Smithfield](logistics/hendrick-smithfield.md) | ✅ | €1,634.38 |
 | 2 | Jul 16–17 | Drogheda | [Scholars Townhouse](logistics/scholars-townhouse-hotel.md) | — | €498.00 |
 | 3/4 | Jul 17–20 | Belfast | [Hampton by Hilton Belfast](logistics/hampton-by-hilton-belfast.md) | ✅ | £1,167.88 (2 rooms) |
-| 5 | Jul 20–21 | Leixlip | [Court Yard Hotel](logistics/courtyard-leixlip.md) | ✅ | €388.80 |
-| 6 | Jul 21–22 | Wicklow | [Druids Glen Resort](logistics/druids-glen-resort.md) | ✅ | €454.50 |
-| 7 | Jul 22–23 | Dublin Airport | [Premier Inn](logistics/premier-inn-dublin-airport.md) | ✅ | €445.80 |
+| 5 | Jul 20–22 | Wicklow | [Druids Glen Resort](logistics/druids-glen-resort.md) | ✅ | ⚠️ pending |
+| 6 | Jul 22–23 | Dublin Airport | [Premier Inn](logistics/premier-inn-dublin-airport.md) | ✅ | €445.80 |
 
 ## Flights
 
@@ -171,8 +160,8 @@ Two families (Madsen + Wilhelmsen) traveling together through Ireland, July 13�
 
 ## Action Items
 
-- [ ] **Book Emerald Park tickets** on July 20 for July 21 (20% off)
-- [ ] Pre-book: Brú na Bóinne/Newgrange · GoT Studio Tour · Titanic Belfast · Guinness Storehouse
-- [ ] Book Hugo's Restaurant at Druids Glen directly with hotel
+- [ ] Add the new Druid's Glen (Jul 20–22) confirmation # and cost
+- [ ] Pre-book: Brú na Bóinne/Newgrange · Guinness Storehouse (~€132, Jenna) · EPIC (~€94) · Dublinia (when July opens)
+- [ ] Book Hugo's Restaurant at Druids Glen directly with the hotel
 
 **Shared map:** https://maps.app.goo.gl/GKdBy42FMzYMUj9b8

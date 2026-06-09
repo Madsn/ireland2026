@@ -1,32 +1,33 @@
-# Leg 6 — Wicklow (Jul 21–22)
+# Leg 5 — Wicklow / Druid's Glen (Jul 20–22)
 
-1-night at [Druids Glen Resort](../logistics/druids-glen-resort.md) · €454.50 · breakfast included (adults; children €12.50 extra).
+2-night base at [Druid's Glen Resort](../logistics/druids-glen-resort.md), Co. Wicklow (Jul 20–22). Breakfast included for adults; children's breakfast is extra.
 
-**Period covered:** Jul 21 evening (arrival from Emerald Park). Jul 22 morning (checkout, Glendalough, drive to Premier Inn) opens [Leg 7](leg-7-departure.md).
+!!! warning "New booking — details pending"
+    This is a **new 2-night booking (Jul 20–22)** that replaces the original 1-night Druid's Glen stay *and* the now-cancelled Court Yard Hotel, Leixlip. The new **confirmation number and cost are still to be added** — see [Druid's Glen Resort](../logistics/druids-glen-resort.md).
+
+**Period covered:** Jul 20 evening (arrival from Belfast — the drive is covered at the end of [Leg 4](leg-4-belfast.md)), Jul 21 (golf + relax / Wicklow Mountains), and Jul 22 morning (checkout + one activity on the way to Dublin), which opens [Leg 6](leg-7-departure.md).
 
 <style>
-  #map-leg6 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
-  #map-leg6 .leaflet-routing-container { display: none !important; }
+  #map-leg5 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
 </style>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-<div id="map-leg6"></div>
+<div id="map-leg5"></div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet-routing-machine@3.2.12/dist/leaflet-routing-machine.min.js"></script>
 <script>
 (function () {
-  var route = [
-    { ll: [53.36370, -6.48400], name: 'Leixlip (Court Yard Hotel)',   popup: '<b>Court Yard Hotel, Leixlip</b><br>Check-out Jul 21' },
-    { ll: [53.07260, -6.10610], name: 'Wicklow (Druids Glen Resort)', popup: '<b>Druids Glen Resort</b><br>Check-in Jul 21 from 16:00' },
-  ];
+  var hotel = { ll: [53.07260, -6.10610], popup: '<b>Druid\'s Glen Resort</b><br>Base · Jul 20–22 · 2 nights' };
   var pois = [
-    { ll: [53.51780, -6.57200], popup: '<b>Emerald Park, Ashbourne</b><br>Jul 21 — full day until close ~17:30 · drive direct to Druids Glen' },
-    { ll: [53.01140, -6.32780], popup: '<b>Glendalough</b><br>Jul 22 morning — monastic site + Upper Lake trail · 2–3 h · free to walk' },
+    { ll: [53.01140, -6.32780], popup: '<b>Glendalough</b><br>Wicklow Mountains NP · monastic site + Upper Lake trail' },
+    { ll: [53.12460, -6.29640], popup: '<b>Wicklow Mountains National Park</b>' },
+    { ll: [53.18460, -6.19000], popup: '<b>Powerscourt House & Gardens</b><br>+ Powerscourt Waterfall nearby' },
+    { ll: [53.20260, -6.10110], popup: '<b>Bray</b><br>Seafront, cliff walk, SEA LIFE aquarium' },
+    { ll: [52.97890, -6.03400], popup: '<b>Black Castle, Wicklow</b><br>Coastal ruined castle · free' },
   ];
 
-  var allPts = route.map(function (r) { return r.ll; }).concat(pois.map(function (p) { return p.ll; }));
+  var allPts = [hotel.ll].concat(pois.map(function (p) { return p.ll; }));
   var bounds = L.latLngBounds(allPts.map(function (ll) { return L.latLng(ll[0], ll[1]); }));
 
-  var map = L.map('map-leg6', { scrollWheelZoom: false });
+  var map = L.map('map-leg5', { scrollWheelZoom: false });
   map.fitBounds(bounds, { padding: [40, 40] });
 
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -34,18 +35,7 @@
     maxZoom: 19
   }).addTo(map);
 
-  L.Routing.control({
-    waypoints: route.map(function (s) { return L.latLng(s.ll[0], s.ll[1]); }),
-    routeWhileDragging: false,
-    addWaypoints: false,
-    draggableWaypoints: false,
-    fitSelectedRoutes: false,
-    show: false,
-    lineOptions: { styles: [{ color: '#2e7d32', weight: 5, opacity: 0.85 }] },
-    createMarker: function (i, wp) {
-      return L.marker(wp.latLng, { title: route[i].name }).bindPopup(route[i].popup);
-    }
-  }).addTo(map);
+  L.marker(hotel.ll).bindPopup(hotel.popup).addTo(map);
 
   pois.forEach(function (p) {
     L.circleMarker(p.ll, {
@@ -57,24 +47,39 @@
 
 ## Route
 
-```
-Emerald Park (Ashbourne, close ~17:30) → direct drive → Druids Glen Resort (~50 min)
-```
+Belfast → Druid's Glen (Jul 20): ~210 km, ~2.5–3 h via A1 / M1 / M50 / N11 (optional [Carlingford](../activities.md#carlingford) break just south of the border). The Jul 20 drive itself is in [Leg 4](leg-4-belfast.md).
 
 ## Day Plan
 
-**Jul 21 — arrival from Emerald Park (see [Leg 5](leg-5-leixlip.md)):**
+**Jul 20 — arrival from Belfast (drive covered in [Leg 4](leg-4-belfast.md)):**
 
 | Time | Action |
 |------|--------|
-| ~18:30 | Arrive Druids Glen Resort (from Emerald Park, ~50 min drive) |
-| Evening | Dinner at **Hugo's Restaurant** — book directly with the resort in advance |
+| ~18:00 | Arrive Druid's Glen Resort, check in, settle |
+| Evening | Dinner — **Hugo's Restaurant** at the resort (book directly with the resort). *Tentative: we may do Hugo's tonight instead of Jul 21.* |
 
-**Jul 22:** Breakfast → checkout → Glendalough → Premier Inn. See [Leg 7](leg-7-departure.md).
+**Jul 21 — Druid's Glen day:**
 
-## Activities
+| Time | Action |
+|------|--------|
+| Morning | **Andy & Mikkel: golf** at Druid's Glen |
+| Daytime | Everyone else: [Wicklow Mountains National Park](../activities.md#wicklow-mountains-national-park) / [Glendalough](../places/glendalough.md) (~20 min), **or** just relax at the resort (pool, spa, grounds) |
+| Evening | **Hugo's Restaurant** dinner (if not done Jul 20) — book directly with the resort |
 
-| Activity | Notes |
-|----------|-------|
-| [Glendalough](../activities.md#glendalough) | Visited Jul 22 morning — see [Leg 7](leg-7-departure.md) for the day plan |
-| [Wicklow Mountains National Park](../activities.md#wicklow-mountains-national-park) | The drive from Druids Glen to Glendalough passes through the national park |
+**Jul 22 — checkout + one activity on the way to Dublin:**
+
+Checkout by 12:00, then pick **one** of these en route to Dublin (the drive to the airport hotel is in [Leg 6](leg-7-departure.md)):
+
+| Option | Notes |
+|--------|-------|
+| [Wicklow Mountains NP / Glendalough](../places/glendalough.md) | Monastic site + Upper Lake trail; free to walk, parking fee |
+| Powerscourt House & Gardens | One of Ireland's great gardens; Powerscourt Waterfall nearby |
+| Bray | Seafront + cliff walk, or the SEA LIFE aquarium |
+| Zipit Forest Adventures | High-ropes course — if Marius & Martin are feeling brave |
+| Black Castle, Wicklow | Coastal ruined castle, free, quick stop |
+
+## Connections
+
+- Lodging: [Druid's Glen Resort](../logistics/druids-glen-resort.md)
+- Place: [Glendalough](../places/glendalough.md)
+- Next: [Leg 6 — Departure](leg-7-departure.md)

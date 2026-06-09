@@ -1,6 +1,9 @@
 # Emerald Park
 
-Theme park and zoo in Ashbourne, Co. Meath (formerly known as Tayto Park). Rollercoasters, rides, and a zoo — Ireland's largest theme park. An entire leg is built around visiting this.
+Theme park and zoo in Ashbourne, Co. Meath (formerly known as Tayto Park). Rollercoasters, rides, and a zoo — Ireland's largest theme park.
+
+!!! warning "No longer in the itinerary"
+    The Leixlip / Emerald Park stop was **dropped** — the Court Yard, Leixlip booking was cancelled and Druid's Glen extended to Jul 20–22. This page is kept as a possible day-trip option near Dublin if plans change.
 
 ## Key Facts
 
@@ -27,5 +30,4 @@ Theme park and zoo in Ashbourne, Co. Meath (formerly known as Tayto Park). Rolle
 
 ## Connections
 
-- Itinerary: [Leixlip / Emerald Park Leg](../itinerary/leg-5-leixlip.md)
-- Hotel: [Court Yard Hotel, Leixlip](../logistics/courtyard-leixlip.md)
+- Itinerary: no longer scheduled (Leixlip stop dropped) — see [Leg 5 — Wicklow / Druid's Glen](../itinerary/leg-6-wicklow.md)

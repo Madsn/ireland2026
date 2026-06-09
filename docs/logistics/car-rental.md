@@ -49,4 +49,4 @@ Wilhelmsen will have a separate rental car. Booking confirmation not yet availab
 ## Connections
 
 - Itinerary: [Leg 1 — Dublin](../itinerary/leg-1-dublin.md)
-- Itinerary: [Leg 7 — Departure](../itinerary/leg-7-departure.md)
+- Itinerary: [Leg 6 — Departure](../itinerary/leg-7-departure.md)

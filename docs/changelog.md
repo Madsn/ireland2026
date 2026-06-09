@@ -4,6 +4,26 @@ Modifications made to the itinerary across planning sessions, most recent first.
 
 ---
 
+## 2026-06-10
+
+### Major rework — drop Leixlip/Emerald Park, extend Druid's Glen; lock in activity bookings
+
+**Structural:**
+- **Cancelled** Court Yard Hotel, Leixlip (Jul 20–21) and the original 1-night Druid's Glen (Jul 21–22). **Druid's Glen is now a 2-night stay, Jul 20–22** (new booking — confirmation # and cost still to be added).
+- The Leixlip / Emerald Park stop is dropped; Belfast (Jul 20) now drives straight to Druid's Glen. Legs renumbered: old Leg 6 (Wicklow) → **Leg 5**, old Leg 7 (Departure) → **Leg 6**. Deleted `leg-5-leixlip.md` and `courtyard-leixlip.md`.
+
+**Dublin (Leg 1):** Jul 14 = EPIC (AM — €47 family ticket, to book) + Guinness (PM — ~€132, Jenna to book). Jul 15 = Dublinia (AM — July bookings not open yet) + Butlers Chocolate Experience (15:30 — ✅ booked, €108).
+
+**Bookings locked in (with Drive links):** GoT Studio Tour (Jul 17 10:40 shuttle — collect tickets ≥10 min before; parking + shuttle incl.; no audio guides), Titanic Belfast (Jul 18 09:40 + 6 multimedia guides), Butlers Chocolate Experience (Jul 15 15:30).
+
+**Belfast (Leg 4):** Jul 18 = Titanic. Jul 19 = open day (Giant's Causeway / castles / museums — no booking). Jul 20 = W5 in the morning, then drive south to Druid's Glen.
+
+**Wicklow / Druid's Glen (Leg 5, new):** Jul 20 arrive; Jul 21 golf (Andy & Mikkel) + Wicklow NP / relax + Hugo's; Jul 22 checkout + one activity en route to Dublin (Glendalough/NP, Powerscourt, Bray, Zipit, Black Castle).
+
+**Still pending:** new Druid's Glen (Jul 20–22) confirmation # and cost.
+
+---
+
 ## 2026-06-02
 
 ### Hotel swap — Gelilah House + Ormeau Park → Hampton by Hilton Belfast City Centre

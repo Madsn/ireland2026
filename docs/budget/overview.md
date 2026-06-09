@@ -9,17 +9,16 @@ Budget tracker for the Ireland 2026 trip. Accommodation costs are confirmed; oth
 | Hendrick Smithfield | 3 | €1,634.38 | EUR |
 | Scholars Townhouse | 1 | €498.00 | EUR |
 | Hampton by Hilton Belfast (2 rooms) | 3 | £1,167.88 | GBP |
-| Court Yard Hotel, Leixlip | 1 | €388.80 | EUR |
-| Druids Glen Resort | 1 | €454.50 | EUR |
+| Druids Glen Resort | 2 | ⚠️ pending | EUR |
 | Premier Inn Dublin Airport | 1 | €445.80 | EUR |
-| **Total (EUR)** | 10 | **~€4,800** | at GBP/EUR ~1.18 |
+| **Total (EUR)** | 10 | **TBC** (new Druid's Glen 2-night cost pending) | at GBP/EUR ~1.18 |
 
 ## All Categories
 
 | Category | Estimate (low) | Estimate (high) | Booked | Actual |
 |----------|---------------|-----------------|--------|--------|
 | Flights | | | | |
-| Accommodation | | | €4,800 | |
+| Accommodation | | | TBC* | |
 | Car rental | | | | |
 | Food & drink | | | | |
 | Activities & entry fees | | | | |
@@ -36,4 +35,6 @@ Budget tracker for the Ireland 2026 trip. Accommodation costs are confirmed; oth
 ## Notes
 
 - Breakfast included at all hotels except Scholars Townhouse, Drogheda (Leg 2) — budget one breakfast there
-- Activities requiring pre-booking: Brú na Bóinne, GoT Studio Tour (£64/family), Titanic Belfast, Guinness Storehouse, Emerald Park
+- \*Accommodation total is pending the new Druid's Glen 2-night cost (replaces the cancelled 1-night Druid's Glen €454.50 + Court Yard €388.80)
+- Activities still to book: Brú na Bóinne/Newgrange, Guinness Storehouse (~€132), EPIC (~€94 family tickets), Dublinia (when July opens)
+- Already booked: GoT Studio Tour, Titanic Belfast (+ multimedia guides), Butlers Chocolate Experience (€108)

@@ -2,7 +2,7 @@
 
 3-night Belfast base at [Hampton by Hilton Belfast City Centre](../logistics/hampton-by-hilton-belfast.md) · £1,167.88 (2 rooms) · breakfast included ✅. Check-in from 15:00 on Jul 17; checkout by 11:00 on Jul 20.
 
-**Period covered:** Jul 17 afternoon/evening (arrival from Drogheda — transit covered in [Leg 3](leg-3-northern-ireland.md)), Jul 18–19 (two full Belfast days), Jul 20 morning checkout + drive to Leixlip opens [Leg 5](leg-5-leixlip.md).
+**Period covered:** Jul 17 afternoon/evening (arrival from Drogheda — transit covered in [Leg 3](leg-3-northern-ireland.md)), Jul 18–19 (two full Belfast days), Jul 20 (checkout, W5 in the morning, then drive south to Druid's Glen) opens [Leg 5](leg-6-wicklow.md).
 
 <style>
   #map-leg4 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -24,6 +24,7 @@
     { ll: [54.60140, -5.92890], popup: '<b>Belfast Cathedral (St Anne\'s)</b><br>City centre' },
     { ll: [54.62600, -5.96300], popup: '<b>Belfast Castle</b><br>Cave Hill · views over city' },
     { ll: [54.71550, -5.80760], popup: '<b>Carrickfergus Castle</b><br>~20 min north · well-preserved Norman castle' },
+    { ll: [55.24080, -6.51160], popup: '<b>Giant\'s Causeway</b><br>Jul 19 option · Causeway Coast · ~1 h each way' },
     { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · visited Jul 17 en route from Drogheda' },
   ];
 
@@ -52,15 +53,15 @@
 
 | Activity | Notes |
 |----------|-------|
-| [Titanic Belfast](../activities.md#titanic-belfast) | ⭐ Major attraction — **pre-book**, sells out in summer |
-| [SS Nomadic](../activities.md#ss-nomadic) | Titanic's tender ship, adjacent to Titanic Belfast |
-| [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) | Banbridge, ~40 min drive — ⭐ **pre-book**, £64/family |
-| [Ulster Museum](../activities.md#ulster-museum) | Free entry |
-| [Ulster Folk Museum](../activities.md#ulster-folk-museum) | Open-air museum, ~20 min from city |
-| [W5](../activities.md#w5) | Science centre — great for kids |
-| [Belfast Cathedral (St Anne's)](../activities.md#belfast-cathedral-st-annes) | City centre |
-| [Belfast Castle](../activities.md#belfast-castle) | Cave Hill, views over city |
-| [Carrickfergus Castle](../activities.md#carrickfergus-castle) | ~20 min north — well-preserved Norman castle |
+| [Titanic Belfast](../activities.md#titanic-belfast) + [SS Nomadic](../activities.md#ss-nomadic) | ✅ **booked Jul 18 09:40** (4 adults + 2 children, + 6 multimedia guides) |
+| [W5](../activities.md#w5) | Science centre — **Jul 20 morning**; great for kids 5–12 |
+| [Giant's Causeway](https://maps.google.com/?q=Giant%27s+Causeway) | Jul 19 option — Causeway Coast day trip (~1 h each way); stones free |
+| [Belfast Black Cab Tour](../activities.md#belfast-black-cab-tour) | Jul 18 afternoon option — political murals, ~1.5 h |
+| [Ulster Museum](../activities.md#ulster-museum) | Free entry — Jul 18/19 option |
+| [Ulster Folk Museum](../activities.md#ulster-folk-museum) | Open-air museum, ~15 min from city — Jul 19 option |
+| [Belfast Cathedral (St Anne's)](../activities.md#belfast-cathedral-st-annes) | City centre — Jul 19 option |
+| [Belfast Castle](../activities.md#belfast-castle) | Cave Hill, views over city — Jul 19 option |
+| [Carrickfergus Castle](../activities.md#carrickfergus-castle) | ~20 min north — well-preserved Norman castle — Jul 19 option |
 
 ## Day Plan
 
@@ -73,25 +74,36 @@
 | 15:00+ | Official check-in |
 | Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants-belfast) |
 
-**Jul 18 — full Belfast day:**
+**Jul 18 — Titanic Belfast:**
 
 | Time | Action |
 |------|--------|
-| ~09:00–10:30 | [Belfast Black Cab Tour](../activities.md#belfast-black-cab-tour) — political murals on Falls Rd and Shankill Rd (~1.5 h, £35–50/cab). Highly recommended for adults and older kids (12+). |
-| ~10:30–13:00 | [Ulster Folk Museum](../activities.md#ulster-folk-museum) — open-air museum in Cultra, half day |
-| ~14:00–17:00 | [W5 Science Centre](../activities.md#w5) — Odyssey complex, beside Titanic Quarter; best Belfast family attraction for kids 5–12 |
-| Evening | **Cathedral Quarter** for dinner — The Duke of York, The Dirty Onion, or [Mourne Seafood Bar](../activities.md#restaurants-belfast). Trad sessions from ~9 pm. |
+| 09:40 | **[Titanic Belfast](../activities.md#titanic-belfast) ✅ booked** (4 adults + 2 children, ref WPMATHZG) + [SS Nomadic](../activities.md#ss-nomadic). **Multimedia guides booked (6).** Allow 3–4 h. 📎 [Booking confirmation](https://drive.google.com/file/d/1NiEtquiNvUekIC0fgT2cI0GF4IZHiB0a/view) |
+| ~13:30 | Lunch in the Titanic Quarter |
+| Afternoon | [Belfast Black Cab Tour](../activities.md#belfast-black-cab-tour) (political murals, ~1.5 h) **or** [Ulster Museum](../activities.md#ulster-museum) (free) / Cathedral Quarter walk. *(W5 is saved for Jul 20 — it's right next door to Titanic but we're not doing both the same day.)* |
+| Evening | **Cathedral Quarter** dinner — The Duke of York, The Dirty Onion, or [Mourne Seafood Bar](../activities.md#restaurants-belfast). Trad sessions from ~9 pm. |
 
-**Jul 19 — full Belfast day:**
+**Jul 19 — open day (pick from these — none need advance booking):**
+
+| Option | Notes |
+|--------|-------|
+| **Giant's Causeway day trip** | The big day out — ~1 h each way along the Causeway Coast. Stones free; visitor centre + parking paid. Allow a full day |
+| [Carrickfergus Castle](../activities.md#carrickfergus-castle) | ~20 min north — well-preserved Norman castle |
+| [Ulster Folk Museum](../activities.md#ulster-folk-museum) | Open-air living-history museum, Cultra (~15 min) |
+| [Ulster Museum](../activities.md#ulster-museum) | Free; Botanic Gardens right beside it |
+| [Belfast Castle](../activities.md#belfast-castle) | Cave Hill — views over the city |
+| [Belfast Cathedral (St Anne's)](../activities.md#belfast-cathedral-st-annes) | City centre |
+
+Evening: Cathedral Quarter or Titanic Quarter dinner.
+
+**Jul 20 — W5, then drive south to Druid's Glen:**
 
 | Time | Action |
 |------|--------|
-| ~09:00–10:30 | [Belfast Black Cab Tour](../activities.md#belfast-black-cab-tour) (if not done Jul 18) — or drive north 20 min to [Carrickfergus Castle](../activities.md#carrickfergus-castle) |
-| ~10:30–14:00 | [Titanic Belfast](../activities.md#titanic-belfast) + [SS Nomadic](../activities.md#ss-nomadic) — pre-booked, allow 3–4 h |
-| ~14:00–17:00 | [W5 Science Centre](../activities.md#w5) (if not done Jul 18) or [Ulster Museum](../activities.md#ulster-museum) |
-| Evening | Cathedral Quarter or Titanic Quarter dinner |
-
-**Jul 20:** Checkout by 11:00 → Carlingford lunch → drive to Leixlip. See [Leg 5](leg-5-leixlip.md).
+| By 11:00 | Checkout Hampton by Hilton (store luggage at the hotel) |
+| ~10:30–14:30 | [W5 Science Centre](../activities.md#w5) — Odyssey complex, beside the Titanic Quarter; best Belfast attraction for kids 5–12 |
+| ~15:00 | Collect luggage and **drive south to [Druid's Glen Resort](../logistics/druids-glen-resort.md), Co. Wicklow** (~2.5–3 h; optional lunch / leg-stretch at [Carlingford](../activities.md#carlingford) just south of the border) |
+| Evening | Arrive Druid's Glen → [Leg 5](leg-6-wicklow.md) |
 
 ## Driving Notes
 
@@ -101,6 +113,7 @@ Ulster Folk Museum (Cultra): ~15 min east.
 
 ## Open Questions
 
-- **Titanic Belfast:** pre-book — summer peak season, sells out. Include SS Nomadic in the same booking.
-- **Black Cab Tour:** book in advance via a local operator (e.g. Original Belfast Black Cab Tours).
+- **Titanic Belfast:** ✅ booked Jul 18 09:40 (incl. SS Nomadic + 6 multimedia guides) — no action.
+- **Giant's Causeway (Jul 19 option):** the stones need no booking; book visitor-centre/parking on the day or skip.
+- **Black Cab Tour (Jul 18 afternoon option):** book in advance via a local operator (e.g. Original Belfast Black Cab Tours).
 - **Cathedral Quarter dinner (Jul 18 or 19):** The Duke of York and Mourne Seafood Bar both benefit from a reservation.

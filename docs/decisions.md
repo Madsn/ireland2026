@@ -119,9 +119,10 @@ These are already settled in the itinerary — just need the tickets purchased.
 
 | What | Date | Where to book | Notes |
 |------|------|---------------|-------|
-| Brú na Bóinne / Newgrange | Jul 17, 09:00 slot | [heritageireland.ie](https://heritageireland.ie/) | Book ASAP — summer sells out |
-| Guinness Storehouse | Jul 14, morning | [guinness-storehouse.com](https://www.guinness-storehouse.com/) | ~€30 adult / ~€18 child; non-refundable |
-| EPIC Irish Emigration Museum | Jul 15, ~10:00 | [epicchq.com](https://epicchq.com/) | Pre-book; busier than expected in summer |
-| Titanic Belfast + SS Nomadic | Jul 18 or 19 (TBD) | [titanicbelfast.com](https://www.titanicbelfast.com/) | ~£22 adult / ~£11 child; book together |
-| GoT Studio Tour | Jul 17 or 18 (TBD) | [gameofthronesstudiotour.com](https://gameofthronesstudiotour.com/) | £64/family; non-refundable |
-| Emerald Park | **Book Jul 20 evening** for Jul 21 | [emeraldpark.ie](https://www.emeraldpark.ie/) | 20% discount if booked the day before |
+| Brú na Bóinne / Newgrange | Jul 16 afternoon (~13:30) | [heritageireland.ie](https://heritageireland.ie/) | ⬅ **to book** — window opens Jun 16; summer sells out |
+| Guinness Storehouse | Jul 14 afternoon | [guinness-storehouse.com](https://www.guinness-storehouse.com/) | ⬅ **to book** (~€132) — Jenna |
+| EPIC Irish Emigration Museum | Jul 14, ~10:00 | [epicchq.com](https://epicchq.com/) | ⬅ **to book** — family ticket €47 (2 adults/1 child) |
+| Dublinia | Jul 15 morning | [dublinia.ie](https://www.dublinia.ie/) | ⬅ **to book** — July bookings not open as of Jun 7 |
+| Titanic Belfast + SS Nomadic | Jul 18, 09:40 | [titanicbelfast.com](https://www.titanicbelfast.com/) | ✅ **booked** (+ 6 multimedia guides) |
+| GoT Studio Tour | Jul 17, 10:40 shuttle | [gameofthronesstudiotour.com](https://gameofthronesstudiotour.com/) | ✅ **booked** |
+| Butlers Chocolate Experience | Jul 15, 15:30 | — | ✅ **booked** (€108) |

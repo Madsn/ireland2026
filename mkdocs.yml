@@ -25,9 +25,8 @@ nav:
     - 'Leg 2 — Drogheda (Jul 16–17)': itinerary/leg-2-drogheda.md
     - 'Leg 3 — Transit to Belfast (Jul 17)': itinerary/leg-3-northern-ireland.md
     - 'Leg 4 — Belfast (Jul 17–20)': itinerary/leg-4-belfast.md
-    - 'Leg 5 — Leixlip / Emerald Park (Jul 20–21)': itinerary/leg-5-leixlip.md
-    - 'Leg 6 — Wicklow (Jul 21–22)': itinerary/leg-6-wicklow.md
-    - 'Leg 7 — Departure (Jul 22–23)': itinerary/leg-7-departure.md
+    - 'Leg 5 — Wicklow / Druids Glen (Jul 20–22)': itinerary/leg-6-wicklow.md
+    - 'Leg 6 — Departure (Jul 22–23)': itinerary/leg-7-departure.md
   - Logistics:
     - Flights: logistics/flights.md
     - 'Car Rental': logistics/car-rental.md
@@ -36,7 +35,6 @@ nav:
     - 'Hendrick Smithfield': logistics/hendrick-smithfield.md
     - 'Scholars Townhouse Hotel': logistics/scholars-townhouse-hotel.md
     - 'Hampton by Hilton Belfast': logistics/hampton-by-hilton-belfast.md
-    - 'Court Yard Hotel, Leixlip': logistics/courtyard-leixlip.md
     - 'Druids Glen Resort': logistics/druids-glen-resort.md
     - 'Premier Inn Dublin Airport': logistics/premier-inn-dublin-airport.md
   - Places:

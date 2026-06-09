@@ -1,8 +1,8 @@
-# Leg 7 — Departure (Jul 22–23)
+# Leg 6 — Departure (Jul 22–23)
 
 Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.md) · €445.80 · breakfast included. This is the last night together for both families.
 
-**Period covered:** Jul 22 (Druids Glen checkout, Glendalough, arrive Premier Inn, folk evening) and Jul 23 (departures).
+**Period covered:** Jul 22 (Druid's Glen checkout + one Wicklow activity en route — see [Leg 5](leg-6-wicklow.md), arrive Premier Inn, folk evening) and Jul 23 (departures).
 
 <style>
   #map-leg7 { height: 430px; margin: 1.5rem 0; border-radius: 8px; border: 1px solid #e0e0e0; }
@@ -48,16 +48,15 @@ Final leg. [Premier Inn Dublin Airport](../logistics/premier-inn-dublin-airport.
 
 ## Day Plan
 
-**Jul 22 — Glendalough morning + arrive Premier Inn:**
+**Jul 22 — Wicklow activity, then arrive Premier Inn:**
 
 | Time | Action |
 |------|--------|
-| ~08:00 | Breakfast at Druids Glen (children: €12.50 extra per child) |
-| ~10:00 | Checkout Druids Glen Resort |
-| ~10:20 | Arrive [Glendalough](../activities.md#glendalough) (~20 min drive from Druids Glen) |
-| ~10:20–12:30 | **Glendalough** — early Christian monastic site: Round Tower, cathedral ruins, St Kevin's Kitchen. Then the Upper Lake trail (~1 h loop) for mountain and lake views. Free to walk; parking fee applies. Allow 2–2.5 h. |
+| ~08:30 | Breakfast at Druid's Glen (children: €12.50 extra per child) |
+| ~10:00 | Checkout Druid's Glen (by 12:00) |
+| Late morning | **Chosen Jul 22 activity en route** — pick from the options in [Leg 5](leg-6-wicklow.md). If Glendalough: ~20 min from the resort, allow 2–2.5 h ([Glendalough](../activities.md#glendalough) — Round Tower, monastic ruins, Upper Lake trail; free to walk, parking fee) |
 | ~13:00 | Drive to Premier Inn Dublin Airport (~55 min via N11/M50) |
-| ~14:00 | Check in Premier Inn — **check-in is from 14:00, timing is near-perfect** |
+| ~14:00 | Check in Premier Inn — check-in from 14:00, near-perfect timing |
 | Afternoon | Settle in; last afternoon together |
 | Evening | **Traditional Irish music evening** — see below |
 

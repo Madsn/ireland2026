@@ -19,7 +19,7 @@ Transit day from Drogheda to Belfast via the [Game of Thrones Studio Tour](../ac
     { ll: [54.59350, -5.93540], name: 'Belfast (Hampton by Hilton)',         popup: '<b>Hampton by Hilton Belfast City Centre</b><br>Check-in Jul 17 · from 15:00' },
   ];
   var pois = [
-    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · confirmed stop Jul 17 · ⚠️ pre-book' },
+    { ll: [54.34780, -6.27820], popup: '<b>Game of Thrones Studio Tour</b><br>Banbridge · ✅ booked · 10:40 shuttle Jul 17' },
     { ll: [54.17640, -6.33940], popup: '<b>Bagenal Castle, Newry</b>' },
     { ll: [54.32700, -5.70090], popup: '<b>Downpatrick</b><br>Contingency · St Patrick\'s Cathedral · Down County Museum' },
   ];
@@ -70,12 +70,15 @@ Note: border crossing — no passport control but road changes to UK signs and m
 
 | Time | Action |
 |------|--------|
-| ~09:00 | Check out Scholars Townhouse, depart north |
-| ~10:15 | Arrive [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour), Banbridge (pre-booked, ~90 km from Drogheda) |
-| ~10:15–13:45 | GoT Studio Tour (allow 3–3.5 h) |
-| ~14:25 | Arrive Belfast — drop bags at Hampton by Hilton (check-in from 15:00, luggage storage available) |
+| ~08:45 | Check out Scholars Townhouse, depart north (~90 km, allow ~1 h 15 min incl. border) |
+| ~10:25 | Arrive the **ticket-collection / shuttle point** — collect tickets **at least 10 min before** the 10:40 shuttle ([meeting point](https://maps.app.goo.gl/Snw3qDm7aZpRP8fn6)) |
+| 10:40 | **Shuttle bus departs to the studio** (~10 min ride) — parking & shuttle are included in the booking |
+| ~10:55–14:00 | [Game of Thrones Studio Tour](../activities.md#game-of-thrones-studio-tour) — allow ~3 h (**no audio guides booked**) |
+| ~14:40 | Drive to Belfast (~35 km, ~40 min) — drop bags at Hampton by Hilton (check-in from 15:00, luggage storage available) |
 | 15:00 | Official check-in |
 | Evening | Dinner in Belfast — see [Belfast restaurants](../activities.md#restaurants-belfast) |
+
+📎 **GoT Studio Tour — ✅ booked** (4 adults + 2 children, ref AASVV3TZ): [Booking confirmation](https://drive.google.com/file/d/1BJAkxbUONqkFuemkohVUTXuiWoVfXZCA/view)
 
 ## Driving Notes
 
@@ -87,5 +90,5 @@ If GoT Studio Tour is unavailable, [Downpatrick](https://maps.google.com/?q=Down
 
 ## Open Questions
 
-- **GoT Studio Tour must be pre-booked** — £64/family. Book a morning slot (targeting ~10:00–10:15 arrival at Banbridge).
+- **GoT Studio Tour — ✅ booked.** 10:40 shuttle (the booked time is the *shuttle departure* time, not the tour start). Collect tickets at the [meeting point](https://maps.app.goo.gl/Snw3qDm7aZpRP8fn6) by ~10:25. Parking + shuttle included; no audio guides booked.
 - Currency is GBP in Northern Ireland — bring cards.
