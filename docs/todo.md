@@ -1,6 +1,6 @@
 # Todo
 
-Trip starts **Jul 13, 2026**. Most activities are now booked — this page tracks what's left to book, plus a couple of reference notes. Open *scheduling* choices live on the [Planning Decisions](decisions.md) page.
+Trip starts **Jul 13, 2026**. Most activities are now booked — this page tracks what's left to book, open choices still to decide, and a few reference notes.
 
 ---
 
@@ -53,6 +53,29 @@ July bookings weren't open as of Jun 7 — check and book when they open at [dub
 ### Optional
 
 - **Belfast Black Cab Tour** (Jul 18 afternoon) — ~£35–50/cab; book ahead only if you want it.
+
+---
+
+## Open choices (decide on the day or closer to the date)
+
+### Jul 19 — Belfast open day
+
+No advance booking needed for any of these:
+
+- Giant's Causeway day trip (~1 h 15 min each way)
+- Carrickfergus Castle
+- Ulster Folk Museum
+- Ulster Museum
+- Belfast Castle
+- Belfast Cathedral
+
+### Jul 22 — one activity en route back to Dublin
+
+- Wicklow NP / Glendalough
+- Powerscourt
+- Bray (seafront / SEA LIFE)
+- Zipit Forest Adventures
+- Black Castle (Wicklow town)
 
 ---
 
